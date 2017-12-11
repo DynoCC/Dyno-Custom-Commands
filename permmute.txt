@@ -1,0 +1,5 @@
+{silent}
+{delete}
+{!warn $1 **Permanently Muted** for $2+}
+{!role $1 +Muted}
+<:check:346404265188786188> ***$1 has been permanently muted.***

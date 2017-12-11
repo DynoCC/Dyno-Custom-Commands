@@ -1,0 +1,3 @@
+{delete}
+{respond:#staff}
+{user} has reported $1 for "$2+"

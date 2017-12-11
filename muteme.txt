@@ -1,0 +1,2 @@
+{delete}
+{!mute {user} 10 You asked for it.  Just one question.  Why?}

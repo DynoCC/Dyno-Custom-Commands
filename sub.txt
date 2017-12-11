@@ -1,0 +1,3 @@
+{silent}
+{!rank $1+}
+{user}, you have subscribed to `$1+`! Use the command again to unsubscribe!

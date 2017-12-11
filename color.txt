@@ -1,0 +1,8 @@
+{delete}
+{silent}
+{require:303305602824798218}
+{!rolecolor $1 random}
+{respond:#334768185020514317}
+**Donor command `!!color` was used!**
+**User whom used the command:** {user}
+**Channel used in:** {channel}

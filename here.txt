@@ -1,0 +1,4 @@
+{delete}
+{require:serverMod}
+@here
+{!announce {channel} $1+}
