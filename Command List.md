@@ -12,6 +12,7 @@
 `?callmods` Calls the moderators [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/callmods.txt)<br/>
 `?parse` rewrites a complex bug code into a simple message! Made for the DCC BugBot. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/parse.txt)<br/>
 `?website` sends a link to the DynoCC website [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/%3Fwebsite)
+`?permmute` Permanently mutes a user [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/permmute.txt)
 ## Fun :D
 `?blocked` You can't unblock the Wumpus. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/blocked.txt)<br/>
 `?pending` There are no pending friend requests. Here's a Wumpus for now. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/pending.txt)<br/>
