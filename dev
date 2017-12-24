@@ -1,5 +1,6 @@
 {delete}
 {silent}
 {require:serverMod}
+{respond:#channel}
 {!role $1 +Developer}
-{respond:#role_request} The user $1 has been given the {&Developer} role.
+The user $1 has been given the **Developer** role.
