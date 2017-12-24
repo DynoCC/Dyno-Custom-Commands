@@ -1,9 +1,5 @@
 {delete}
-
 {silent}
-
 {require:serverMod}
-
 {!role $1 +Developer}
-
 {respond:#role_request} The user $1 has been given the {&Developer} role.
