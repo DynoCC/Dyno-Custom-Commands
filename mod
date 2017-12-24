@@ -1,5 +1,6 @@
 {delete}
 {silent}
-{require:serverMod}
+{require:Administrator}
+{respond:#channel}
 {!role $1 +Moderator}
-{respond:#channel} The user $1 has been given the {&Moderator} role.
+The user $1 has been given the **Moderator** role.
