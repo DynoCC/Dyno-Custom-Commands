@@ -1,5 +1,6 @@
 {delete}
 {silent}
 {require:serverMod}
+{respond:#channel}
 {!role $1 +V.I.P}
-{respond:#channel} The user $1 has been given the {&V.I.P} role.
+The user $1 has been given the **V.I.P** role.
