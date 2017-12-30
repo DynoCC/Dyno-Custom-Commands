@@ -46,7 +46,6 @@ The code needs to be
 {silent}
 {require:UNVERIFIED}
 {require:#signup}
-{!purge 10}
 {!role {user} -UNVERIFIED}
 ```
 
@@ -56,7 +55,6 @@ Please note that if you have a standard role for users, the response needs to be
 {silent}
 {require:UNVERIFIED}
 {require:#signup}
-{!purge 10}
 {!role {user} -UNVERIFIED, +<your role>}
 ```
 
