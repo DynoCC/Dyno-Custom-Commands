@@ -31,7 +31,7 @@
 `?red` Make Dyno say what you say, in red text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/red.txt)<br/>
 `?yelloworange` Make Dyno say what you say, in yellow-orange text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/yelloworange.txt)<br/>
 `?green` Make Dyno say what you say, in light green text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/green.txt)<br/>
-## Verification ([Docs](https://github.com/DynoCC/Dyno-Custom-Commands/wiki/Verification-System))
+## Verification ([Docs](verification))
 `?getcode` Part of the verifiction process, DMs you your signup code. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/getcode.txt)<br/>
 Signup Codes: Part of the verifiction process, use in #signup to get server access. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Signup%20codes.txt)<br/>
 `?unverify` For testing, unverifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unverify.txt)<br/>
