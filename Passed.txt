@@ -1,0 +1,4 @@
+{delete}
+{require:serverMod}
+{!role {user} +Role}
+:white_check_mark: type your message here.
