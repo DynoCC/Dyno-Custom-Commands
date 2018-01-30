@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url> 
+    <loc>https://dynocc.tk/</loc> 
+    <image:image>
+       <image:loc>https://dynocc.tk/files/dcc_logo_square.png</image:loc>
+       <image:caption>Dyno Custom Commands</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>https://dynocc.tk/files/alone.png</image:loc>
+       <image:caption>Alone Wumpus</image:caption>
+    </image:image>
+    <image:image>
+       <image:loc>https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3</image:loc>
+       <image:caption>Dyno Custom Commands Discord server</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dynocc.tk/Command%20List</loc> 
+  </url>
+  <url>
+    <loc>https://dynocc.tk/verification</loc> 
+  </url>
+  <url>
+    <loc>https://dynocc.tk/CodeGenerator</loc> 
+  </url>
+  <url>
+    <loc>https://dynocc.tk/freeze</loc> 
+  </url>
+  <url>
+    <loc>https://dynocc.tk/bored</loc> 
+  </url>
+</urlset>
