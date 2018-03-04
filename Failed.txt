@@ -1,0 +1,6 @@
+{delete}
+{require:serverMod}
+:x: Sorry but your video was denied! Here's why:
+**Mistake:** $2
+**Reason:** $4+
+**Solution:** $3
