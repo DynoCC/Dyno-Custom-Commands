@@ -1,0 +1,3 @@
+{delete}
+{require:Owner}
+{dm:$1} $2+
