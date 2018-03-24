@@ -125,4 +125,4 @@ You might want to execute the command "?announce #signup Welcome to our server. 
 
 Note: This page was written assuming your server's prefix is `?`.
 
-Credit to [redstonedesigner](https://github.com/redstonedesigner)#1184 and [advaith](https://github.com/advaith1)#9121 for this page! Commands made by advaith and Olybear
+Credit to [redstonedesigner](https://github.com/redstonedesigner)#9530 and [advaith](https://github.com/advaith1)#9121 for this page! Commands made by advaith and Olybear
