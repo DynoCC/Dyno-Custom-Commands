@@ -1,3 +1,12 @@
-{delete}
-{respond:#staff}
-{user} has reported $1 for "$2+"
+Update in credits to Discord User: @▄ █ち匚尺丹ㄗㄗㄚ█ ▄#8876 
+-Typical (Main Helper in DCC)
+
+{delete} 
+{respond:#reports} 
+{&Staff} A report has been sent! 
+**TIME:** {date}, {time12}
+**CHANNEL:** {channel} 
+**REPORTER:** {user} 
+**REPORTED:** $1 
+**SCREENSHOT:** $2 
+**REASON:** $3+
