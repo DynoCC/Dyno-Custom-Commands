@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<script src="https://widget.battleforthenet.com/widget.js" async></script>
+	<script src="https://redalert.battleforthenet.com/widget.js" async></script>
 	<meta content="width=device-width, initial-scale=1" name="viewport" />
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 	<title>Dyno Custom Commands</title>
@@ -104,7 +104,38 @@
 			
 			nav ul a {
 				color: blue;
+				text-decoration: none !important;
+			}
+
+			a {
 				text-decoration: none;
+			}
+
+			a:hover {
+				text-decoration: underline;
+			}
+
+			.rounded img {
+       			border-radius: 5px;
+     		}
+
+			.submit-button {
+   	 			background-color: #00A2FF;
+    			border: none;
+    			color: white;
+    			padding: 5px 10px;
+    			text-align: center;
+    			text-decoration: none;
+    			display: inline-block;
+    			font-size: 16px;
+    			margin: 4px 2px;
+    			cursor: pointer;
+    			border-radius: 5px;
+				user-select: none;
+			}
+
+			.submit-button:hover {
+   	 			background-color: #0091e5;
 			}
 	</style>
 	<style type="text/css">@media screen and (max-width: 481px){
@@ -154,11 +185,11 @@
 <body>
 <header id="header">
 <div class="innertube">
-<h1> <img alt="" src="/files/dcc_logo_square.png" position: center style="color: rgb(255, 255, 224); width: 50px; height: 50px;" /> &nbsp; &nbsp;&nbsp;<span style="color:#FFFFE0;"><span style="font-size:30px;">​Dyno Custom Commands&nbsp;</span></span></h1>
+<h1> <img alt="DCC" src="/files/dcc_logo_square.png" position: center style="color: rgb(255, 255, 224); width: 50px; height: 50px;" /> &nbsp; &nbsp;&nbsp;<span style="color:#FFFFE0;"><span style="font-size:30px;">​Dyno Custom Commands&nbsp;</span></span></h1>
 </div>
 </header>
 <div id="headerBar">
-<marquee behavior="scroll" direction="left"><span class="TTT"><span style="font-size:18px;"><span style="color:#FFFFFF">Welcome to the DCC site! | <a href="https://battleforthe.net">Battle for the Net to Save Net Neutrality</a></span></span></marquee>
+<marquee behavior="scroll" direction="left"><span class="TTT"><span style="font-size:18px;"><span style="color:#FFFFFF">Welcome to the DCC site! | <a href="https://battleforthenet.com">Battle for the Net to Save Net Neutrality</a></span></span></marquee>
 </div>
 <div id="wrapper"><main>
 <div id="content">
@@ -166,24 +197,24 @@
 <h1><span style="font-size:18px;"><span style="font-size:22px;">Information:</span></span></h1>
 
 <div style="float: right; width: 250px;"> <!-- Discord Online Members -->
-<iframe src="https://discordapp.com/widget?id=333058206198661132&theme=light" width="250" height="400" allowtransparency="true" frameborder="0"></iframe>
+<iframe src="https://discordapp.com/widget?id=333058206198661132&amp;theme=dark" width="250" height="400" allowtransparency="true" frameborder="0"></iframe>
 </div>
 
-<p>-<span style="font-size:14px;">These commands are made solely for the public, so you can experience Dyno the same way we do!</span>&nbsp;<br />
-<span style="font-size:14px;">We try to update these commands regularly, if you spot a bug please click &quot;Report an issue&quot; below! In other words, Enjoy!&nbsp;<br />
+<p><span style="font-size:14px;">These commands are made solely for the public, so you can experience Dyno the same way we do!</span>&nbsp;<br />
+<span style="font-size:14px;">We try to update these commands regularly, if you spot a bug please click &quot;Report an issue&quot; below!&nbsp;<br />
 <br />
-<span style="font-size:20px;"><span style="color:#000000;">Custom Commands:</span><br />
-<span style="font-size:14px;">Here you can find a list of all the commands we have made, however if you prefer GitHub, use the side bar!</span></span></span><br />
-<span style="font-size:14px;">These custom commands are made by Advaith and Olybear9, along with out awesome Helpers.<br />
-What do we strive for? We strive to make Dyno easier for you to use! We do so by making Commands, and adding the source codes on the GitHub Repository!</span></p>
+<span style="font-size:20px;"><span style="color:#000000;"><strong>Custom Commands:</strong></span><br />
+<span style="font-size:14px;">Here you can find a list of all the commands we have made, however if you prefer GitHub, use the sidebar!</span></span></span><br />
+<span style="font-size:14px;">These custom commands are made by Advaith and Olybear9, along with our awesome Helpers.<br />
+What do we strive for? We strive to make Dyno easier for you to use! We do so by making custom commands, and adding the source codes to the GitHub repositories!</span></p>
 
 <div id="buttons" style="width:600px;">
-<div style="float: left; width: 200px">
-<form action="Command List" class="inline"><button class="float-left submit-button">Custom Commands List</button></form>
+<div style="float: left; width: 220px">
+<a href="Command List" class="inline"><button class="float-left submit-button">Custom Commands List</button></a>
 </div>
 
-<div style="float: left; width: 125px">
-<form action="CreateOwn" class="inline"><button class="float-left submit-button">Create your Own</button></form>
+<div style="float: left; width: 150px:">
+<a href="CreateOwn" class="inline"><button class="float-left submit-button">Create Your Own Command</button></a>
 </div>
 </div>
 
@@ -193,36 +224,40 @@ What do we strive for? We strive to make Dyno easier for you to use! We do so by
 
 
 <p><span style="color:#000000;"><span style="font-size:14px;"><span style="font-size:20px;"><strong>Contact us:</strong></span></span></span><br />
-<a href="https://github.com/Advaith1">advaith1</a> on discord:&nbsp;advaith#9121&nbsp;<br />
-<a href="https://github.com/Olybear9">Olybear9</a> on discord: Olybear9#5495&nbsp;</p>
+<a href="https://github.com/Advaith1">advaith1</a> on Discord:&nbsp;advaith#9121&nbsp;<br />
+<a href="https://github.com/Olybear9">Olybear9</a> on Discord: Olybear9#9309&nbsp;</p>
 
 <p><font color="#000000"><span style="font-size: 20px;"><b>Navigation</b></span></font>:</p>
-<hr /><!--Recently edited -->
 <div id="buttons" style="width:600px;">
-<div style="float: left; width: 125px">
-<form action="https://goo.gl/forms/0uGOrmAmFPJrA2Pu2" class="inline"><button class="float-left submit-button">Report an issue</button></form>
+<div style="float: left; width: 165px">
+<a href="https://goo.gl/forms/0uGOrmAmFPJrA2Pu2" class="inline"><button class="float-left submit-button">Report an issue</button></a>
 </div>
 </div>
 
-<div style="float: left; width: 200px">
-<form action="https://github.com/DynoCC/Dyno-Custom-Commands/projects" class="inline"><button class="submit-button">Bug/Update Trackers</button></form>
+<div style="float: left; width: 202px">
+<a href="https://github.com/DynoCC/Dyno-Custom-Commands/projects" class="inline"><button class="submit-button">Bug/Update Trackers</button></a>
+</div>
+
+<div style="float: left; width: 140px">
+<a href="SupportUs" class="inline"><button class="submit-button">Support Us</button></a>
 </div>
 
 <div style="float: left; width: 30px:">
-<form action="SupportUs" class="inline"><button class="submit-button">Support us</button></form>
+<a href="chat" class="inline"><button class="submit-button">Discord Chat</button></a>
 </div>
 <!--Buttons above-->
 
 <p>&nbsp;
 	<div style="float: right; width: 350px;"><!-- Discord Image Widget-->
-	<a href="https://discord.gg/D3K3Fqz"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" alt="Discord Server"></a>
+	<a class="rounded" href="/chat"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" alt="Discord Server"></a>
 	</div></p>
 
 <p>&nbsp;</p>
 
 <p><font color="#000000"><span style="font-size: 20px;"><b>Announcements:</b></span></font><br />
-<span style="font-size:14px;">- Website updates in progress! For more info, click <a href="https://github.com/DynoCC/Dyno-Custom-Commands/issues/31">here</a>!</span></p>
+<span style="font-size:14px;">- Website updates in progress!</span></p>
 
+<p class="rounded"><a href="https://battleforthenet.com/"><img  src="https://www.battleforthenet.com/images/redalert/banner-970x90.png" alt="Red Alert for Net Neutrality" width="590" height="54.73"></a></p>
 </div>
 </div>
 </main>
@@ -240,20 +275,19 @@ What do we strive for? We strive to make Dyno easier for you to use! We do so by
 
 <ul>
 	<li><span style="color:#000000;">-</span><a href="https://discord.gg/D3K3Fqz"><span style="color:#FFFFFF;">Dyno Custom Commands</span></a></li>
-	<li><span style="color:#000000;">-</span><a href="https://discord.gg/dyno"><span style="color:#FFFFFF;">Dyno Server</span></a></li>
+	<li><span style="color:#000000;">-</span><a href="https://discord.gg/dyno"><span style="color:#FFFFFF;">Official Dyno Server</span></a></li>
 </ul>
 
 <h3>Partners</h3>
 
 <ul>
 	<li><span style="color:#000000;">-</span><a href="https://discord.gg/zaVZX2u"><span style="color:#FFFFFF;">Game Developers Chat</span></a></li>
-	<li><span style="color:#000000;">-</span><a href="https://discord.gg/2t8G6fc"><span style="color:#FFFFFF;">Gaming Server</span></a></li>
+	<li><span style="color:#000000;">-</span><a href="https://advaithbot.com"><span style="color:#FFFFFF;">AdvaithBot</span></a></li>
 </ul>
 
 <h3>Extras</h3>
 
 <ul>
-	<li><span style="color:#000000;">-</span></a><a href="/Request"><span style="color:#FFFFFF;">Request Moderator</span></a></li>
 	<li><span style="color:#000000;">-</span></a><a href="/bored"><span style="color:#FFFFFF;">Matrix Effect</span></a></li>
 </ul>
 </div>
@@ -265,8 +299,8 @@ What do we strive for? We strive to make Dyno easier for you to use! We do so by
 <translate id="translate"><!--placeholder for Google Translate widget, powered by Cloudflare Apps-->		
 </div><!--end Google Translate-->
 <div class="innertube">
-<p>Website designed by Olybear9<br />
-<span style="font-size:14px;">Copyright notice: We are not in any way, shape, or form affiliated with the Dyno team. We do not take credit for anything Dyno can do, we simply make commands that add new functionality to Dyno. (<a href="https://dynobot.net">Dyno website</a>) We are also  not in any way, shape, or form affiliated with Discord Inc.</span></p><br />
+<p>Page designed by Olybear9<br />
+<span style="font-size:14px;">Copyright notice: We are not in any way, shape, or form affiliated with the <a href="https://dyno.gg">Dyno</a> team. We do not take credit for anything Dyno can do, we simply make commands that add new functionality to Dyno. We are also  not in any way, shape, or form affiliated with <a href="https://discord.gg">Discord Inc.</a></span></p><br />
 </div>
 </footer>
 </body>

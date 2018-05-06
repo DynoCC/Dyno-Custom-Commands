@@ -1,5 +1,4 @@
 # Support Us
-You can't donate to us yet ;(. if you would like us to add this feature, [join the Dyno Custom Commands discord server](https://discord.gg/F966P5r)!
+You can't directly donate to us ;(. However, you might be able to help by funding our website (for example, Cloudflare plan upgrades or a better domain), or something else. For more info, [chat with us](https://discord.gg/D3K3Fqz)! 
 
-You can also support us by starring our repository and/or contributing!<br />
-**[Back](https://dynocc.tk/)**
+You can also support us by starring our [repository](https://github.com/DynoCC/Dyno_Custom_Commands), joining our [server](https://discord.gg/D3K3Fqz), and/or contributing!
