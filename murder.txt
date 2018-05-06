@@ -1,0 +1,15 @@
+Made by @▄ █ち匚尺丹ㄗㄗㄚ█ ▄#8876 
+# NOT CHECKED
+
+{delete} 
+{silent} 
+{require:Staff} 
+{respond:#logs} 
+{!mute $1 $2+} 
+{!setnick $1 DEAD| $1.user.username} Dates: 
+📆Data:{date} 
+🕵Killer:{user} 
+🚷Killed:$1 
+🔥 Kill reason: $2+
+
+Command has not been checked for a duplicate.
