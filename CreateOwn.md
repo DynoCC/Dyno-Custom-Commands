@@ -2,7 +2,8 @@
 
 You can create a command using Dyno's many variables. Below, you can see many resources for creating a new command, including the list of all the variables.
 
-<embed style="border-radius: 5px;" height="800" width="100%" src="https://widgetbot.io/embed/333058206198661132/333130753296564227/0002/?lang=en" />
+(There is more info after the resources embed.)
+<embed style="border-radius: 5px;" height="1000" width="100%" src="https://widgetbot.io/embed/333058206198661132/333130753296564227/0002/?lang=en" />
 
 You can add a command to your own server through the [Dyno dashboard](https://dyno.gg/).
 
