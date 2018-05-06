@@ -1,6 +1,3 @@
-Update in credits to Discord User: @▄ █ち匚尺丹ㄗㄗㄚ█ ▄#8876 
--Typical (Main Helper in DCC)
-
 {delete} 
 {respond:#reports} 
 {&Staff} A report has been sent! 
