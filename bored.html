@@ -71,10 +71,10 @@
                     clearInterval(Game_Interval);
                 }
                 //setInterval(draw, 33);
-                $("button#pause").click(function() {
+                $("#pause").click(function() {
                     StopMatrix();
                 });
-                $("button#play").click(function(){
+                $("#play").click(function(){
                     RunMatrix();
                 });
                  
@@ -83,8 +83,10 @@
     </head>
     <body>
         <div align="center">
+	<a id="pause" style="color: white;" onclick="StopMatrix()">Pause</a>
+	<a id="pause" style="color: white;" onclick="RunMatrix()">Resume</a>
+	<a class="inline" style="color: white;" href="https://dynocc.tk">Back</a>
             <canvas id="q"></canvas>
         </div>
     </body style="overflow: hidden;">
-	<a class="inline" href="https://dynocc.tk">Back</a>
 </html>
