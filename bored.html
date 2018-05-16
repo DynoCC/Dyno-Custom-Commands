@@ -9,15 +9,15 @@
                 width: 100%;
                 height: 100%;
             }
-		.ccc {
+		#ccc {
 		background-color: black;
 		}
-		a {
+		.bt {
 		color: white;
 		font-family: Arial;
 		font-size: 12px;
 		}
-		a:hover {
+		.bt:hover {
 		color: blue;
                 transistion: 1s color ease-in;
 		}
@@ -95,8 +95,8 @@
     </head>
     <body>
         <div id="ccc" align="center">
-	<a id="pause" style="color: white;" onclick="StopMatrix()">Pause</a>
-	<a id="pause" style="color: white;" onclick="RunMatrix()">Resume</a>
+	<a id="pause" class="bt" style="color: white;" onclick="StopMatrix()">Pause</a>
+	<a id="play" class="bt" style="color: white;" onclick="RunMatrix()">Resume</a>
 	<a class="inline" style="color: white;" href="https://dynocc.tk">Back</a>
             <canvas id="q"></canvas>
         </div>
