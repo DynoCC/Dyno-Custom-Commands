@@ -1,0 +1,168 @@
+
+			@-webkit-keyframes rightThenLeft {
+            0%   {margin-right:0;}
+            50%  {margin-right:100%;}
+            100% {margin-right:0;}
+            }
+            #headerBar {
+                height: 20px;
+                background: rgb(130,234,255,0.5);
+                position: center;
+                top: 0;
+                width: 100%;
+                z-index: -1
+            }
+			body {
+				margin:0;
+				padding:0;
+				font-family: Sans-Serif;
+				line-height: 1.5em;
+			}
+			
+			#header {
+				background: #00A2FF;
+				height: 100px;
+			}
+			
+			#header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+				background-image: url("https://www.designbolts.com/wp-content/uploads/2012/12/White-Gradient-Squares-Seamless-Patterns-For-Website-Backgrounds.jpg");
+				background-repeat:no-repeat;
+				-webkit-background-size:cover;
+				-moz-background-size:cover;
+				-o-background-size:cover;
+				background-size:cover;
+				background-position:center;
+			}
+			
+			#nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -100%;
+				background: #E2DADA;
+				background-image: url("https://s-media-cache-ak0.pinimg.com/736x/23/88/b3/2388b3142a206fbb35194defe5bef269--gray-iphone-wallpaper-phone-wallpapers.jpg");
+			}
+			
+			#footer {
+				clear: left;
+				width: 100%;
+				background: #00A2FF;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-left: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+			}
+		
+			p {
+				color: #555;
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: blue;
+				text-decoration: none !important;
+			}
+
+			a {
+				text-decoration: none;
+			}
+
+			a:hover {
+				text-decoration: underline;
+			}
+
+			.rounded img {
+       			border-radius: 5px;
+     		}
+
+			.submit-button {
+   	 			background-color: #00A2FF;
+    			border: none;
+    			color: white;
+    			padding: 5px 10px;
+    			text-align: center;
+    			text-decoration: none;
+    			display: inline-block;
+    			font-size: 16px;
+    			margin: 4px 2px;
+    			cursor: pointer;
+    			border-radius: 5px;
+				user-select: none;
+			}
+
+			.submit-button:hover {
+   	 			background-color: #0091e5;
+			}
+	@media screen and (max-width: 481px){
+		.mobileDisable {
+		display: none;
+		}
+		#main {
+		float: left;
+		width: 100%;
+		}
+		#header {
+		width: 100%;
+		}
+		#nav{
+		width: 100px;
+		}
+		#content{
+		float: right;
+		width: 75%;}
+		/*mobile support 481 px*/
+		}
+		@media screen and (max-width: 329px){
+    .mobileDisable {
+		display: none;
+		}
+		#main {
+		float: left;
+		width: 100%;
+		}
+		#header {
+		width: 100%;
+		}
+		#nav{
+		float: left;
+		width: 100px;
+		}
+		#content{
+		float: right;
+		width: 70%;
+		}
+		#buttons{
+		float: left;
+		width: 10px;
+		}
+		#UpdateTrc{
+		width: 90%;
+		}
+		/*mobile support 329 px*/
+		}
