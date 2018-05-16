@@ -1,5 +1,5 @@
 
-			@-webkit-keyframes rightThenLeft {
+@-webkit-keyframes rightThenLeft {
             0%   {margin-right:0;}
             50%  {margin-right:100%;}
             100% {margin-right:0;}
@@ -96,6 +96,9 @@
 			a:hover {
 				text-decoration: underline;
 			}
+			.rounded {
+		         float: right;
+                         }
 
 			.rounded img {
        			border-radius: 5px;
