@@ -96,9 +96,6 @@
 			a:hover {
 				text-decoration: underline;
 			}
-			.rounded {
-		         float: right;
-                         }
 
 			.rounded img {
        			border-radius: 5px;
