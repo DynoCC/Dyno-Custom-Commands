@@ -3,8 +3,7 @@ repotitle: Dyno Custom Commands
 author: The DCC Team
 authorurl: https://dynocc.tk/staff
 url: https://dynocc.tk
-theme: jekyll-theme-architect
-#remote_theme: advaith1/architect
+remote_theme: advaith1/architect
 image: files/dcc_logo.png
 color: "#00a2ff"
 more: <script src="https://crate.widgetbot.io/v2" defer async data-cfasync="false">new Crate({"server":"333058206198661132","channel":"333061196490211339"})</script>
