@@ -2,7 +2,7 @@
 <html>
 <head>
 	<script src="https://redalert.battleforthenet.com/widget.js" async></script>
-	<script src="https://crate.widgetbot.io/v2" defer async data-cfasync="false">new Crate({"server":"333058206198661132","channel":"333061196490211339"})</script>
+	<script src="https://unpkg.com/webcomponentsjs@1.0.2/lite.js"></script>
 	<meta content="width=device-width, initial-scale=1" name="viewport" />
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 	<title>Dyno Custom Commands</title>
@@ -19,6 +19,15 @@
 	{"name":null,"description":"We make cool custom commands for Dyno that anyone can use","author":{"@type":"Person","name":"The DCC Team"},"@type":"WebPage","url":"https://dynocc.tk","image":null,"publisher":null,"headline":"Dyno Custom Commands","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 	<meta name="theme-color" content="#00a2ff">
 	<link rel="stylesheet" href="https://dynocc.tk/website/webstyle.css" type="text/css">
+
+	<script src="https://unpkg.com/@widgetbot/crate" async>
+		new Crate({
+			server: '333058206198661132',
+			channel: '333061196490211339',
+			location: ['bottom', -400]
+		})
+		crate.notify('Welcome to Dyno Custom Commands! Click the button below to chat on Discord.')
+	</script>
 </head>
 <body>
 <header id="header">
