@@ -6,4 +6,4 @@ url: https://dynocc.tk
 remote_theme: advaith1/architect
 image: https://dynocc.tk/files/dcc_logo.png
 color: "#00a2ff"
-more: <script src="https://crate.widgetbot.io/v2" defer async data-cfasync="false">new Crate({"server":"333058206198661132","channel":"333061196490211339"})</script>
+more: <script src="https://unpkg.com/webcomponentsjs@1.0.2/lite.js"></script> <script src="https://unpkg.com/@widgetbot/crate" async>new Crate({server: '333058206198661132',channel: '333061196490211339',location: [-200, 'right'] }) crate.notify('Welcome to Dyno Custom Commands! Click the button to chat on Discord.')</script>
