@@ -1,0 +1,4 @@
+{delete}
+{require:serverMod}
+{!purge $1+}
+{dm:$2}Some of your message has been purged in **{server}**. Maybe you didn't respected the rules ? Make sure to read them in <#ChannleID>.
