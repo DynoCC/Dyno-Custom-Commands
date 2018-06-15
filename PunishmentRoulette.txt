@@ -1,0 +1,4 @@
+{require:serverMod}
+Let's play a game of... Punishment Roulette!
+{choose:1 hour ban; 2 hour ban; 1 hour mute; 2 hour mute; 1 week ban; permanent ban; permanent mute}
+$1 your punishment: {choice}
