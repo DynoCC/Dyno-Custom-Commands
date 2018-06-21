@@ -7,9 +7,9 @@ We've created a [server](https://discord.gg/e7R8J68) for people to test commands
 
 ## Sites/Extras
 * [Our server](https://discord.gg/e7R8J68) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/e7R8J68)
-* [Our Website](https://dynocc.tk) [![Dyno Custom Commands Website](https://img.shields.io/badge/Website-DCC-blue.svg)](https://dynocc.tk)
-* [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-blue.svg)](https://github.com/DynoCC)
-* [Dyno Website](https://dynobot.net) [![Dyno Webiste](https://img.shields.io/badge/Website-Dyno-blue.svg)](https://dynobot.net)
+* [Our Website](https://dynocc.tk) [![Dyno Custom Commands Website](https://img.shields.io/badge/Website-DCC-337fd5.svg)](https://dynocc.tk)
+* [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://github.com/DynoCC)
+* [Dyno Website](https://dynobot.net) [![Dyno Webiste](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
 * [Dyno Server](https://discord.gg/dyno) [<img src="https://discordapp.com/api/guilds/203039963636301824/widget.png">](https://discord.gg/dyno)
 * [Discord Website](https://discordapp.com) [![Discordapp Website](https://img.shields.io/badge/Website-Discordapp-7289da.svg)](https://discordapp.com)
 
