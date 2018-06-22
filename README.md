@@ -6,7 +6,7 @@ The commands here were written by [@advaith1](https://github.com/advaith1) and [
 We've created a [server](https://discord.gg/e7R8J68) for people to test commands, chat about them, and also track commands that are being worked on!.  
 
 ## Sites/Extras
-* [Our server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/e7R8J68)
+* [Our server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/D3K3Fqz)
 * [Our Website](https://dynocc.tk) [![Dyno Custom Commands Website](https://img.shields.io/badge/Website-DCC-337fd5.svg)](https://dynocc.tk)
 * [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://github.com/DynoCC)
 * [Dyno Website](https://dynobot.net) [![Dyno Webiste](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
