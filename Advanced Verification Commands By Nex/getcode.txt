@@ -1,0 +1,7 @@
+{dm}If you accept all the rules and wish to get access to the full sever, then please type **`{choice}`** in #welcome.
+{delete}
+{require:#welcome}
+{require:Unverified}
+{not:Blocked Users}
+{choose:{prefix}2032;{prefix}6119;{prefix}0071;{prefix}5797;{prefix}4053;{prefix}5858;{prefix}4047;{prefix}7720;{prefix}3494;{prefix}5205}
+{!announce {#verification-log} {user} just requested a code for verification in {channel}.}
