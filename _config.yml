@@ -1,9 +1,9 @@
 title: Dyno Custom Commands
 repotitle: Dyno Custom Commands
 author: The DCC Team
-authorurl: https://dynocc.tk/staff
-url: https://dynocc.tk
+authorurl: https://dynocc.xyz/staff
+url: https://dynocc.xyz
 remote_theme: advaith1/architect
-image: https://dynocc.tk/files/dcc_logo.png
+image: https://dynocc.xyz/files/dcc_logo.png
 color: "#00a2ff"
 more: <script src="https://unpkg.com/webcomponentsjs@1.0.2/lite.js"></script> <script src="https://unpkg.com/@widgetbot/crate" async>new Crate({server:'333058206198661132',channel:'333061196490211339',location:['bottom', -450] })</script>
