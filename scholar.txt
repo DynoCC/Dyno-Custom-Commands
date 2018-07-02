@@ -1,0 +1,5 @@
+{delete}
+{silent}
+{!role {user} +scholar}
+{!purge endswith Welcome to our ranks! 10}
+{user} has read the FAQ and is hereby recognized as a scholar. Welcome to our ranks!
