@@ -14,4 +14,4 @@ Once you create a cool Custom Command, you can submit it to DCC by following the
 5. Go through the steps to create a pull request.
 
 Watch the gif below!
-![GIF](https://advaith.owns-this.space/j3ecpf.gif)
+![GIF](https://magic.school-b.us/463828651016978442.gif)
