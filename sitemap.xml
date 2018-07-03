@@ -3,13 +3,13 @@
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
   xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url> 
-    <loc>https://dynocc.tk/</loc> 
+    <loc>https://dynocc.xyz/</loc> 
     <image:image>
-       <image:loc>https://dynocc.tk/files/dcc_logo_square.png</image:loc>
+       <image:loc>https://dynocc.xyz/files/dcc_logo_square.png</image:loc>
        <image:caption>Dyno Custom Commands</image:caption>
     </image:image>
     <image:image>
-       <image:loc>https://dynocc.tk/files/alone.png</image:loc>
+       <image:loc>https://dynocc.xyz/files/alone.png</image:loc>
        <image:caption>Alone Wumpus</image:caption>
     </image:image>
     <image:image>
@@ -18,18 +18,18 @@
     </image:image>
   </url>
   <url>
-    <loc>https://dynocc.tk/Command%20List</loc> 
+    <loc>https://dynocc.xyz/Command%20List</loc> 
   </url>
   <url>
-    <loc>https://dynocc.tk/verification</loc> 
+    <loc>https://dynocc.xyz/verification</loc> 
   </url>
   <url>
-    <loc>https://dynocc.tk/CodeGenerator</loc> 
+    <loc>https://dynocc.xyz/CodeGenerator</loc> 
   </url>
   <url>
-    <loc>https://dynocc.tk/freeze</loc> 
+    <loc>https://dynocc.xyz/freeze</loc> 
   </url>
   <url>
-    <loc>https://dynocc.tk/bored</loc> 
+    <loc>https://dynocc.xyz/bored</loc> 
   </url>
 </urlset>
