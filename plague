@@ -1,0 +1,7 @@
+{delete}
+{silent}
+{not:Infected}
+{require:Uninfected}
+{!role {user} +Infected}
+{!role {user} -Uninfected}
+{!dm {user}} {user} infected themselves!
