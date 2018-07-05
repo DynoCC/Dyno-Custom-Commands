@@ -1,0 +1,7 @@
+{require:Infected}
+{not:Uninfected}
+{delete}
+{silent}
+{!dm $1} You were infected by {user}! Spread the plague farther!
+{!role $1 +Infected}
+{!role $1 -Uninfected}
