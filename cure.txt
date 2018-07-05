@@ -1,0 +1,9 @@
+{delete}
+{silent}
+{choose:mute;none}
+{not:Uninfected}
+{require:Infected}
+{!dm {user}} {user} cured themselves!
+{!{choice} {user} 3 The cure had a side effect!}
+{!role {user} -Infected}
+{!role {user} +Uninfected}
