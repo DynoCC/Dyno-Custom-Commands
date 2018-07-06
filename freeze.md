@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/freeze'
+---
+
 # Freeze Command Docs
 How to set up the Freeze command:
 

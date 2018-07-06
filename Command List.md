@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/Command%20List'
+---
+
 # WIP Command List
 ## Moderation/Server related
 `?commandhelp` This command will send you the custom command help [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp)  

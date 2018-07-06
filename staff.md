@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/staff'
+---
+
 # Staff/Helpers List
 ## Main CC Creators:
 advaith  

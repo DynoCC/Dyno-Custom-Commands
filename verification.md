@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/verification'
+---
+
 # Verification
 
 The verification system is a safeguard against spammers, advertisers and more.

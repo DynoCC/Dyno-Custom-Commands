@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/chat'
+---
+
 # Discord Chat
 
 <iframe style="border-radius: 5px;" width="100%" height="600" frameborder="0" src="https://titanembeds.com/embed/333058206198661132?theme=DiscordDark&amp;defaultchannel=333061196490211339&amp;css=217"></iframe>

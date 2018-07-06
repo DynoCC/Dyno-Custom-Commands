@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/CreateOwn'
+---
+
 # Create Your Own Command
 You can create a command using Dyno's many variables. Below, you can see many resources for creating a new command, including the list of all the variables.
 

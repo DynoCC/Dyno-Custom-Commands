@@ -1,3 +1,7 @@
+---
+canonical_url: 'https://dynocc.xyz/Dyno%20Customer%20Hotline'
+---
+
 ## Command 1:
 ?1-8002-nooblance
 
