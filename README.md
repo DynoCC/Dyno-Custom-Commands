@@ -2,8 +2,17 @@
 
 > Awesome Custom Commands for Dyno.
 
-The commands here were written by [@advaith1](https://github.com/advaith1) and [@Olybear9](https://github.com/Olybear9), along with our awesome Helpers, which include [@QuinnTDIP](https://github.com/quinntdip),  [@amosharper](https://github.com/amosharper), [@TheRoboticon](https://github.com/TheRoboticon) and [@Redstonedesiginer](https://github.com/redstonedesigner). See our Discord server for the full list.  
-We've created a [server](https://discord.gg/D3K3Fqz) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
+These commands were written by some pretty awesome people, which include our Main and Regluar Helpers, and our founder!
+
+## Some of or staff include:
+Founder: [@advaith1](https://github.com/advaith1)
+
+Main Helpers: [@QuinnTDIP](https://github.com/quinntdip)
+
+Helpers: [@amosharper](https://github.com/amosharper), [@TheRoboticon](https://github.com/TheRoboticon) and [@Redstonedesiginer](https://github.com/redstonedesigner)
+
+See our Discord server for the full list.  
+## We've created a [server](https://discord.gg/D3K3Fqz) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
 
 ## Sites/Extras
 * [Our server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/D3K3Fqz)
