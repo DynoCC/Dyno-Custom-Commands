@@ -7,3 +7,4 @@ remote_theme: advaith1/architect
 image: https://dynocc.xyz/files/dcc_logo.png
 color: "#00a2ff"
 more: <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async>new Crate({server:'333058206198661132', channel:'333061196490211339', shard:'https://beta.widgetbot.io' })</script>
+google_analytics: UA-121944166-1
