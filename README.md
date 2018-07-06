@@ -11,7 +11,7 @@ Main Helpers: [@QuinnTDIP](https://github.com/quinntdip)
 
 Helpers: [@amosharper](https://github.com/amosharper), [@TheRoboticon](https://github.com/TheRoboticon), [@Nex](https://github.com/NexyBoy), and [@Redstonedesiginer](https://github.com/redstonedesigner)
 
-See our Discord server for the full list.  
+See our Discord server for the full list, because Quinn can't seem to ever finish this.  
 ## We've created a [server](https://discord.gg/D3K3Fqz) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
 
 ## Sites/Extras
