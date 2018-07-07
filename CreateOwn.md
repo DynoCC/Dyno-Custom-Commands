@@ -1,5 +1,6 @@
 ---
 canonical_url: 'https://dynocc.xyz/CreateOwn'
+amplink: https://dynocc.xyz/amp/CreateOwn
 ---
 
 # Create Your Own Command
