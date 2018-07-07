@@ -7,7 +7,7 @@ These commands were written by some pretty awesome people, which include our Mai
 ## Some of our staff include:
 Founder: [@advaith1](https://github.com/advaith1)
 
-Main Helpers: [@QuinnTDIP](https://github.com/quinntdip)
+Main Helpers: [@QuinnTDIP](https://github.com/quinntdip), and [@RenderedPix](https://github.com/RenderedPix)
 
 Helpers: [@amosharper](https://github.com/amosharper), [@TheRoboticon](https://github.com/TheRoboticon), [@Nex](https://github.com/NexyBoy), and [@Redstonedesiginer](https://github.com/redstonedesigner)
 
