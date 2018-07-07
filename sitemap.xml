@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" 
-  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url> 
     <loc>https://dynocc.xyz/</loc> 
     <image:image>
        <image:loc>https://dynocc.xyz/files/dcc_logo_square.png</image:loc>
        <image:caption>Dyno Custom Commands</image:caption>
     </image:image>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/Command%20List</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/verification</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/CodeGenerator</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/freeze</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/bored</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/CreateOwn</loc>
     <image:image>
-       <image:loc>https://dynocc.xyz/files/alone.png</image:loc>
-       <image:caption>Alone Wumpus</image:caption>
-    </image:image>
-    <image:image>
-       <image:loc>https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3</image:loc>
-       <image:caption>Dyno Custom Commands Discord server</image:caption>
+       <image:loc>https://magic.school-b.us/463828651016978442.gif</image:loc>
+       <image:caption>Adding a Command to DCC</image:caption>
     </image:image>
   </url>
   <url>
-    <loc>https://dynocc.xyz/Command%20List</loc> 
+    <loc>https://dynocc.xyz/amp/CodeGenerator</loc>
   </url>
   <url>
-    <loc>https://dynocc.xyz/verification</loc> 
-  </url>
-  <url>
-    <loc>https://dynocc.xyz/CodeGenerator</loc> 
-  </url>
-  <url>
-    <loc>https://dynocc.xyz/freeze</loc> 
-  </url>
-  <url>
-    <loc>https://dynocc.xyz/bored</loc> 
+    <loc>https://dynocc.xyz/amp/CreateOwn</loc>
+     <image:image>
+       <image:loc>https://magic.school-b.us/463828651016978442.gif</image:loc>
+       <image:caption>Adding a Command to DCC</image:caption>
+    </image:image>
   </url>
 </urlset>
