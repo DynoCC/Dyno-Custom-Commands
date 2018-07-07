@@ -1,5 +1,5 @@
 ---
-canonical_url: 'https://dynocc.xyz/CreateOwn'
+canonical_url: https://dynocc.xyz/CreateOwn
 amplink: https://dynocc.xyz/amp/CreateOwn
 ---
 
