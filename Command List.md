@@ -1,5 +1,6 @@
 ---
-canonical_url: 'https://dynocc.xyz/Command%20List'
+canonical_url: https://dynocc.xyz/Command%20List
+amplink: https://dynocc.xyz/amp/Command%20List
 ---
 
 # WIP Command List
