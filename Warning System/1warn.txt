@@ -3,5 +3,5 @@
 {require:serverMod}
 {!role $1 +1st Warning}
 {!remindme Remove <@$1>'s 1st warning. in 10 days}
-{!announce {#warn-log} <@$1> just got his 1st warning from Moderator {user} for: **$2+**.}
-<:dynoSuccess:314691591484866560> <@$1> ***just got his 1st warning.***
+<@$1> just got his 1st warning from Moderator {user} for: **$2+**. 
+{dm:{user}} <:dynoSuccess:314691591484866560> <@$1> ***just got his 1st warning.***
