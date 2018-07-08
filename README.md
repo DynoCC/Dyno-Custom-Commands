@@ -16,13 +16,13 @@ Mods: WHASonYT#0735, and FILLER TEXT
 See our Discord server for the full list, because Quinn can't seem to ever finish this.  
 > We've created a [server](https://discord.gg/D3K3Fqz) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
 
-## Sites/Extras
+## Helpful Links
 * [Our server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/D3K3Fqz)
 * [Our Website](https://dynocc.xyz) [![Dyno Custom Commands Website](https://img.shields.io/badge/Website-DCC-337fd5.svg)](https://dynocc.xyz)
 * [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://github.com/DynoCC)
 * [Dyno Website](https://dynobot.net) [![Dyno Webiste](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
-* [Dyno Server](https://discord.gg/dyno) [<img src="https://discordapp.com/api/guilds/203039963636301824/widget.png">](https://discord.gg/dyno)
-* [Discord Website](https://discordapp.com) [![Discordapp Website](https://img.shields.io/badge/Website-Discordapp-7289da.svg)](https://discordapp.com)
+* [Support Us!](https://dynocc.xyz/SupportUs)
+* [DBug Reporter](https://docs.google.com/forms/d/e/1FAIpQLSetijqRFMaqoa5Eo88wNz4EC8wKqxi9BYVc2soFW071Kx4Nkg/viewform?fbzx=-1376132603716059600)
 
 A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List).
 
