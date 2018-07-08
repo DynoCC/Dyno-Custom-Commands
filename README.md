@@ -18,7 +18,7 @@ See our Discord server for the full list, because Quinn can't seem to ever finis
 
 ## Sites/Extras
 * [Our server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/D3K3Fqz)
-* [Our Website](https://dynocc.tk) [![Dyno Custom Commands Website](https://img.shields.io/badge/Website-DCC-337fd5.svg)](https://dynocc.tk)
+* [Our Website](https://dynocc.xyz) [![Dyno Custom Commands Website](https://img.shields.io/badge/Website-DCC-337fd5.svg)](https://dynocc.xyz)
 * [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://github.com/DynoCC)
 * [Dyno Website](https://dynobot.net) [![Dyno Webiste](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
 * [Dyno Server](https://discord.gg/dyno) [<img src="https://discordapp.com/api/guilds/203039963636301824/widget.png">](https://discord.gg/dyno)
