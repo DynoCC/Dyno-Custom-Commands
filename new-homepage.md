@@ -18,16 +18,16 @@ title: Dyno Custom Commands
 		user-select: none;
     }
     .dcc-button:hover {
-   	 	background-color: #0091e5;
+        background-color: #0091e5;
+        color: white;
     }
     .divider {
-        width: 5px;
+        width: 30px;
         height: auto;
         display: inline-block;
     }
     .rounded {
         border-radius: 5px;
-    }
     }
 </style>
 
@@ -38,9 +38,9 @@ These commands are made solely for the public, so you can experience Dyno the sa
 
 You can easily add our commands to your Discord server!
 
-<a href="Command List" class="dcc-button">Custom Commands List</a><div class="divider"></div><a href="CreateOwn" class="dcc-button">Create Your Own Command</a>
+<a href="Command List" class="dcc-button">Custom Commands List</a><span class="divider"></span><a href="CreateOwn" class="dcc-button">Create Your Own Command</a>
 
-<a href="SupportUs" class="dcc-button">Support Us</a><div class="divider"></div><a href="chat" class="dcc-button">Discord Chat</a>
+<a href="SupportUs" class="dcc-button">Support Us</a><span class="divider"></span><a href="chat" class="dcc-button">Discord Chat</a>
 
 ## Discord Servers
 * [Dyno Custom Commands](https://discord.gg/D3K3Fqz)
