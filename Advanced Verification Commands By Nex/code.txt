@@ -4,4 +4,4 @@
 {require:Unverified}
 {not:Blocked Users}
 {!role {user} +Members, -Unverified}
-{!announce {#verification-log} {user} has completed the verification process.}
+{user} has completed the verification process.
