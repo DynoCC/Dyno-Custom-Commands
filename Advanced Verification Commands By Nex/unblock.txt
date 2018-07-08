@@ -2,5 +2,4 @@
 {delete}
 {require:serverMod}
 {!role $1 -Blocked Users}
-{!announce {#verification-log} <@$1> was unblocked by {user}.}
 <:dynoSuccess:314691591484866560> <@$1> ***was unblocked.***
