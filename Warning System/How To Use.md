@@ -20,8 +20,8 @@ All these commands are to be used with the user ID followed by the reason. For e
 
 ### **Outputs:**
 The warning commands will output the following:
-- In chat: > \[Warned User] just got their 1st/2nd/3rd warning from Moderator \[Command User] for \[Reason]
-- Direct Message to Command User: > \[Warned User] just got his 1st/2nd/3rd warning.
+- In chat: \[Warned User] just got their 1st/2nd/3rd warning from Moderator \[Command User] for \[Reason]
+- Direct Message to Command User: \[Warned User] just got his 1st/2nd/3rd warning.
 
 The clwarn command will output the following:
-- Moderator > \[Command User] just cleared all of \[Warned User]'s warnings! Reason: \[Reason]
+- Moderator \[Command User] just cleared all of \[Warned User]'s warnings! Reason: \[Reason]
