@@ -1,6 +1,6 @@
 {silent}
-{not Caesar}
+{not:Caesar}
 {!role all -Caesar}
 {!role add {user} Caesar}
-{choose:{user.username} has stolen the crown.;Bow before {user.username}!;{user.username} is your rightful emperor.;Long may you reign, {user.username!}.;{user.username} has seized the throne.;Everything the light touches is your kingdom, {user.username}.;Make way for {user.username}!;All hail {user.username}!}
+{choose:{user.username} has stolen the crown.;Bow before {user.username}!;{user.username} is your rightful emperor.;Long may you reign, {user.username}!.;{user.username} has seized the throne.;Everything the light touches is your kingdom, {user.username}.;Make way for {user.username}!;All hail {user.username}!}
 {choice}
