@@ -26,12 +26,10 @@ title: Dyno Custom Commands
         height: auto;
         display: inline-block;
     }
-    .rounded {
-        border-radius: 5px;
-    }
 </style>
 
 # Welcome to Dyno Custom Commands!
+  
 These commands are made solely for the public, so you can experience Dyno the same way we do! 
 
 <iframe src="https://discordapp.com/widget?id=333058206198661132&amp;theme=dark" width="250" height="400" allowtransparency="true" frameborder="0" style="float: right"></iframe>
@@ -52,8 +50,6 @@ You can easily add our commands to your Discord server!
 
 ## Extras
 * [Matrix](bored)
-
-<a class="rounded" href="/chat"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" style="max-width: 100%; width: auto; height: auto; float: right" alt="Discord Server"></a>
 
 Copyright notice: We are not in any way, shape, or form affiliated with the [Dyno](https://dyno.gg) team. We do not take credit for anything Dyno can do, we simply make commands that add new functionality to Dyno. We are also not in any way, shape, or form affiliated with [Discord Inc](https://discord.gg).
 
