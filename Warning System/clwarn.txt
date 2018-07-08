@@ -2,4 +2,4 @@
 {delete}
 {require:serverMod}
 {role $1 -1st Warning, -2nd Warning, -3rd Warning}
-{!announce {#warn-log} {user} just cleared <@$1>'s all warnings. Reason: $2+}
+Moderator {user} just cleared <@$1>'s all warnings. Reason: $2+
