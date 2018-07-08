@@ -4,7 +4,6 @@
 
 - **Channels:**
 1. #welcome
-2. #verification-log
 
 - **Roles:**
 1. Unverified
