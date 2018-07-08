@@ -2,5 +2,5 @@
 {delete}
 {require:serverMod}
 {!role $1 +Blocked Users}
-{!announce {#verification-log} <@$1> was blocked by {user}.}
+<@$1> was blocked by {user}.
 <:dynoSuccess:314691591484866560> <@$1> ***was blocked.***
