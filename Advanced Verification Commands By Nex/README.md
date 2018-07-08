@@ -1,4 +1,5 @@
 # **Getting Started**
+*If you have any problems, head to the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz)*
 
 #### **Things Needed:**
 
