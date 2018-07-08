@@ -1,5 +1,5 @@
+{silent}
 {delete}
 {require:serverMod}
 {!role $1 +Blocked Users}
-{!announce {channel} <@$1> was blocked by {user}.}
 <:dynoSuccess:314691591484866560> <@$1> ***was blocked.***
