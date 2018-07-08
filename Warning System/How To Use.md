@@ -3,13 +3,12 @@
 
 ### **Things Needed:**
 
-- **Channels:**
-1. #warn-log
-
 - **Roles:**
 1. 1st Warning
 2. 2nd Warning 
 3. 3rd Warning
+
+
 
 #### **Command Usage:**
 All these commands are to be used with the user ID followed by the reason. For example:
