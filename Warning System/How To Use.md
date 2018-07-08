@@ -28,4 +28,4 @@ The clwarn command will output the following:
 
 ### **Support**
 Thank you for using this Dyno Custom Command! If you have any more questions, you can check out our Discord Server.
-* [Discord Server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/D3K3Fqz)
+[Discord Server](https://discord.gg/D3K3Fqz) [<img src="https://discordapp.com/api/guilds/333058206198661132/widget.png">](https://discord.gg/D3K3Fqz)
