@@ -2,7 +2,7 @@
 
 > Awesome Custom Commands for Dyno.
 
-These commands were written by some pretty awesome people, which include our Main and Regluar Helpers, and our founder!
+These commands were written by some pretty awesome people, which include our Main and Regular Helpers, and our founder!
 
 ## Some of our staff include:
 Founder: [@advaith1](https://github.com/advaith1)
