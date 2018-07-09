@@ -10,12 +10,14 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 - A Moderator Role. In the current code, we used Moderator as our role name.
 
 ## List of Commands and Permissions
+
 -``?poll`` (Requires: Moderator)  
 -``?op1`` and ``?op2``  
 -``?pollcount`` (Requires: Moderator)  
 -``?pollclose`` (Requires: Moderator)  
 
 ## Command Use and Syntax
+
 - ``?poll`` creates a new poll in your announcements channel.  
   - Use the format ``?poll [option one] [option two] [question]``  
   - For example, the poll 'Do you like Sandwiches?' would be written as follows: ``?poll Yes No Do you like Sandwiches?``  
@@ -31,6 +33,7 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
   - Note that the bot will also output a message noting the roles that are being removed. This is normal- you can use this command in a separate channel to hide the output.
   
 ## Conclusion
+
 Congratulations on installing the new Poll Command system! Maybe you could ask your server members if they enjoy sandwiches as your first poll?
 
 Hopefully this guide was helpful. If you have any questions, head over to the Dyno Custom Command server and ask the support staff for help, and we'll gladly help you through the process.
