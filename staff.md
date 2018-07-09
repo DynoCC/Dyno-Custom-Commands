@@ -12,10 +12,10 @@ canonical_url: 'https://dynocc.xyz/staff'
 ## Main Helpers
 [@QuinnTDIP](https://www.github.com/QuinnTDIP), and [@RenderedPix](https://github.com/RenderedPix)
 
-## Repo Maintainers
+## Repo Maintainers and Helpers
 [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy)
 
-## Helpers
+## Custom Command Helpers
 [@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), and [@Redstonedesiginer](https://github.com/redstonedesigner)
 
 ## Mods
