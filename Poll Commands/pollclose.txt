@@ -1,0 +1,7 @@
+{delete}
+{require:Moderator}
+{!announce {#info-and-news} 📋 {user} has ended the current poll!                                                                                                                                                                                                                                                            
+Thanks for voting everyone!                                                                                                                                                                                                                                                            
+**Results:** $1+}
+{!role all -Option1}
+{!role all -Option2}
