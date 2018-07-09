@@ -3,7 +3,7 @@ canonical_url: 'https://dynocc.xyz/staff'
 ---
 
 # Staff/Helpers List
-> DCC isn't an easy thing to create, which is why this awsome team of people can get so much done!! Kindof!!
+> DCC isn't an easy thing to create, which is why this awsome team of people can get so much done!
 
 ## Founder:
 [@advaith](https://www.github.com/advaith1)
