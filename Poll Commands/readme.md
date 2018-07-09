@@ -39,4 +39,4 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 
 Congratulations on installing the new Poll Command system! Maybe you could ask your server members if they enjoy sandwiches as your first poll?
 
-Hopefully this guide was helpful. If you have any questions, head over to the Dyno Custom Command server and ask the support staff for help, and we'll gladly help you through the process.
+Hopefully this guide was helpful (*It better be, I spent a good 30 minutes on it*). If you have any questions, head over to the Dyno Custom Command server and ask the support staff for help, and we'll gladly help you through the process.
