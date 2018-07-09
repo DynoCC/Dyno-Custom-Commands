@@ -15,4 +15,4 @@ canonical_url: 'https://dynocc.xyz/staff'
 
 ## Mods
 
-WHASonYT#0735
+[@WHASonYT](https://github.com/whasonyt)
