@@ -1,0 +1,8 @@
+{delete}
+{require:Moderator}
+{!announce {#info-and-news} 📋 {user} has started a poll!
+Question: $3+
+Option One: $1
+Option Two: $2
+Vote for Option 1 or Option 2 with ``?op1`` and ``?op2``!
+You can only vote once, so choose wisely!}
