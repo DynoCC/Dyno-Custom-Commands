@@ -1,1 +1,0 @@
-{!announce {channel} **Here is the DynoCC website: http://dynocc.xyz**}
