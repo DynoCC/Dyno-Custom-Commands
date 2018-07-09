@@ -11,7 +11,7 @@ We're always updating this list! Check back often!
 `?commandhelp-a` This command will display the custom command help in chat [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp-a)  
 `?beta` Displays the beta custom command help in chat  
 `?serverupdates` lists server updates [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/serverupdates.txt)  
-`?commandban @user` bans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20ban.txt) 
+`?commandban @user` bans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20ban.txt)  
 `?commandunban @user` unbans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20unban.txt)  
 `?callmods` Calls the moderators [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/callmods.txt)  
 `?parse` rewrites a complex bug code into a simple message! Made for the DCC BugBot. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/parse.txt)  
