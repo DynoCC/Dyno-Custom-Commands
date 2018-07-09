@@ -9,9 +9,9 @@ amplink: https://dynocc.xyz/amp/Command%20List
 `?commandhelp-a` This command will display the custom command help in chat [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp-a)  
 `?beta` Displays the beta custom command help in chat  
 `?serverupdates` lists server updates [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/serverupdates.txt)<br/>
-`?setupfreeze` Helps you set up the freeze command [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/setupfreeze.txt) [Docs](https://dynocc.tk/freeze)  
-`?freeze` freezes chat to staff only :O [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze.txt) [Docs](https://dynocc.tk/freeze)  
-`?unfreeze` unfreezes chat :O [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unfreeze.txt) [Docs](https://dynocc.tk/freeze)  
+`?setupfreeze` Helps you set up the freeze command [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/setupfreeze.txt) [Docs](https://dynocc.tk/freeze)  
+`?freeze` freezes chat to staff only :O [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt) [Docs](https://dynocc.tk/freeze)  
+`?unfreeze` unfreezes chat :O [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt) [Docs](https://dynocc.tk/freeze)  
 `?commandban @user` bans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20ban.txt)  
 `?commandunban @user` unbans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20unban.txt)  
 `?callmods` Calls the moderators [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/callmods.txt)  
