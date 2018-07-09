@@ -1,4 +1,0 @@
-	{delete}
-  {silent}
-  {require: Main Custom Command creators}
-  {!role $1 +dyno-admin}
