@@ -8,7 +8,7 @@ amplink: https://dynocc.xyz/amp/Command%20List
 `?commandhelp` This command will send you the custom command help [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp)  
 `?commandhelp-a` This command will display the custom command help in chat [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp-a)  
 `?beta` Displays the beta custom command help in chat  
-`?serverupdates` lists server updates [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/serverupdates.txt)<br/>
+`?serverupdates` lists server updates [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/serverupdates.txt)  
 `?setupfreeze` Helps you set up the freeze command [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/setupfreeze.txt) [Docs](https://dynocc.tk/freeze)  
 `?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt) 
 `?unfreeze` unfreezes chat [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt)
@@ -20,28 +20,28 @@ amplink: https://dynocc.xyz/amp/Command%20List
 `?permmute` Permanently mutes a user [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/permmute.txt)  
 `?dm` DMs a user a message [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/dm.txt)
 ## Fun :D
-`?blocked` You can't unblock the Wumpus. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/blocked.txt)<br/>
-`?pending` There are no pending friend requests. Here's a Wumpus for now. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/pending.txt)<br/>
-`depress me` :( [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/depress%20me.txt)<br/>
-`?waitwhat` _wait, what??_ [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/waitwhat.txt)<br/>
-`?color` Changes a role color. In development, may not work. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/color.txt)<br/>
-`?letterbox3` Displays a 3 letter symmetrical word in a box. You must add spaces between each letter. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/letterbox3)<br/>
-`?8ball` An embedded 8 Ball command. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/8ball.txt) <br/>
-`?sleeping` Adds a sleeping tag to your nickname and sets your AFK. NOTE: This will reset your nickname. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/sleeping) <br/>
-`?awake` Undos the sleeping command. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/awake) <br/>
+`?blocked` You can't unblock the Wumpus. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/blocked.txt)  
+`?pending` There are no pending friend requests. Here's a Wumpus for now. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/pending.txt)  
+`depress me` :( [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/depress%20me.txt)  
+`?waitwhat` _wait, what??_ [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/waitwhat.txt)  
+`?color` Changes a role color. In development, may not work. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/color.txt)  
+`?letterbox3` Displays a 3 letter symmetrical word in a box. You must add spaces between each letter. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/letterbox3)  
+`?8ball` An embedded 8 Ball command. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/8ball.txt)   
+`?sleeping` Adds a sleeping tag to your nickname and sets your AFK. NOTE: This will reset your nickname. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/sleeping)   
+`?awake` Undos the sleeping command. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/awake)   
 ## 🗨 Say
-`?embed` Post an embedded message. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/embed.txt)<br/>
-`?say` Make Dyno say what you say. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/say.txt)<br/>
-`?bluegreen` Make Dyno say what you say, in blue-green text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/bluegreen.txt)<br/>
-`?orange` Make Dyno say what you say, in orange text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/orange.txt)<br/>
-`?red` Make Dyno say what you say, in red text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/red.txt)<br/>
-`?yelloworange` Make Dyno say what you say, in yellow-orange text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/yelloworange.txt)<br/>
-`?green` Make Dyno say what you say, in light green text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/green.txt)<br/>
+`?embed` Post an embedded message. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/embed.txt)  
+`?say` Make Dyno say what you say. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/say.txt)  
+`?bluegreen` Make Dyno say what you say, in blue-green text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/bluegreen.txt)  
+`?orange` Make Dyno say what you say, in orange text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/orange.txt)  
+`?red` Make Dyno say what you say, in red text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/red.txt)  
+`?yelloworange` Make Dyno say what you say, in yellow-orange text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/yelloworange.txt)  
+`?green` Make Dyno say what you say, in light green text. [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/green.txt)  
 ## Verification ([Docs](verification))
-`?getcode` Part of the verification process, DMs you your signup code. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/getcode.txt)<br/>
-Signup Codes: Part of the verification process, use in #signup to get server access. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Signup%20codes.txt)<br/>
-`?unverify` For testing, unverifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unverify.txt)<br/>
-`?verify` Manually verifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/verify.txt)<br/>
+`?getcode` Part of the verification process, DMs you your signup code. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/getcode.txt)  
+Signup Codes: Part of the verification process, use in #signup to get server access. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Signup%20codes.txt)  
+`?unverify` For testing, unverifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unverify.txt)  
+`?verify` Manually verifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/verify.txt)  
 
-We are still working on updating this list!<br/>
+We are still working on updating this list!  
 [**Click here to return back**](https://dynocc.tk)
