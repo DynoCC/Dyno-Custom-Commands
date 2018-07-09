@@ -21,6 +21,7 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 - ``?poll`` creates a new poll in your announcements channel.  
   - Use the format ``?poll [option one] [option two] [question]``  
   - For example, the poll 'Do you like Sandwiches?' would be written as follows: ``?poll Yes No Do you like Sandwiches?``  
+  
 - ``?op1`` and ``?op2`` are the two voting commands.  
   - Following the example above, a user that enjoys sandwiches would type ``?op1`` to vote Yes.  
   - Note that once someone has voted, they cannot change their choice- the command will not work for them until you have closed the poll.
@@ -31,7 +32,7 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 
 -``?pollclose`` ends the current poll and removes all users from the roles ``Option1`` and ``Option2``, then announces the result.
   - Use the format ``?pollclose [results]``  
-  - For example, if most people voted yes for Sandwiches, you would might say ``?pollclose Look's like y'all like Sandwiches!``  
+  - For example, if most people voted yes for Sandwiches, you would might say ``?pollclose Looks like y'all like Sandwiches!``  
   - Note that the bot will also output a message noting the roles that are being removed. This is normal- you can use this command in a separate channel to hide the output.
   
 ## Conclusion
