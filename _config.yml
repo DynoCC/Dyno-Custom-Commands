@@ -7,3 +7,5 @@ theme: jekyll-theme-architect
 image: https://dynocc.xyz/files/dcc_logo.png
 color: "#00a2ff"
 google_analytics: UA-121944166-1
+plugins:
+  - jekyll-redirect-from

@@ -1,6 +1,7 @@
 ---
 title: Dyno Custom Commands
 layout: homepage
+redirect_from: /new-homepage
 ---
 
 # Welcome to Dyno Custom Commands!
