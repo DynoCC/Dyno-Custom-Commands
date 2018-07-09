@@ -18,8 +18,7 @@ amplink: https://dynocc.xyz/amp/Command%20List
 `?dm` DMs a user a message [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/dm.txt)
 
 ### Freeze Commands
-`?setupfreeze` Helps you set up the freeze command [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/setupfreeze.txt) [Docs](https://dynocc.tk/freeze)  
-`?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt) 
+`?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt)
 `?unfreeze` unfreezes chat [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt)
 
 ## Fun :D
