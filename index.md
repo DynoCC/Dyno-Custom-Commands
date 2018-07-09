@@ -14,7 +14,7 @@ You can easily add our commands to your Discord server!
 
 <a href="Command List" class="dcc-button">Custom Commands List</a><span class="divider"></span><a href="CreateOwn" class="dcc-button">Create Your Own Command</a>
 
-<a href="SupportUs" class="dcc-button">Support Us</a><span class="divider"></span><a href="chat" class="dcc-button">Discord Chat</a></span><a href="staff" class="dcc-button">Staff List</a>
+<a href="SupportUs" class="dcc-button">Support Us</a><span class="divider"></span><a href="chat" class="dcc-button">Discord Chat</a><a href="staff" class="dcc-button">Staff List</a>
 
 ## Discord Servers
 * [Dyno Custom Commands](https://discord.gg/D3K3Fqz)
