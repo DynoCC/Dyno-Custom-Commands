@@ -19,7 +19,7 @@ We're always updating this list! Check back often!
 `?permmute` Permanently mutes a user [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/permmute.txt)  
 `?dm` DMs a user a message [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/dm.txt)
 
-### Freeze Commands
+### Freeze Commands ([Docs](freeze))
 `?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt)  
 `?unfreeze` unfreezes chat [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt)
 
