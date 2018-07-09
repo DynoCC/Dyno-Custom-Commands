@@ -7,7 +7,7 @@ layout: homepage
   
 These commands are made solely for the public, so you can experience Dyno the same way we do! 
 
-<iframe src="https://discordapp.com/widget?id=333058206198661132&amp;theme=dark" width="250" height="400" allowtransparency="true" frameborder="0" style="float: right"></iframe>
+<a href="chat" target="_blank" rel="noopener"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" style="float: right; border-radius: 5px"></a>
 
 You can easily add our commands to your Discord server!
 
