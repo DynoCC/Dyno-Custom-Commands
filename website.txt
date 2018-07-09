@@ -1,1 +1,1 @@
-**Here is the DynoCC website: http://dynocc.xyz**
+{!announce {channel} **Here is the DynoCC website: http://dynocc.xyz**}
