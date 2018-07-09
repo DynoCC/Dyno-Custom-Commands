@@ -9,7 +9,7 @@ Founder: [@advaith1](https://github.com/advaith1)
 
 Main Helpers: [@QuinnTDIP](https://github.com/quinntdip), and [@RenderedPix](https://github.com/RenderedPix)
 
-Repo Maintainers: [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy),
+Repo Maintainers: [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy)
 
 Helpers: [@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), and [@Redstonedesiginer](https://github.com/redstonedesigner)
 
