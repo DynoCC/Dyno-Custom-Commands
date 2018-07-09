@@ -1,4 +1,4 @@
 {delete}
 {dm:$1} {user} challenged you to a deathmatch in {channel}!
-{choose:typeracer.com;coin toss; roulette; insults}
+{choose:typeracer.com;coin toss;roulette;insults}
 {!announce {channel} {user} has challeged $1 to a deathmatch! The trial will be {choice}!}
