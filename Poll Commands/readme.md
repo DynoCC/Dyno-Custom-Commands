@@ -24,6 +24,7 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 - ``?op1`` and ``?op2`` are the two voting commands.  
   - Following the example above, a user that enjoys sandwiches would type ``?op1`` to vote Yes.  
   - Note that once someone has voted, they cannot change their choice- the command will not work for them until you have closed the poll.
+  
 -``?pollcount`` posts the current poll results in the channel you use it in.  
   - This will show the members of the two roles, ``Option1`` and ``Option2``.  
   - In rare cases there may be too many members to show in the list. For this, use the default command ``?roleinfo [option1/option2]``.  
