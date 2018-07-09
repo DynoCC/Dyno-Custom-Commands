@@ -9,16 +9,19 @@ amplink: https://dynocc.xyz/amp/Command%20List
 `?commandhelp-a` This command will display the custom command help in chat [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp-a)  
 `?beta` Displays the beta custom command help in chat  
 `?serverupdates` lists server updates [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/serverupdates.txt)  
-`?setupfreeze` Helps you set up the freeze command [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/setupfreeze.txt) [Docs](https://dynocc.tk/freeze)  
-`?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt) 
-`?unfreeze` unfreezes chat [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt)
-`?commandban @user` bans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20ban.txt)  
+`?commandban @user` bans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20ban.txt) 
 `?commandunban @user` unbans a user from using commands [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/command%20unban.txt)  
 `?callmods` Calls the moderators [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/callmods.txt)  
 `?parse` rewrites a complex bug code into a simple message! Made for the DCC BugBot. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/parse.txt)  
 `?website` sends a link to the DynoCC website [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/%3Fwebsite)  
 `?permmute` Permanently mutes a user [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/permmute.txt)  
 `?dm` DMs a user a message [Code](https://github.com/Dynocc/Dyno-Custom-Commands/blob/master/dm.txt)
+
+### Freeze Commands
+`?setupfreeze` Helps you set up the freeze command [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/setupfreeze.txt) [Docs](https://dynocc.tk/freeze)  
+`?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt) 
+`?unfreeze` unfreezes chat [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt)
+
 ## Fun :D
 `?blocked` You can't unblock the Wumpus. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/blocked.txt)  
 `?pending` There are no pending friend requests. Here's a Wumpus for now. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/pending.txt)  
