@@ -27,8 +27,9 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
   
 -``?pollcount`` posts the current poll results in the channel you use it in.  
   - This will show the members of the two roles, ``Option1`` and ``Option2``.  
-  - In rare cases there may be too many members to show in the list. For this, use the default command ``?roleinfo [option1/option2]``.  
--``?pollclose`` ends the current poll and removes all users from the roles ``Option1`` and ``Option2``, as well as announcing the result.  
+  - In rare cases there may be too many members to show in the list. For this, use the default command ``?roleinfo [option1/option2]``.
+
+-``?pollclose`` ends the current poll and removes all users from the roles ``Option1`` and ``Option2``, then announces the result.
   - Use the format ``?pollclose [results]``  
   - For example, if most people voted yes for Sandwiches, you would might say ``?pollclose Look's like y'all like Sandwiches!``  
   - Note that the bot will also output a message noting the roles that are being removed. This is normal- you can use this command in a separate channel to hide the output.
