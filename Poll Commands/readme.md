@@ -11,10 +11,10 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 
 ## List of Commands and Permissions
 
--``?poll`` (Requires: Moderator)  
--``?op1`` and ``?op2``  
--``?pollcount`` (Requires: Moderator)  
--``?pollclose`` (Requires: Moderator)  
+- ``?poll`` (Requires: Moderator)  
+- ``?op1`` and ``?op2``  
+- ``?pollcount`` (Requires: Moderator)  
+- ``?pollclose`` (Requires: Moderator)  
 
 ## Command Use and Syntax
 
