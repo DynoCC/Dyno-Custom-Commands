@@ -2,4 +2,3 @@
 {delete}
 {silent}
 {!ignoreuser $1}
-{!setnick $1 [CmB] $2+}
