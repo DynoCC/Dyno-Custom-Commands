@@ -4,7 +4,9 @@ amplink: https://dynocc.xyz/amp/Command%20List
 ---
 
 # Command List
-## Moderation/Server related
+We're always updating this list! Check back often!
+
+## Moderation/Server Related
 `?commandhelp` This command will send you the custom command help [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp)  
 `?commandhelp-a` This command will display the custom command help in chat [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp-a)  
 `?beta` Displays the beta custom command help in chat  
