@@ -9,11 +9,11 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 - Two Voting Roles, ``Option1`` and ``Option2``. Again, you can name it whatever you want, just make sure to modify the command appropriately.
 - A Moderator Role. In the current code, we used Moderator as our role name.
 
-## List of Commands and Permissions for Them
--``?poll`` (Requires: Moderator)
--``?op1`` and ``?op2``
--``?pollcount`` (Requires: Moderator)
--``?pollclose`` (Requires: Moderator)
+## List of Commands and Permissions
+-``?poll`` (Requires: Moderator)  
+-``?op1`` and ``?op2``  
+-``?pollcount`` (Requires: Moderator)  
+-``?pollclose`` (Requires: Moderator)  
 
 ## Command Use and Syntax
 - ``?poll`` creates a new poll in your announcements channel.
