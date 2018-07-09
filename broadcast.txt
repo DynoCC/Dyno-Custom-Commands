@@ -1,3 +1,0 @@
-{delete}
-{respond:#general}
-[BROADCAST] $1+
