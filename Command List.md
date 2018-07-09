@@ -3,7 +3,7 @@ canonical_url: https://dynocc.xyz/Command%20List
 amplink: https://dynocc.xyz/amp/Command%20List
 ---
 
-# WIP Command List
+# Command List
 ## Moderation/Server related
 `?commandhelp` This command will send you the custom command help [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp)  
 `?commandhelp-a` This command will display the custom command help in chat [Code](https://github.com/DynoCC/gamedevchat-dyno/blob/master/%3Fcommandhelp-a)  
@@ -21,7 +21,7 @@ amplink: https://dynocc.xyz/amp/Command%20List
 `?freeze` freezes chat to staff only [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/freeze.txt)  
 `?unfreeze` unfreezes chat [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Freeze%20Commands/unfreeze.txt)
 
-## Fun :D
+## Fun
 `?blocked` You can't unblock the Wumpus. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/blocked.txt)  
 `?pending` There are no pending friend requests. Here's a Wumpus for now. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/pending.txt)  
 `depress me` :( [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/depress%20me.txt)  
