@@ -48,7 +48,9 @@ Command by TheRoboticon
 ## Conclusion
 
 Enjoyed our mini-games? Have any problems? Need help with the setup? Check out our [Discord Server](https://discord.gg/D3K3Fqz) and visit the #command-support channel for help!
- 
+
+You can also find more commands to spice up your server at [Fun Commands](Fun%20Commands)
+
 *This guide was written by TheRoboticon*
 
 
