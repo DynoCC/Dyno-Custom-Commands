@@ -31,4 +31,4 @@ You can easily add our commands to your Discord server!
 
 Copyright Notice: We are not in any way, shape, or form affiliated with the [Dyno](https://dyno.gg) team. We do not take credit for anything Dyno can do, we simply make commands that add new functionality to Dyno. We are also not in any way, shape, or form affiliated with [Discord Inc](https://discord.gg).
 
-Note: We use Google Analytics. [Privacy Info](https://https://policies.google.com/technologies/partner-sites)
+Note: We use Google Analytics. [Privacy Info](https://policies.google.com/technologies/partner-sites)
