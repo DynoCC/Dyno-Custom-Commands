@@ -4,16 +4,22 @@ We assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for i
 ## Single Command
 - ``?8ball [Question]``
   -Returns an [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) response to your question.
+  
 - ``?blocked``
-  -Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.  
+  -Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
+  
 -``?depressme``
-  - Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)  
+  - Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
+  
 -``?hug [User]``
   - Sends a message in chat saying that the user hugged the specified person.  
+  
 -``?muteme``
   - Mutes the command user for 10 minutes. This won't work with Moderators because of Dynobot Limitations.  
+  
 -``?random``  
   - Shows a random Wumpus Picture.  
+  
 -``sacrifice [person/object]``  
   - Sacrifices the specified person or object to a random deity or organization.  
   
