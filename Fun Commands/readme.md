@@ -8,7 +8,7 @@ Want to spice up your server with some fun commands? Here are a few to include!
   -Returns an [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) response to your question.
   
 - ``?blocked``
-  -Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
+  - Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
   
 -``?depressme``
   - Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
