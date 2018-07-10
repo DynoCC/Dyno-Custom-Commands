@@ -12,4 +12,4 @@ Command by Amosharper
 #### Usage
  - The syntax for this command is ``?crownme``.
  - A member who does not currently hold the role of ``Caesar`` can use the command, which moves them to the role of Caesar.
- - When this command is run, it removes the ``Caesar`` from any other users.
+ - When this command is run, it removes the ``Caesar`` role from any other users.
