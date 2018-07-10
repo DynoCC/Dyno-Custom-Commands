@@ -1,0 +1,4 @@
+{require:serverMod}
+{!role $1 +Cool}
+{!announce #cool-people :tada:**$1** is now cool because: $2+}
+I have successfully made $1 a cool person!
