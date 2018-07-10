@@ -1,5 +1,9 @@
 # Mini-Games
 
+We assume you are using the `?` prefix for this guide. We will denote inputs as `[input]` and choice inputs as `[input1/input2]` respectively.
+
+*If you have any problems with the commands, you can visit the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz)'s Support Channel for help.*
+
 ## Caesar Mini-Game
 Command by Amosharper
 
