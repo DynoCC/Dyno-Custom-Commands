@@ -1,0 +1,2 @@
+{require: Staff} {delete} 
+{dm:$1} Sorry, but your nickname request for the nickname $2+ was denied.
