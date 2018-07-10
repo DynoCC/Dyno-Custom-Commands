@@ -1,6 +1,7 @@
 # Fun Commands
 Want to spice up your server with some fun commands? Here are a few to include!  
-Note: We assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for inputs and ``[input1/input2]`` for choice inputs.
+
+**Note:** We assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for inputs and ``[input1/input2]`` for choice inputs.
 
 ## Simple Commands
 - ``?8ball [Question]``
