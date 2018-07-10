@@ -19,7 +19,7 @@ We assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for i
   
 ## Mini-Games
 
-###``?crownme``
+### Caesar Mini-Game
 Command by Amosharper
 
 > A simple game where only one person can hold the role of ``Caesar``, and anyone can claim it. Requires an existing role of ``Caesar``, preferably with a distinct color. Could give ``Caesar`` special privileges, like the ability to post embeds, or use external emoji, or to mute other users. Since the calling message is deleted (to cut down on bot spam), you'll need to document the command somewhere.
