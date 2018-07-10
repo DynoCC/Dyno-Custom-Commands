@@ -16,7 +16,7 @@ canonical_url: 'https://dynocc.xyz/staff'
 [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy)
 
 ## Custom Command Helpers
-[@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), and [@Redstonedesiginer](https://github.com/redstonedesigner)
+[@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), [@Darqness](https://github.com/Darqness), and [@Redstonedesiginer](https://github.com/redstonedesigner)
 
 ## Mods
 [@WHASonYT](https://github.com/whasonyt)
