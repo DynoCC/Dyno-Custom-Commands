@@ -22,6 +22,6 @@ Want to spice up your server with some fun commands? Here are a few to include!
   
 Need **even more** fun commands? Check out the Mini-Game folder for some fun mini-games to add to your server!
 
-*If you have any problems with the commands, you can visit the Dyno Custom Command Server's Support Channel for help.*
+*If you have any problems with the commands, you can visit the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz)'s Support Channel for help.*
 
 *This guide was written by TheRoboticon.*
