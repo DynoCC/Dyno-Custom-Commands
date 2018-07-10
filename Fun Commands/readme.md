@@ -16,7 +16,9 @@ Want to spice up your server with some fun commands? Here are a few to include!
   
 - ``?random`` Shows a random Wumpus Picture.  
   
-- ``sacrifice [person/object]`` Sacrifices the specified person or object to a random deity or organization.  
+- ``sacrifice [person/object]`` Sacrifices the specified person or object to a random deity or organization.
+
+- ``deathmatch [user]`` Challenges the user to a randomly chosen trial and sends a direct message notifying them. Note: To use this command, you should also install the ``?roulette`` command in the Mini-Games folder.
   
 Need **even more** fun commands? Check out the Mini-Game folder for some fun mini-games to add to your server!
 
