@@ -17,7 +17,7 @@ Command by Amosharper
 ## Infection Mini-Game
 Command by TheRoboticon
 
-> A zombie plague has infected the server! Users can infect themselves with `?plague`, then infect other people with `?infect`. Those infected might want to use `?cure` to save themselves, but should beware the dangerous side effects!
+> A zombie plague has infected the server! Users can infect themselves with `?plague`, then infect other people with `?infect`. Those infected might want to use `?cure` to save themselves, but should be wary of a dangerous side effect!
 
 ### Requirements
  - Create the two roles `Infected` and `Uninfected`. If you'd like, you can set the `Infected` role to have some disadvantages, such as the inability to use emotes.
@@ -28,3 +28,7 @@ Command by TheRoboticon
  - An `Infected` user can then infect other users with `?infect [user]`. Note the commands sends a Direct Message to the 'victim', notifying them that they have been infected.
  - `Infected` can use `?cure` to cure themselves. *This command has a 1/2 chance to mute the user, as a 'side effect'.*
  - `?treat` is a command limited to moderators, which moves all players to the `Uninfected` Role and removes the `Infected` Role.
+
+## Roulette
+
+This command will be added in soon!
