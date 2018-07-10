@@ -8,7 +8,8 @@ redirect_from: /new-homepage
   
 These commands are made solely for the public, so you can experience Dyno the same way we do! 
 
-You can easily add our commands to your Discord server!</br>
+You can easily add our commands to your Discord server!
+
 <a href="chat" target="_blank" rel="noopener"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" style="float: right; border-radius: 5px"></a>
 
 
