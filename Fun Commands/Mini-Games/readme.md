@@ -47,7 +47,7 @@ Command by TheRoboticon
  
 ## Conclusion
 
-Enjoyed our mini-games? Have any problems? Need help with the setup? Check out our Discord Server and visit the #command-support channel for help!
+Enjoyed our mini-games? Have any problems? Need help with the setup? Check out our [Discord Server](https://discord.gg/D3K3Fqz) and visit the #command-support channel for help!
  
 *This guide was written by TheRoboticon*
 
