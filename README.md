@@ -25,7 +25,7 @@ See our Discord server for the full list, because Quinn can't seem to ever finis
 * [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://github.com/DynoCC)
 * [Dyno's server](https://discord.gg/dyno) [<img src="https://discordapp.com/api/guilds/203039963636301824/widget.png">](https://discord.gg/dyno)
 * [Dyno Website](https://dynobot.net) [![Dyno Website](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
-* [DBug Reporter](https://docs.google.com/forms/d/e/1FAIpQLSetijqRFMaqoa5Eo88wNz4EC8wKqxi9BYVc2soFW071Kx4Nkg/viewform?fbzx=-1376132603716059600)
+* [DBug Reporter](https://docs.google.com/forms/d/e/1FAIpQLSetijqRFMaqoa5Eo88wNz4EC8wKqxi9BYVc2soFW071Kx4Nkg/viewform?fbzx=-1376132603716059600) [![DBug Reporter](https://img.shields.io/badge/Bug-Reporter-337fd5.svg)](https://docs.google.com/forms/d/e/1FAIpQLSetijqRFMaqoa5Eo88wNz4EC8wKqxi9BYVc2soFW071Kx4Nkg/viewform?fbzx=-1376132603716059600)
 
 A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List).
 
