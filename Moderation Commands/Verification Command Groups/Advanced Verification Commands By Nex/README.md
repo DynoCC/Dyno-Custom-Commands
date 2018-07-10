@@ -1,5 +1,5 @@
 # **Getting Started**
-*If you have any problems, head to the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz) and send a message to the @TheRoboticon#8358*
+*If you have any problems, head to the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz) and send a message to the support staff.*
 
 #### **Things Needed:**
 
