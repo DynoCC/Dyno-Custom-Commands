@@ -1,7 +1,8 @@
 # Fun Commands
-We assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for inputs and ``[input1/input2]`` for choice inputs.
+Want to spice up your server with some fun commands? Here are a few to include!
+Note: We assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for inputs and ``[input1/input2]`` for choice inputs.
 
-## Single Command
+## Simple Commands
 - ``?8ball [Question]``
   -Returns an [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) response to your question.
   
