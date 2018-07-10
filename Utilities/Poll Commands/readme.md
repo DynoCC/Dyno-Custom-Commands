@@ -1,5 +1,5 @@
 # Poll System
-This guide will teach you how to set up the Poll System, developed by TheRoboticon. *If you have any problems, head to the Dyno Custom Commands Server and send a message to the @TheRoboticon#8358*
+This guide will teach you how to set up the Poll System, developed by TheRoboticon.
 
 ## Guide Markdown:
 We assume that you are using the default command prefix, ``?``. Inputs will be written as ``[input]``. Choice inputs will be denoted as ``[input1/input2]``, respectively.
@@ -40,3 +40,5 @@ We assume that you are using the default command prefix, ``?``. Inputs will be w
 Congratulations on installing the new Poll Command system! Maybe you could ask your server members if they enjoy sandwiches as your first poll?
 
 Hopefully this guide was helpful (*It better be, I spent a good 30 minutes on it*). If you have any questions, head over to the Dyno Custom Command server and ask the support staff for help, and we'll gladly help you through the process.
+
+*This guide was written by TheRoboticon*
