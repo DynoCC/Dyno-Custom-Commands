@@ -10,19 +10,19 @@ Want to spice up your server with some fun commands? Here are a few to include!
 - ``?blocked``
   - Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
   
--``?depressme``
+- ``?depressme``
   - Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
   
--``?hug [User]``
+- ``?hug [User]``
   - Sends a message in chat saying that the user hugged the specified person.  
   
--``?muteme``
+- ``?muteme``
   - Mutes the command user for 10 minutes. This won't work with Moderators because of Dynobot Limitations.  
   
--``?random``  
+- ``?random``  
   - Shows a random Wumpus Picture.  
   
--``sacrifice [person/object]``  
+- ``sacrifice [person/object]``  
   - Sacrifices the specified person or object to a random deity or organization.  
   
 Need even **more** fun commands? Check out the Mini-Game folder for some fun mini-games to add to your server!
