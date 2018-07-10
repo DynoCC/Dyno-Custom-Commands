@@ -1,0 +1,6 @@
+	{delete}
+  {silent}
+  {require:Mod}
+  All server members have been disinfected. **You're all cured!**
+  {!role all +Uninfected}
+  {!role all -Infected}
