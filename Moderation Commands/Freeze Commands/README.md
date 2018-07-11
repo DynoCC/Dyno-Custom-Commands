@@ -14,7 +14,7 @@ permalink: /freeze
 
 ![Freeze Perms](https://cdn.discordapp.com/attachments/252296452708106240/349807958378414084/Screen_Shot_2017-08-20_at_9.26.10_PM.png)
 
-*(Of course we don't use light theme, we painfully went through the ordeal of turning on light theme to make this image blend in better with the rest of the page.)*
+*Of course we don't use light theme, we painfully went through the ordeal of turning on light theme to make this image blend in better with the rest of the page.*
 
 Once you complete setting that for each channel, the freeze command should be ready. Simply use `?freeze` to freeze the server, and `?unfreeze` to revert to normal.
 Note that on large servers it may take a while to freeze everyone, up to a minute.
