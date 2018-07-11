@@ -1,3 +1,8 @@
+---
+title: Fun Commands
+permalink: /Fun Commands
+---
+
 # Fun Commands
 Want to spice up your server with some fun commands? Here are a few to include!  
 
