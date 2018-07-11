@@ -1,3 +1,0 @@
-{require:servermod}
-{!warn $1}
-{!mute $1 $2}
