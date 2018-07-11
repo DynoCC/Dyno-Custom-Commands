@@ -9,6 +9,8 @@ Want to spice up your server with some fun commands? Here are a few to include!
 - ``?blocked`` Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
   
 - ``?depressme`` Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
+
+- ``?pending`` Shows the [Wumpus Picture](https://dynocc.xyz/files/pending.png) for pending friend requests.
   
 - ``?hug [User]`` Sends a message in chat saying that the user hugged the specified person.  
   
