@@ -4,7 +4,7 @@ ALL COMMANDS IN THIS SECTION ARE STILL IN THE PROCESS OF BEING REVIEWED. USE THE
 
 We assume you are using the `?` prefix. Input will be denoted as `[input]` and multi-choice inputs will be written as `[input1/input2]`, respectively.
 
-Used Roles in these commands:
+Used Roles in these commands:  
 `Moderator` - High level role, above Administrator. These users should be able to access multiple server settings.
 
 `Administrator` - Lower level role. Cleans up chat and has mute and purge abilities.
