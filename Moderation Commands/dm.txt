@@ -1,4 +1,3 @@
 {delete}
-{require:serverMod}
-{dm:$1}
-$2+
+{require:Moderator}
+{dm:$1}$2+
