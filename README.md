@@ -13,7 +13,7 @@ Repo Maintainers: [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](h
 
 Helpers: [@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), and [@Redstonedesiginer](https://github.com/redstonedesigner)
 
-Mods: WHASonYT#0735, and FILLER TEXT
+Mods: [@WHASonYT](https://github.com/whasonyt)
 
 See our Discord server for the full list, because Quinn can't seem to ever finish this.  
 > We've created a [server](https://discord.gg/D3K3Fqz) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
