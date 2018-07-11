@@ -1,5 +1,6 @@
 ---
-canonical_url: 'https://dynocc.xyz/verification'
+canonical_url: https://dynocc.xyz/verification
+permalink: /verification
 ---
 
 # Verification
