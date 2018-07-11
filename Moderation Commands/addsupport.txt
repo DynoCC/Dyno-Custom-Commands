@@ -1,6 +1,6 @@
-	{delete}
-  {silent}
-  {require: Main Custom Command creators}
-  {!role $1 +Support}
-  {dm:$1}
-  You have been added to the <:dcctrans:335114857495920640> DCC Support team!
+{delete}
+{silent}
+{require: Main Custom Command creators}
+{!role $1 +Support}
+{dm:$1}
+You have been added to the <:dcctrans:335114857495920640> DCC Support team!
