@@ -1,6 +1,6 @@
 ---
 title: Fun Commands
-permalink: /Fun%20Commands
+permalink: /FunCommands
 ---
 
 # Fun Commands
