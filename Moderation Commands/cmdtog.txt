@@ -1,3 +1,4 @@
+{require:Moderator}
 {require:Administrator}
 {delete}
 {silent}
