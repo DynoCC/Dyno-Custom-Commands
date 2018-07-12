@@ -1,0 +1,4 @@
+{user} has successfully requested the username $1. Your nickname request should be reviewed under 48 hours.
+{!announce #your-channel-here TIME: {date}, {time12} EST
+USER: {user}
+REQUESTED NICKNAME: $1+}

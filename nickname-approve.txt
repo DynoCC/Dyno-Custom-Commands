@@ -1,0 +1,3 @@
+{require: Staff} {delete} 
+{!setnick $1 $2+} 
+{dm:$1} Your nickname request has been approved for the nickname $2+. Enjoy!
