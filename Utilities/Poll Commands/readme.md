@@ -1,3 +1,8 @@
+---
+title: Poll Commands
+permalink: /Utilites/PollCommands
+---
+
 # Poll System
 This guide will teach you how to set up the Poll System, developed by TheRoboticon.
 
