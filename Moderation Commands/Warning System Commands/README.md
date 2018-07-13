@@ -1,10 +1,7 @@
-----
-
-Title: Warning System Commands
-Permalink: /WarningSystem/
-
-----
-
+---
+title: Warning System Commands
+permalink: /ModerationCommands/WarningSystem/
+---
 
 # **Getting Started**
 
