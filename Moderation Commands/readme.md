@@ -1,3 +1,9 @@
+---
+title: Moderation Commands
+permalink: /ModerationCommands/
+---
+
+
 # Moderation Commands
 
 We assume you are using the `?` prefix. Input will be denoted as `[input]` and multi-choice inputs will be written as `[input1/input2]`, respectively.
