@@ -1,3 +1,8 @@
+---
+title: Sleep Commands
+permalink: /Utilities/SleepCommands/
+---
+
 # Sleep Commands
 
 ## Usage
