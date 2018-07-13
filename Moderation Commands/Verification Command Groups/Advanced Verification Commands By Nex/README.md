@@ -1,3 +1,9 @@
+---
+title: Advanced Verification Commands
+permalink: /ModerationCommands/AdvancedVerificationCommands
+---
+
+
 # **Getting Started**
 *If you have any problems, head to the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz) and send a message to the support staff.*
 
