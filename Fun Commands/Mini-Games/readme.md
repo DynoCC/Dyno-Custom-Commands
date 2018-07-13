@@ -1,3 +1,8 @@
+---
+title: Mini-Games
+permalink: /MiniGames/
+---
+
 # Mini-Games
 
 We assume you are using the `?` prefix for this guide. We will denote inputs as `[input]` and choice inputs as `[input1/input2]` respectively.
