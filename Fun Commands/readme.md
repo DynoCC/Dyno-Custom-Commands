@@ -27,7 +27,7 @@ Want to spice up your server with some fun commands? Here are a few to include!
 
 - ``?deathmatch [user]`` Challenges the user to a randomly chosen trial and sends a direct message notifying them. To use this command, you should also install the ``?roulette`` command in the Mini-Games folder.
   
-Need **even more** fun commands? Check out the Mini-Game folder for some fun mini-games to add to your server!
+Need **even more** fun commands? Check out the [Mini-Games](https://www.dynocc.xyz/FunCommands/MiniGames) section for some fun mini-games to add to your server!
 
 *If you have any problems with the commands, you can visit the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz)'s Support Channel for help.*
 
