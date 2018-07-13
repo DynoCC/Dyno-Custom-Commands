@@ -1,0 +1,7 @@
+**1. Current 24 hour time (EST):** `{time}`
+
+**2. Current 12 hour time (EST):** `{time12}`
+
+**3. Current date with the 24 hour time (EST):** `{datetime}`
+
+**4. Current date with the 12 hour time (EST):** `{datetime12}`
