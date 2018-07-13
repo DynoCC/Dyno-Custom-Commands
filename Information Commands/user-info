@@ -1,0 +1,15 @@
+**1. User ID:** `{user.id}`
+
+**2. Username including the discriminator:** `{user.name}`
+
+**3. Username excluding the discriminator:** `{user.username}`
+
+**4. Discriminator:** `{user.discriminator}`
+
+**5. Nickname:** `{user.nick}`
+
+**6. Avatar URL:** `{user.avatar}`
+
+**7. Account Creation Date:** `{user.createdAt}`
+
+**8. Joined Server On:** `{user.joinedAt}
