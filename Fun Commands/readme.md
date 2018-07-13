@@ -9,7 +9,7 @@ Want to spice up your server with some fun commands? Here are a few to include!
 **Note:** In this guide, we assume you are using the ``?`` prefix. Syntax is denoted as ``[input]`` for inputs and ``[input1/input2]`` for choice inputs.
 
 ## Simple Commands
-- ``?8ball [Question]`` Returns an [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) response to your question.
+- [`?8ball [Question]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/8ball.txt) Returns an [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) response to your question.
   
 - ``?blocked`` Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
   
