@@ -1,0 +1,5 @@
+**1. Channel ID:** `{channel.id}`
+
+**2. Channel Name:** `{channel.name}`
+
+**3. Channel Mention:** `{channel.mention}`
