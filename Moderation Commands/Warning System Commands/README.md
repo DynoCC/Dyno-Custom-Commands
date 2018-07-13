@@ -1,3 +1,9 @@
+----
+Title: Warning System Commands
+Permalink: /WarningSystem/
+----
+
+
 # **Getting Started**
 
 
