@@ -17,7 +17,7 @@ Want to spice up your server with some fun commands? Here are a few to include!
 
 - [`?pending`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/pending.txt) Shows the [Wumpus Picture](https://dynocc.xyz/files/pending.png) for pending friend requests.
   
-- [`?hug [User]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/hug.txt) Sends a message in chat saying that the user hugged the specified person.  
+- [`?hug [user]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/hug.txt) Sends a message in chat saying that the user hugged the specified person.  
   
 - [`?muteme`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/muteme.txt) Mutes the command user for 10 minutes. This won't work with Moderators because of Dynobot Limitations.  
   
