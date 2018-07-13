@@ -11,21 +11,21 @@ Want to spice up your server with some fun commands? Here are a few to include!
 ## Simple Commands
 - [`?8ball [Question]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/8ball.txt) Returns an [Magic 8 Ball](https://en.wikipedia.org/wiki/Magic_8-Ball) response to your question.
   
-- ``?blocked`` Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
+- [`?blocked`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/blocked.txt) Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
   
-- ``?depressme`` Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
+- [`?depressme`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/depressme.txt) Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
 
-- ``?pending`` Shows the [Wumpus Picture](https://dynocc.xyz/files/pending.png) for pending friend requests.
+- [`?pending`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/pending.txt) Shows the [Wumpus Picture](https://dynocc.xyz/files/pending.png) for pending friend requests.
   
-- ``?hug [User]`` Sends a message in chat saying that the user hugged the specified person.  
+- [`?hug [User]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/hug.txt) Sends a message in chat saying that the user hugged the specified person.  
   
-- ``?muteme`` Mutes the command user for 10 minutes. This won't work with Moderators because of Dynobot Limitations.  
+- [`?muteme`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/muteme.txt) Mutes the command user for 10 minutes. This won't work with Moderators because of Dynobot Limitations.  
   
-- ``?random`` Shows a random Wumpus Picture.  
+- [`?random`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/muteme.txt) Shows a random Wumpus Picture.  
   
-- ``?sacrifice [person/object]`` Sacrifices the specified person or object to a random deity or organization.
+- [`?sacrifice [person/object]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/sacrifice.txt) Sacrifices the specified person or object to a random deity or organization.
 
-- ``?deathmatch [user]`` Challenges the user to a randomly chosen trial and sends a direct message notifying them. To use this command, you should also install the ``?roulette`` command in the Mini-Games folder.
+- [`?deathmatch [user]`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/deathmatch.txt) Challenges the user to a randomly chosen trial and sends a direct message notifying them. To use this command, you should also install the [`?roulette`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/Mini-Games/roulette.txt) command in the Mini-Games section.
   
 Need **even more** fun commands? Check out the [Mini-Games](https://www.dynocc.xyz/FunCommands/MiniGames) section for some fun mini-games to add to your server!
 
