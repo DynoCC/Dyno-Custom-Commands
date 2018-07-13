@@ -1,5 +1,5 @@
-### Getting Started
-- A Staff role.
+### Role Needed
+- Staff
 
 #### How to Use
 
@@ -14,5 +14,5 @@
 - `?nickname-deny [user] [nickname]` or `?nickname-deny @Nex#4568 Nexy`
 
 
-Documentation written by Nex. All commands are made by CraftyCat05.
+*Documentation written by Nex. All commands are made by CraftyCat05.*
 If you need support regarding this command, make sure to join our [discord server](https://discordapp.com/invite/D3K3Fqz).
