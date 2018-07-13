@@ -39,6 +39,7 @@ Command Group by TheRoboticon
  - `?treat` is a command limited to moderators, which moves all players to the `Uninfected` Role and removes the `Infected` Role.
 
 ## [Roulette Mini-Game](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/Mini-Games/roulette.txt)
+Command by TheRoboticon
 
 > Feeling dangerous? Spin the revolver and take your chances with `?roulette`!
 
