@@ -1,4 +1,5 @@
 ---
+title: Basic Verification Commands
 canonical_url: https://dynocc.xyz/verification
 permalink: /verification
 ---
