@@ -28,4 +28,7 @@ Used Roles in these commands:
    
 We're still adding commands! Check back soon!
 
+Server Users going too crazy? Here are some Moderation Command Groups to add to your server!
+[Warning System](https://dynocc.xyz/ModerationCommands/WarningSystem)
+
 *Guide created by TheRoboticon*
