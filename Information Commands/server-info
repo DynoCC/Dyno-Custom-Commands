@@ -1,0 +1,13 @@
+**1. Server's ID:** `{server.id}`
+
+**2. Server's Name:** `{server.name}`
+
+**3. Server's Icon URL:** `{server.icon}`
+
+**4. Server's Member Count:** `{server.memberCount}`
+
+**5. Server's Owner ID:** `{server.ownerID}`
+
+**6. Server's Creation Date:** `{server.createdAt}`
+
+**7. Server's Region:** `{server.region}`
