@@ -9,13 +9,13 @@ We assume you are using the `?` prefix for this guide. We will denote inputs as 
 
 *If you have any problems with the commands, you can visit the [Dyno Custom Commands Server](https://discord.gg/D3K3Fqz)'s Support Channel for help.*
 
-## Caesar Mini-Game
+## [Caesar Mini-Game](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/Mini-Games/crownme.txt)
 Command by Amosharper
 
 > A simple game where only one person can hold the role of ``Caesar``, and anyone can claim it. Requires an existing role of ``Caesar``, preferably with a distinct color. Could give ``Caesar`` special privileges, like the ability to post embeds, or use external emoji, or to mute other users. Since the calling message is deleted (to cut down on bot spam), you'll need to document the command somewhere.
 
 ### Requirements
- - Create the role ``Caesar``. If you'd like, you can give it specific permissions, as per the description above.
+ - The role ``Caesar``. If you'd like, you can give it specific permissions, as per the description above.
  - (Optional) Add requirements to the command forcing it to be used in a specific channel. For example, to force the command to be used only in the channel, ``#throne-room``, place in the command ``{require:#throne-room}``.
 
 ### Usage
@@ -23,8 +23,8 @@ Command by Amosharper
  - A member who does not currently hold the role of ``Caesar`` can use the command, which moves them to the role of Caesar.
  - When this command is run, it removes the ``Caesar`` role from any other users.
 
-## Infection Mini-Game
-Command by TheRoboticon
+## [Infection Mini-Game](https://github.com/DynoCC/Dyno-Custom-Commands/tree/master/Fun%20Commands/Mini-Games/Infection%20Mini-Game)
+Command Group by TheRoboticon
 
 > A zombie plague has infected the server! Users can infect themselves with `?plague`, then infect other people with `?infect`. Those infected might want to use `?cure` to save themselves, but should be wary of a dangerous side effect!
 
@@ -38,7 +38,7 @@ Command by TheRoboticon
  - `Infected` can use `?cure` to cure themselves. *This command has a 1/2 chance to mute the user, as a 'side effect'.*
  - `?treat` is a command limited to moderators, which moves all players to the `Uninfected` Role and removes the `Infected` Role.
 
-## Roulette Mini-Game
+## [Roulette Mini-Game](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/Mini-Games/roulette.txt)
 
 > Feeling dangerous? Spin the revolver and take your chances with `?roulette`!
 
