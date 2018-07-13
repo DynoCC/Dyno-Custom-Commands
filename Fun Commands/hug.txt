@@ -1,1 +1,2 @@
+{delete}
 {!announce {channel} {user} hugged $1 ❤️}
