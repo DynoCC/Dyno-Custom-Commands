@@ -1,6 +1,6 @@
 ---
 title: Mini-Games
-permalink: /MiniGames/
+permalink: /FunCommands/MiniGames/
 ---
 
 # Mini-Games
