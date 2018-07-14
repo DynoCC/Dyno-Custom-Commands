@@ -9,7 +9,7 @@ canonical_url: 'https://dynocc.xyz/staff'
 
 ## Founder:
 [@advaith](https://www.github.com/advaith1)<br/>
-NO BIO YET. PLEASE WAIT.
+Advaith is dumb. ;) It's a meme.
 <br/>
 <br/>
 
