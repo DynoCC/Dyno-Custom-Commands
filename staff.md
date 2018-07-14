@@ -27,7 +27,7 @@ NO BIO YET. PLEASE WAIT.
 
 ## Repo Maintainers
 [@Nex](https://github.com/NexyBoy)<br/>
-NO BIO YET. PLEASE WAIT.
+No bio shown.
 <br/>
 <br/>
 
