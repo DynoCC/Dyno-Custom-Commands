@@ -10,13 +10,13 @@ canonical_url: 'https://dynocc.xyz/staff'
 
 
 ## Main Helpers
-[@QuinnTDIP](https://www.github.com/QuinnTDIP), and [@RenderedPix](https://github.com/RenderedPix).
+[@QuinnTDIP](https://www.github.com/QuinnTDIP), [@TheRoboticon](https://github.com/TheRoboticon), and [@RenderedPix](https://github.com/RenderedPix).
 
 ## Repo Maintainers and Helpers
 [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy).
 
 ## Custom Command Helpers
-[@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), [@Darqness](https://github.com/Darqness), and [@Redstonedesiginer](https://github.com/redstonedesigner).
+[@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), [@WHASonYT](https://github.com/whasonyt) [@Darqness](https://github.com/Darqness), and [@Redstonedesiginer](https://github.com/redstonedesigner).
 
 ## Mods
-[@WHASonYT](https://github.com/whasonyt), and [@MineClipper](https://github.com/mineclipper).
+[@MineClipper](https://github.com/mineclipper).
