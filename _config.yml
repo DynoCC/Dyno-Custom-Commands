@@ -3,7 +3,7 @@ repotitle: Dyno Custom Commands
 author: The DCC Team
 authorurl: https://dynocc.xyz/staff
 url: https://dynocc.xyz
-theme: minima
+theme: slate
 image: https://dynocc.xyz/files/dcc_logo.png
 color: "#00a2ff"
 google_analytics: UA-121944166-1
