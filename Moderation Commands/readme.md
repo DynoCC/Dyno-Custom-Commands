@@ -29,6 +29,9 @@ Used Roles in these commands:
  - `?demote [user] [role]` Removes the specified role from the specified user.
    - Requires the `Administrator` or `Moderator` role.
    
+ - `?promote [user] [role]` Adds the specifiied role to the specified user.
+   - Requires the `Administrator` or `Moderator` role.
+   
 We're still adding commands! Check back soon!
 
 Server Users going too crazy? Here are some Moderation Command Groups to add to your server! Guides will be added in soon!
