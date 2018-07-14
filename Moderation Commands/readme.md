@@ -37,9 +37,9 @@ We're still adding commands! Check back soon!
 Server Users going too crazy? Here are some Moderation Command Groups to add to your server! Guides will be added in soon!
 
 - [Warning System](https://dynocc.xyz/ModerationCommands/WarningSystem)
-- [Freeze System](https://github.com/DynoCC/Dyno-Custom-Commands/tree/master/Moderation%20Commands/Freeze%20Commands)
-- [Basic Verification](https://github.com/DynoCC/Dyno-Custom-Commands/tree/master/Moderation%20Commands/Verification%20Command%20Groups/Verification%20Commands)
-- [Advanced Verification](https://github.com/DynoCC/Dyno-Custom-Commands/tree/master/Moderation%20Commands/Verification%20Command%20Groups/Advanced%20Verification%20Commands%20By%20Nex)
-- [Nickname Requests](https://github.com/DynoCC/Dyno-Custom-Commands/tree/master/Moderation%20Commands/Nickname%20Request%20Commands)
+- [Freeze System](https://dynocc.xyz/ModerationCommands/Freeze)
+- [Basic Verification](https://dynocc.xyz/ModerationCommands/VerificationCommands/Basic)
+- [Advanced Verification](https://dynocc.xyz/ModerationCommands/VerificationCommands/Nex)
+- [Nickname Requests](https://dynocc.xyz/ModerationCommands/NicknameRequest)
 
 *Guide created by TheRoboticon*
