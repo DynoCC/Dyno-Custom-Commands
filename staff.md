@@ -15,7 +15,7 @@ NO BIO YET. PLEASE WAIT.
 
 ## Main Helpers
 [@QuinnTDIP](https://www.github.com/QuinnTDIP)<br/>
-Quinn has been using Discord for way too long now. He's been with DCC for about a year, and loves cats, The Guide, and someother random things as well! He also has a strange liking of 1984. Go figure.
+Quinn is Big Brother, and Big Brother is the Party. Also uses Discord way too much. Is always watching. 2+2=5. Also has been with DCC for way too long, and really loves... umm..... cats? If having 3 counts?
 
 [@TheRoboticon](https://github.com/TheRoboticon)<br/>
 NO BIO YET. PLEASE WAIT.
