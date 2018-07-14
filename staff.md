@@ -58,4 +58,4 @@ NO BIO YET. PLEASE WAIT.
 
 ## Mods
 [@MineClipper](https://github.com/mineclipper)<br/>
-NO BIO YET. PLEASE WAIT.
+Here comes MineClipper! He is a 15 year old (almost 16) boy who lives in the USA. He loves coding and programming and working with bots and Discord. Playing video games and talking with others is where you can find him. You can reach him on Discord @MineClipper#5193
