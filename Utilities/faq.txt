@@ -1,2 +1,2 @@
 {delete}
-Hello $1+! I have been asked to inform you that the answer to your question is in the <#338668688687366144>. Check the :pushpin: pinned messages of the <#338668688687366144> to find your problem, and click it to show the answer. Thank you!
+Hello $1+! I have been asked to inform you that the answer to your question is in the <#faq>. Check the :pushpin: pinned messages of the <#faq> to find your problem, and click it to show the answer. Thank you!
