@@ -1,18 +1,26 @@
+# Nickname Request Commands
+
+## Guide Markdown:  
+We assume that you are using the default command prefix, `?`. Inputs will be written as `[input]``. Choice inputs will be denoted as [input1/input2]`, respectively.
+
 ### Role Needed
 - Staff
 
-#### How to Use
+#### Usage
 
 ##### For Requesting a nickname
 
-- `?nickname_request [nickname]` or `?nickname_request Nexy`
+- `?nickname_request [nickname]`
+ - For example, a user requesting the nickname `John Smith` would use `?nickname_request John Smith`.
 
 ##### For approving or denying nickname requests
 
-- `?nickname-approve [user] [nickname]` or `?nickname-approve @Nex#4568 Nexy`
+- `?nickname-approve [user] [nickname]`
+  - For example, approving user `@doctorwho#0992`'s nickname `John Smith` would follow the syntax `?nickname-approve @doctorwho#0092 John Smith`.
 
-- `?nickname-deny [user] [nickname]` or `?nickname-deny @Nex#4568 Nexy`
+- `?nickname-deny [user] [nickname]`
+  - For example, denying nickname `@doctorwho#0992`'s nickname `John Smith` would follow the syntax `?nickname-deny @doctorwho#0092 John Smith`.
 
 
-*Documentation written by Nex. All commands are made by CraftyCat05.*
-If you need support regarding this command, make sure to join our [discord server](https://discordapp.com/invite/D3K3Fqz).
+*Documentation written by Nex and updated by TheRoboticon. All commands are made by CraftyCat05.*
+If you need support regarding this command, make sure to join our [Discord Server](https://discordapp.com/invite/D3K3Fqz).
