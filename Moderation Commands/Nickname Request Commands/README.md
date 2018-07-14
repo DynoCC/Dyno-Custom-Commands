@@ -8,8 +8,8 @@ permalink: /ModerationCommands/NicknameRequest
 ## Guide Markdown:  
 We assume that you are using the default command prefix, `?`. Inputs will be written as `[input]`. Choice inputs will be denoted as `[input1/input2]`, respectively.
 
-### Role Needed
-- Staff
+### Requirements
+- ``Staff`` role. These people can deny or approve nicknames.
 
 #### Usage
 
