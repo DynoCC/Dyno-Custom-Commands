@@ -23,7 +23,10 @@ Used Roles in these commands:
  - `?dm [user] [message]` Sends a direct message to the specified user.
    - Requires the `Administrator` or `Moderator` role
    
- - `?permamute [user]` Mutes the user forever, even if they leave the server and return.
+ - `?permamute [user]` Mutes the specified user forever, even if they leave the server and return.
+   - Requires the `Administrator` or `Moderator` role.
+   
+ - `?demote [user] [role]` Removes the specified role from the specified user.
    - Requires the `Administrator` or `Moderator` role.
    
 We're still adding commands! Check back soon!
