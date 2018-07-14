@@ -1,3 +1,8 @@
+---
+title: Nickname Request Commands
+permalink: /ModerationCommands/NicknameRequest
+---
+
 # Nickname Request Commands
 
 ## Guide Markdown:  
