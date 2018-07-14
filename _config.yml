@@ -5,7 +5,7 @@ authorurl: https://dynocc.xyz/staff
 url: https://dynocc.xyz
 theme: jekyll-theme-slate
 image: https://dynocc.xyz/files/dcc_logo.png
-color: "#ffffff"
+color: "#337fd5"
 google_analytics: UA-121944166-1
 plugins:
   - jekyll-redirect-from
