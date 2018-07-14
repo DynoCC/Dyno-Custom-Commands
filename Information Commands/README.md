@@ -41,3 +41,5 @@ This command outputs 8 user specific variables along with their outputs.
 These commands can help you improve the content of your server. For example, you could have a verification code using these variables to state:
 
 Welcome `{user.nick}`! You are the `{server.memberCount}` user on this server!
+
+*Guide by TheRoboticon.*
