@@ -2,20 +2,8 @@
 
 > Awesome Custom Commands for Dyno.
 
-These commands were written by some pretty awesome people, which include our Main and Regular Helpers, and our founder!
+These commands were written by some pretty awesome people, which include our Main and Regular Helpers, and our founder! Check out our staff list [here](https://dynocc.xyz/staff).
 
-## Some of our staff include:
-Founder: [@advaith1](https://github.com/advaith1).
-
-Main Helpers: [@QuinnTDIP](https://github.com/quinntdip), and [@RenderedPix](https://github.com/RenderedPix).
-
-Repo Maintainers: [@TheRoboticon](https://github.com/TheRoboticon), and [@Nex](https://github.com/NexyBoy).
-
-Helpers: [@amosharper](https://github.com/amosharper), [@WolfGang1710](https://github.com/WolfGang1710), [@JoshuaVL1988](https://github.com/JoshuaVL1988), [@DedShotTM](https://github.com/DedShotTM), and [@Redstonedesiginer](https://github.com/redstonedesigner).
-
-Mods: [@WHASonYT](https://github.com/whasonyt), and [@MineClipper](https://github.com/mineclipper).
-
-See our Discord server for the full list, because Quinn can't seem to ever finish this.  
 > We've created a [server](https://discord.gg/D3K3Fqz) for people to test commands, chat about them, get help (with commands), and also track commands that are being worked on!  
 
 ## Helpful Links
