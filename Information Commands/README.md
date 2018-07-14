@@ -4,20 +4,20 @@ Commands by Nex
 These basic commands are used for teaching variable usage.
 Using these commands will output specific command variables and their output.
 
-`?channel-info`
+`?channel-info`  
 This commmand outputs 3 channel specific variables along with their outputs.
  - Channel ID
  - Channel Name
  - Channel Mention
 
-`?datetime-info`
+`?datetime-info`  
 This command outputs 4 time specific variables along with their outputs, in EST.
  - Current 24 hour time
  - Current 12 hour time
  - Current Date with 24 hour time
  - Current Date with 12 hour time
  
-`?server-info`
+`?server-info`  
 This command outputs 7 server specific variables along with their outputs.
  - Server ID
  - Server Name
@@ -27,7 +27,7 @@ This command outputs 7 server specific variables along with their outputs.
  - Server Creation Date
  - Server Region
 
-`?user-info`
+`?user-info`  
 This command outputs 8 user specific variables along with their outputs.
  - User ID
  - Username with Discriminator
