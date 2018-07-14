@@ -1,6 +1,6 @@
 ---
 title: Advanced Verification Commands
-permalink: /ModerationCommands/VerificationCommands/Advanced
+permalink: /ModerationCommands/VerificationCommands/Nex
 ---
 
 
