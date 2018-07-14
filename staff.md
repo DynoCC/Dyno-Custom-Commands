@@ -4,9 +4,8 @@ canonical_url: 'https://dynocc.xyz/staff'
 
 # DCC Staff Team
 > DCC isn't an easy thing to create, which is why this awsome team of people can get so much done!
-<br/>
-<br/>
 
+  
 ## Founder:
 [@advaith](https://www.github.com/advaith1)<br/>
 Advaith is one of the founders of DCC. He also made AdvaithBot and some other cool stuff. You can check him out at advaith.fun, and he's advaith#9121 on Discord.
