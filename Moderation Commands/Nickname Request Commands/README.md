@@ -11,14 +11,14 @@ We assume that you are using the default command prefix, `?`. Inputs will be wri
 ### Requirements
 - ``Staff`` role. These people can deny or approve nicknames.
 
-#### Usage
+### Usage
 
-##### For Requesting a nickname
+#### Requesting a Nickname
 
 - `?nickname_request [nickname]`
  - For example, a user requesting the nickname `John Smith` would use `?nickname_request John Smith`.
 
-##### For approving or denying nickname requests
+#### Approving or Denying Nickname Requests
 
 - `?nickname-approve [user] [nickname]`
   - For example, approving user `@doctorwho#0992`'s nickname `John Smith` would follow the syntax `?nickname-approve @doctorwho#0092 John Smith`.
