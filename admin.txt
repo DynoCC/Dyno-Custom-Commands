@@ -1,9 +1,0 @@
-{delete}
-{require:serverAdmin}
-**Admin Commands** Logged as: {user}
--`.superclean <amount>` (Clean bots :O)
--`.accept <@user> <what you accept>` (Accepts a request)
--`.deny <@user> <what you deny>` (denys a request)
--`.demote <@user> <@role>` (demotes from any role)
--`.promote <@user> <@role>` (Promotes a user to any role)
-**Command credit: Olybear9**
