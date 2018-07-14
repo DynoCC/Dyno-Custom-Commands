@@ -22,6 +22,8 @@ All these commands are to be used with the user ID followed by the reason. For e
 - `?3warn [userID] [reason]` or `?3warn 335405822106664961 Usage of foul language`
 - `?clwarn [userID] [reason]` or `?clwarn 335405822106664961 Timeup`
 
+*How do you get a User Id? Use \@username and copy the number given*
+
 ### **Outputs:**
 The warning commands will output the following:
 - *In Chat:* \[Warned User] just got their 1st/2nd/3rd warning from Moderator \[Command User] for \[Reason]
