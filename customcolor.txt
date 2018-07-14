@@ -1,8 +1,0 @@
-{delete}
-{choose:#6ae021;#cc0000;#00ffff;#3333ff;#33cc33;#cc00cc}
-{silent}
-{!rolecolor $1 {choice}}
-{!addrole $1 {choice}}
-{!role {user} $1}
-**{user} You now have a custom color called $1**
-dont forget!
