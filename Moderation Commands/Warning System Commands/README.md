@@ -3,17 +3,15 @@ title: Warning System Commands
 permalink: /ModerationCommands/WarningSystem/
 ---
 
-# **Getting Started**
+# **Warning System Commands**
 
 
-### **Things Needed:**
+### **Requirements:**
 
 - **Roles:**
 1. 1st Warning
 2. 2nd Warning 
 3. 3rd Warning
-
-
 
 #### **Command Usage:**
 All these commands are to be used with the user ID followed by the reason. For example:
@@ -22,7 +20,7 @@ All these commands are to be used with the user ID followed by the reason. For e
 - `?3warn [userID] [reason]` or `?3warn 335405822106664961 Usage of foul language`
 - `?clwarn [userID] [reason]` or `?clwarn 335405822106664961 Timeup`
 
-*How do you get a User Id? Use \@username and copy the number given*
+*How do you get a User Id? Use \@username and copy just the number given.*
 
 ### **Outputs:**
 The warning commands will output the following:
@@ -36,4 +34,4 @@ The `?clwarn` command will output the following:
 Thank you for using this Dyno Custom Command! If you have any more questions, you can check out our [Discord Server](https://discord.gg/D3K3Fqz)!
 
 
-This guide was updated by TheRoboticon. The commands and warning system was created by Nex.
+*This guide was updated by TheRoboticon. The commands and warning system was created by Nex.*
