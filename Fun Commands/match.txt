@@ -1,0 +1,1 @@
+{choose:10%. Your love isn't much.; 20%. Getting better!; 30%. A third of the way to true love.;40%. Your love is getting great!; 50%. Halfway love!;65%. I ship it!; 85%. The ship is sailing!; 100%. True love!; 69%. LOL best love!; 200%. You two should be married!} The love between $1 and $2 is {choice} Keep getting together and that could change!
