@@ -15,7 +15,7 @@ NO BIO YET. PLEASE WAIT.
 
 ## Main Helpers
 [@QuinnTDIP](https://www.github.com/QuinnTDIP)<br/>
-Quinn is Big Brother, and Big Brother is the Party. Also uses Discord way too much. Is always watching. 2+2=5. Also has been with DCC for way too long, and really loves... umm..... cats? If having 3 counts?
+Quinn is Big Brother, and Big Brother is the Party. Also uses Discord way too much. Is always watching. [2+2=5](https://gist.github.com/QuinnTDIP/de29205f63867588ac14ca6b48a1d59c). Also has been with DCC for way too long, and really loves... umm..... cats? If having 3 counts?
 
 [@TheRoboticon](https://github.com/TheRoboticon)<br/>
 NO BIO YET. PLEASE WAIT.
