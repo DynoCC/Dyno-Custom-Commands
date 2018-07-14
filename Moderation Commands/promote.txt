@@ -1,6 +1,6 @@
 {delete}
-{require:Admin}
-{require:serverMod}
+{require:Administrator}
+{require:Moderator}
 {!role add $1 $2}
 ```css
 Promoted user successfully```
