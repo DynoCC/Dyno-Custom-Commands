@@ -1,4 +1,5 @@
-{require:serverMod}
+{require:Administrator}
+{require:Moderator}
 {silent}
 {!purge startswith .|/|oxyl|o!|~>|%^|$$|$|=|t@|t!|<@127296623779774464>|<@255832257519026178>|dlm!|dhelp|dbump|dlist|ddio|dadd|?|<@109338686889476096>}
 {!purge bots}
