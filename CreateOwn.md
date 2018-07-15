@@ -6,7 +6,7 @@ amplink: https://dynocc.xyz/amp/CreateOwn
 # Create Your Own Command
 You can create a command using Dyno's many variables. Below, you can see many resources for creating a new command, including the list of all the variables.
 
-<iframe style="border-radius: 5px;" height="600" width="100%" frameborder="0" src="https://widgetbot.io/channels/333058206198661132/333130753296564227">Looks like your browser does not support iframes.</iframe>
+<iframe style="border-radius: 5px;" height="600" width="100%" src="https://widgetbot.io/channels/333058206198661132/333130753296564227">Looks like your browser does not support iframes.</iframe>
 
 You can add a command to your own server through the [Dyno dashboard](https://dynobot.net).
 
