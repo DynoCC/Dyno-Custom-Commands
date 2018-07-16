@@ -1,0 +1,2 @@
+{respond:#suggestions} 
+__**New Suggestion**__ 📜 $1+ ----------------------------- *suggested by {user}*
