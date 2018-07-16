@@ -1,0 +1,7 @@
+{require:#report-here}
+{!announce role @ReportsTeam #reports}
+{user} has sent in a new report: 
+**Offender:** $1 
+**Evidence:** $2 
+**Reason:** $3+ 
+{!announce {channel} {user} thanks for the report! The Reports Team will look into it and get back to you shortly.}
