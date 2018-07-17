@@ -1,0 +1,13 @@
+{delete}
+{respond:#reports}
+{dm} Your report has successfully been sent! The Reports Team will look into it and get back to you shortly.
+{!announce {#reports} 
+{&ReportsTeam} a report has been received!
+
+**Channel:** {channel}
+**Reporter:** {user}
+**Offender:** $1
+**Evidence:** $2
+**Reason:** $3+
+
+{datetime}}
