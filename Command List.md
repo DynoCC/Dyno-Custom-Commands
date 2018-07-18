@@ -45,7 +45,4 @@ We're always updating this list! Check back often!
 `?getcode` Part of the verification process, DMs you your signup code. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/getcode.txt)  
 Signup Codes: Part of the verification process, use in #signup to get server access. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Signup%20codes.txt)  
 `?unverify` For testing, unverifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/unverify.txt)  
-`?verify` Manually verifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/verify.txt)  
-
-We are still working on updating this list!  
-[**Click here to return back**](https://dynocc.tk)
+`?verify` Manually verifies a user. [Code](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/verify.txt)

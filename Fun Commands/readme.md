@@ -13,7 +13,7 @@ Want to spice up your server with some fun commands? Here are a few to include!
   
 - [`?blocked`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/blocked.txt) Shows the [Wumpus Picture](https://dynocc.xyz/files/wumpus.PNG) for blocked users.
   
-- [`?depressme`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/depressme.txt) Shows a [Wumpus Picture](https://dynocc.tk/files/alone.png)
+- [`?depressme`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/depressme.txt) Shows a [Wumpus Picture](https://dynocc.xyz/files/alone.png)
 
 - [`?pending`](https://github.com/DynoCC/Dyno-Custom-Commands/blob/master/Fun%20Commands/pending.txt) Shows the [Wumpus Picture](https://dynocc.xyz/files/pending.png) for pending friend requests.
   

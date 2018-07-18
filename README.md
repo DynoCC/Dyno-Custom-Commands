@@ -14,7 +14,7 @@ These commands were written by some pretty awesome people, which include our Mai
 * [Dyno's server](https://discord.gg/dyno) [<img src="https://discordapp.com/api/guilds/203039963636301824/widget.png">](https://discord.gg/dyno)
 * [Dyno Website](https://dynobot.net) [![Dyno Website](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
 
-A work-in-progress list of commands can be found [here](https://dynocc.tk/Command%20List).
+A work-in-progress list of commands can be found [here](Command%20List).
 
 **Some other "Projects":**
-> [Matrix](https://dynocc.tk/bored)! (Made by Olybear9)
+> [Matrix](bored)! (Made by Olybear9)
