@@ -1,6 +1,7 @@
 ---
 title: Basic Verification Commands
-permalink: /ModerationCommands/VerificationCommands/Basic
+canonical_url: https://dynocc.xyz/verification
+permalink: /verification
 ---
 
 # Verification
