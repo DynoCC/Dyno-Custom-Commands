@@ -1,0 +1,5 @@
+{delete}
+{require:serverMod}
+{!purge $1+}
+{dm:$2}
+Some of your messages have been purged in **{server}**. Maybe you didn't follow the rules? Make sure to read them in {#rules}.
