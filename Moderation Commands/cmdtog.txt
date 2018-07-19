@@ -1,5 +1,0 @@
-{require:Moderator}
-{require:Administrator}
-{delete}
-{silent}
-{!ignoreuser $1}
