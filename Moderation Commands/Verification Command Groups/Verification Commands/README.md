@@ -1,5 +1,5 @@
 ---
-title: Basic Verification Commands
+title: Verification System
 canonical_url: https://dynocc.xyz/verification
 permalink: /verification
 ---
@@ -42,7 +42,7 @@ To unverify users when they join the server, you must set up Autorole.
 ## Generating codes for users to use
 
 To use this system, you need to setup some commands that have a set action.  
-You can generate codes using our awesome [Code Generator](https://dynocc.tk/CodeGenerator).  We recommend using 5-10 codes.
+You can generate codes using our awesome [Code Generator](https://dynocc.xyz/CodeGenerator).  We recommend using 5-10 codes.
 You then need to replace each "0" in the "?getcode" command with one of those strings.
 
 After you have done this, you need to create a custom command with EACH of those strings.
@@ -131,4 +131,4 @@ You might want to execute the command "?announce #signup Welcome to our server. 
 
 Note: This page was written assuming your server's prefix is `?`.
 
-Credit to [redstonedesigner](https://github.com/redstonedesigner)#9530 and [advaith](https://github.com/advaith1)#9121 for this page! Commands made by advaith and Olybear
+Credit to [redstonedesigner](https://github.com/redstonedesigner)#9530 and [advaith](https://github.com/advaith1)#9121 for this page! Commands made by advaith and Olybear9.
