@@ -1,6 +1,6 @@
 ---
-title: Freeze Commands
-permalink: ModerationCommands/Freeze
+canonical_url: 'https://dynocc.xyz/freeze'
+permalink: /freeze
 ---
 
 # Freeze Command Docs
