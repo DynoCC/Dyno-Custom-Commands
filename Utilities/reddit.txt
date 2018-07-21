@@ -1,1 +1,0 @@
-{delete} https://www.reddit.com/r/$1
