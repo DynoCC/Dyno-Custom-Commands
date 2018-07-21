@@ -1,0 +1,2 @@
+{delete}
+{!announce {channel} {user}, [Here's](https://bing.com/search?q=$1) your Bing search result for: **$1+**.}
