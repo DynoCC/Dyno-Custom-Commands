@@ -1,4 +1,4 @@
 {delete}
-{require:Moderator}
-{require:Administrator}
-{dm:$1}$2+
+{require:serverMod}
+{dm:$1}
+$2+
