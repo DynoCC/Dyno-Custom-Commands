@@ -12,4 +12,4 @@
 
 **7. Account Creation Date:** `{user.createdAt}`
 
-**8. Joined Server On:** `{user.joinedAt}
+**8. Joined Server On:** `{user.joinedAt}`
