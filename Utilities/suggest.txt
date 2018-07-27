@@ -1,6 +1,0 @@
-{!announce #suggestions **New suggestions by {user}** *(id {user.id})* in **{channel}** *(id \{channel})*
-```
-$1+
-```
-}
-Your suggestion has been recorded, {user}!
