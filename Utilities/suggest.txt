@@ -1,0 +1,5 @@
+{!announce #suggestions **New Suggestion by `{user.name}`** *(User ID: `{user.id}`)* **in `{channel.name}`** *(Channel ID: `{channel.id}`)*
+```$1+
+```
+}
+Your suggestion has been recorded, {user}! Check the #suggestions channel to see your suggestion and vote on others!
