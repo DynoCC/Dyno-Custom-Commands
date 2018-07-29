@@ -14,6 +14,7 @@ This commmand outputs 3 channel specific variables along with their outputs.
 This command outputs 4 time specific variables along with their outputs, in EST.
  - Current 24 hour time
  - Current 12 hour time
+ - Current Date
  - Current Date with 24 hour time
  - Current Date with 12 hour time
  
