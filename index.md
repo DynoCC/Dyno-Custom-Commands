@@ -24,7 +24,6 @@ You can easily add our commands to your Discord server!
 
 ## Partners
 * [AdvaithBot](https://advaithbot.com)
-* [Blargbot Custom Commands](https://bbcc.cf)
 
 ## Extras
 * [Matrix](bored)
