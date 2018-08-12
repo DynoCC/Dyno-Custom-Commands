@@ -19,7 +19,7 @@
 5. `?pc-ignore` - Purges the specified user's and dyno's last specified messages and then ignores the user.
 - Usage: `?pc-ignore [user] [purge&clean-number] [reason]`
 
-6. `?badnick` Changes the nickname of the specified user to "Nice Nickname".
+6. `?badnick` - Changes the nickname of the specified user to "Nice Nickname".
 - Usage: `?badnick [user]`
 
 #### FAQ
