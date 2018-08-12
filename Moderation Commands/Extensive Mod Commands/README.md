@@ -4,7 +4,7 @@
 - A role named "Muted".
 
 ## Information and Usage
-1. `mute-kick` - Mutes the specified user forever and then kicks the user. 
+1. `?mute-kick` - Mutes the specified user forever and then kicks the user. 
 - Usage: `mute-kick [user] [reason]`
 
 2. `?mute-ban` - Mutes the specified user forever and then bans the user.
