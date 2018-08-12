@@ -32,10 +32,6 @@ No bio shown.
 [@amosharper](https://github.com/amosharper)<br/>
 NO BIO YET. PLEASE WAIT.
 
-[@WolfGang1710](https://github.com/WolfGang1710)<br/>
-Hey! That's WolfGang1710, a young 17-year-old teenager. He's french *baguette baguette ahah, all of us know it*. He loves re-doing things to make them more professional and beautiful 😉
-You can find him easily on Discord, Twitter and GitHub, @WolfGang1710#6782
-
 [@JoshuaVL1988](https://github.com/JoshuaVL1988)<br/>
 NO BIO YET. PLEASE WAIT.
 
@@ -45,13 +41,6 @@ NO BIO YET. PLEASE WAIT.
 [@WHASonYT](https://github.com/whasonyt)<br/>
 Will is great at coding, loves to make YouTube videos and listen to music. He also loves ducks and other uncommon pets! Be like Will.
 
-[@Darqness](https://github.com/Darqness)<br/>
-NO BIO YET. PLEASE WAIT.
-
-[@Redstonedesiginer](https://github.com/redstonedesigner)<br/>
-NO BIO YET. PLEASE WAIT.
-<br/>
-<br/>
 
 ## Mods
 [@MineClipper](https://github.com/mineclipper)<br/>
@@ -60,6 +49,9 @@ Here comes MineClipper! He is a 15 year old (almost 16) boy who lives in the USA
 <br/>
 
 ## Former Staff
-DCC has some staff members who are no longer staff, here they are!
-
-[@TheRoboticon](https://github.com/TheRoboticon)
+DCC has some staff members who are no longer staff, here they are!<br/>
+<br/>
+[@TheRoboticon](https://github.com/TheRoboticon)<br/>
+[@WolfGang1710](https://github.com/WolfGang1710)<br/>
+[@Darqness](https://github.com/Darqness)<br/>
+[@Redstonedesiginer](https://github.com/redstonedesigner)<br/>
