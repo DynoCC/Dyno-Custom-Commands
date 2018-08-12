@@ -25,7 +25,7 @@
 #### FAQ
 
 Q.1 - Who can use thse commands?
-Ans: Anyone who shows under the "Moderators" section of `?listmods`.
+- Anyone who shows under the "Moderators" section of `?listmods`.
 
 Q.2 - How can I add a `serverMod`?
-Ans: You can add a `serverMod` using the `?addmod` command.
+- You can add a `serverMod` using the `?addmod` command.
