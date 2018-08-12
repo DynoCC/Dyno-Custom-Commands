@@ -28,7 +28,7 @@
 - Usage: `?badnick [user]`
 - Example: `?badnick @Nex#4568`
 
-#### FAQ
+### FAQ
 
 Q.1 - Who can use thse commands?
 - Anyone who shows under the "Moderators" section of `?listmods`.
