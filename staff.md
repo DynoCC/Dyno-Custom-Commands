@@ -30,7 +30,7 @@ No bio shown.
 
 ## Custom Command Helpers
 [@amosharper](https://github.com/amosharper)<br/>
-NO BIO YET. PLEASE WAIT.
+Amosharper is a tinkerer, perfectionist, and Oxford comma user who loves to build things and rarely says no to a challenge.
 
 [@JoshuaVL1988](https://github.com/JoshuaVL1988)<br/>
 NO BIO YET. PLEASE WAIT.
