@@ -23,7 +23,7 @@ A 19 year old girl that moderates the DCC server and helps with support! That's 
 <br/>
 
 ## Repo Maintainers
-[@Nex](https://github.com/NexyBoy)<br/>
+[@Nex](https://github.com/NexWasTaken)<br/>
 No bio shown.
 <br/>
 <br/>
