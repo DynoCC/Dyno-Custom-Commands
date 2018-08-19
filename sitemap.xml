@@ -15,6 +15,9 @@
     <loc>https://dynocc.xyz/verification</loc>
   </url>
   <url>
+    <loc>https://dynocc.xyz/ModerationCommands/VerificationCommands/Nex</loc>
+  </url>
+  <url>
     <loc>https://dynocc.xyz/CodeGenerator</loc>
   </url>
   <url>
@@ -22,6 +25,15 @@
   </url>
   <url>
     <loc>https://dynocc.xyz/bored</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/chat</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/SupportUs</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/staff</loc>
   </url>
   <url>
     <loc>https://dynocc.xyz/CreateOwn</loc>
@@ -34,10 +46,40 @@
     <loc>https://dynocc.xyz/amp/CodeGenerator</loc>
   </url>
   <url>
+    <loc>https://dynocc.xyz/amp/chat</loc>
+  </url>
+  <url>
     <loc>https://dynocc.xyz/amp/CreateOwn</loc>
      <image:image>
        <image:loc>https://magic.school-b.us/463828651016978442.gif</image:loc>
        <image:caption>Adding a Command to DCC</image:caption>
     </image:image>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/Information%20Commands/</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/ModerationCommands/</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/Moderation%20Commands/Extensive%20Mod%20Commands/</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/ModerationCommands/NicknameRequest</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/ModerationCommands/WarningSystem/</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/FunCommands/</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/FunCommands/MiniGames/</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/Utilities/PollCommands</loc>
+  </url>
+  <url>
+    <loc>https://dynocc.xyz/Utilities/SleepCommands/</loc>
   </url>
 </urlset>
