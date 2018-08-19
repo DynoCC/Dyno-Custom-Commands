@@ -1,6 +1,6 @@
 ---
 title: Poll Commands
-permalink: /Utilites/PollCommands
+permalink: /Utilities/PollCommands
 ---
 
 # Poll System
