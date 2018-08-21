@@ -1,5 +1,6 @@
 ---
 canonical_url: 'https://dynocc.xyz/CodeGenerator'
+amplink: canonical_url: 'https://dynocc.xyz/amp/CodeGenerator'
 ---
 
 # DCC Verification Code Generator
