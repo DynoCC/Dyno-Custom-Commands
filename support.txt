@@ -1,0 +1,4 @@
+{delete}
+{respond:#channelname}
+{user} requested support at {channel}, {&Staff} please make sure to help him!
+Message sent at {date} {time12}
