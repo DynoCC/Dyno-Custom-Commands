@@ -1,4 +1,10 @@
+?support command:
 {delete}
 {respond:#channelname}
-{user} requested support at {channel}, {&Staff} please make sure to help him!
+envelope_with_arrow | {user} requested support at {channel}, {&Staff} please make sure to help him!
 Message sent at {date} {time12}
+---------
+?close command:
+{delete}
+{respond:#channelname}
+incoming_envelope | $1 closed the support case as its solved!
