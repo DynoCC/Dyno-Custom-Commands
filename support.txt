@@ -1,4 +1,4 @@
-?support command:
+?reqsupport command:
 {delete}
 {respond:#channelname}
 {choose:345;879;679;657;920;657;425;657}
