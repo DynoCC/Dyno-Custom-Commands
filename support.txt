@@ -1,14 +1,13 @@
 ?support command:
 {delete}
-{require:serverMod}
 {respond:#channelname}
 {choose:345;879;679;657;920;657;425;657}
 envelope_with_arrow | {user} requested support at {channel}, {&Staff} please make sure to help him!
-``Case Number {choice}``
+**Case Number {choice}**
 Message sent at {date} {time12}
 ---------
 ?close command:
 {delete}
-{require:serverMod}
+{require:serverMod or Support Team}
 {respond:#channelname}
-incoming_envelope | {user} closed the support case(put number's case) as its solved!
+incoming_envelope | **{user} closed the support case(put number's case) as its solved!**
