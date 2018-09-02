@@ -1,0 +1,14 @@
+?reqsupport command:
+{delete}
+{respond:#channelname}
+{choose:345;879;679;657;920;657;425;657}
+:envelope_with_arrow: | {user} requested support at {channel}, {&Staff} please make sure to help him!
+Details:$1+
+**Case Number {choice}**
+Message sent at {date} {time12}
+---------
+?close command:
+{delete}
+{require:serverMod or Support Team}
+{respond:#channelname}
+:incoming_envelope: | **{user} closed the support case $1-(case number here) as its solved!**
