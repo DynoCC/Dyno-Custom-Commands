@@ -1,6 +1,6 @@
 ---
 canonical_url: https://dynocc.xyz/variables
-amplink: https://dynocc.xyz/amp/variables
+layout: amp
 ---
 
 # Variables
