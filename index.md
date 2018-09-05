@@ -13,7 +13,7 @@ You can easily add our commands to your Discord server!
 <a href="chat"><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" style="float: right; border-radius: 5px"></a>
 
 
-<a href="Command List" class="dcc-button">Custom Commands List</a><span class="divider"></span><a href="CreateOwn" class="dcc-button">How to Create Your Own Command</a>
+<a href="Command List" class="dcc-button">Custom Commands List</a><span class="divider"></span><a href="CreateOwn" class="dcc-button">How to Create a Command</a>
 
 <a href="SupportUs" class="dcc-button">Support Us</a><span class="divider"></span><a href="chat" class="dcc-button">Discord Chat</a><span class="divider"></span><a href="staff" class="dcc-button">Staff List</a>
 

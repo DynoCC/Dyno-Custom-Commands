@@ -6,9 +6,13 @@ amplink: https://dynocc.xyz/amp/CreateOwn
 # Create Your Own Command
 You can create a command using Dyno's many variables. Below, you can see many resources for creating a new command, including the list of all the variables.
 
+<a href="/variables" class="dcc-button">Variables List</a><span class="divider"></span><a href="#adding-to-dcc" class="dcc-button">Add Command to DCC</a>
+
 <iframe style="border-radius: 5px;" height="600" width="100%" src="https://cl1.widgetbot.io/channels/333058206198661132/333130753296564227">Looks like your browser does not support iframes.</iframe>
 
 You can add a command to your own server through the [Dyno dashboard](https://dynobot.net).
+
+---
 
 ## Adding to DCC
 Once you create a cool Custom Command, you can submit it to DCC by following the steps below:
