@@ -1,6 +1,7 @@
 ---
 canonical_url: https://dynocc.xyz/CreateOwn
 amplink: https://dynocc.xyz/amp/CreateOwn
+description: Create your own Custom Command for the Dyno Discord bot!
 ---
 
 # Create Your Own Command

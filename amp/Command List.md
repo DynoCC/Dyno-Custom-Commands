@@ -1,6 +1,7 @@
 ---
 canonical_url: https://dynocc.xyz/Command%20List
 layout: amp
+description: A list of custom commands we've made for the Dyno Discord bot
 ---
 
 # Command List

@@ -1,6 +1,7 @@
 ---
 canonical_url: https://dynocc.xyz/variables
 layout: amp
+description: A list of variables you can use in custom commands and autoresponders for Dyno
 ---
 
 # Variables
