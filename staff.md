@@ -44,6 +44,9 @@ Will is great at coding, loves to make YouTube videos and listen to music. He al
 ## Mods
 [@MineClipper](https://github.com/mineclipper)<br/>
 Here comes MineClipper! He is a 15 year old (almost 16) boy who lives in the USA. He loves coding and programming and working with bots and Discord. Playing video games and talking with others is where you can find him. You can reach him on Discord @MineClipper#5193
+
+[@yolothePro](https://github.com/yolothePro)<br/>
+A boy who likes making custom commands, He knows everything about dyno. He likes playing video games, you can contact him in discord by searching yologamerXD2Comeback#3434.
 <br/>
 <br/>
 
