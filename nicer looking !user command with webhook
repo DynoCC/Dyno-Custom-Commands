@@ -1,0 +1,21 @@
+{delete}
+{!announce {channel} 
+```The Information you seek is Below ```
+_ _
+_ _
+__User Information__
+_ _                                                                                                                      _ _
+_ _                                                                                                                      _ _
+User: $1
+_ _                                                                                                                      _ _
+_ _                                                                                                                      _ _
+User ID: $1.user.id                                      
+_ _
+_ _
+Join Date: $1.user.joinedAt 
+_ _
+_ _
+Account Created On: $1.user.createdAt 
+_ _
+_ _
+User Profile Picture:} $1.user.avatar}
