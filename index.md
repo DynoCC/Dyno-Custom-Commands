@@ -2,6 +2,7 @@
 title: Dyno Custom Commands
 layout: homepage
 redirect_from: /new-homepage
+amplink: https://dynocc.xyz/amp
 ---
 
 # Welcome to Dyno Custom Commands!
