@@ -2,6 +2,7 @@
 title: Dyno Custom Commands
 layout: amp
 canonical_url: https://dynocc.xyz
+permalink: /amp
 ---
 
 # Welcome to Dyno Custom Commands!
