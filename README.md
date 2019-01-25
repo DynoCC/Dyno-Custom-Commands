@@ -12,7 +12,7 @@ These commands were written by some pretty awesome people, which include our Mai
 * [Support Us!](https://dynocc.xyz/SupportUs) [![Support Us](https://img.shields.io/badge/Support%20Us-Click%20Now!-337fd5.svg)](https://dynocc.xyz/SupportUs)
 * [Github Repos](https://github.com/DynoCC) [![GitHub Repo DCC](https://img.shields.io/badge/GitHub-DCC-337fd5.svg)](https://github.com/DynoCC)
 * [Dyno's server](https://discord.gg/dyno) [<img src="https://discordapp.com/api/guilds/203039963636301824/widget.png">](https://discord.gg/dyno)
-* [Dyno Website](https://dynobot.net) [![Dyno Website](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
+* [Dyno Website](https://dyno.gg) [![Dyno Website](https://img.shields.io/badge/Website-Dyno-337fd5.svg)](https://dynobot.net)
 
 A work-in-progress list of commands can be found [here](Command%20List).
 
