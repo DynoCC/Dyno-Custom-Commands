@@ -1,2 +1,0 @@
-{delete}
-{!announce {channel} {user}, [Here's](https://en.wikipedia.org/wiki/$1) your Wikipedia search result for: **$1**.}
