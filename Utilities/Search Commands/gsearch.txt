@@ -1,2 +1,0 @@
-{delete}
-{!announce {channel} {user}, [Here's](https://www.google.com/search?q=$1) your Google search result for: **$1**.}
