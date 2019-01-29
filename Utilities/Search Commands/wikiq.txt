@@ -1,2 +1,0 @@
-{delete}
-{!announce {channel} {user}, [Here's](https://en.wikiquote.org/wiki/$1) your Wikiquote search result for: **$1**.}
