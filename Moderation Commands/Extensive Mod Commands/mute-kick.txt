@@ -1,6 +1,0 @@
-{delete}
-{silent}
-{require:serverMod}
-{!role5ever $1 Muted, $2+}
-{!kick $1 $2+}
-<:dynoSucces:314691591484866560> ***$1.user.username#$1.user.discriminator was muted forever and kicked.***
