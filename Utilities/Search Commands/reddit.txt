@@ -1,2 +1,0 @@
-	{delete}
-  {!announce {channel} {user}, [Here's](https://www.reddit.com/r/$1) your subreddit for **r/$1**.}
