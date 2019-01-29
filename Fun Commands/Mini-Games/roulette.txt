@@ -1,4 +1,0 @@
-{delete}
-{choose:mute; to live; to live; to live; to live;to live}
-{!announce {channel} {user} got {choice}!}
-{!{choice} {user} 3 you lost the roulette.}
