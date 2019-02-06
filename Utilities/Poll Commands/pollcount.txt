@@ -1,0 +1,5 @@
+{delete}
+{require:Moderator}
+{!announce {channel} Here are the current poll results, in the order of **Option One** and **Option Two**.}
+{!members Option1}
+{!members Option2}
