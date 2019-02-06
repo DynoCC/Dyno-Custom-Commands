@@ -1,0 +1,6 @@
+{delete}
+{not:Option1}
+{not:Option2}
+{silent}
+{!role add {user} Option2}
+{dm:{user}}<:check:346404265188786188> You voted for **Option Two** the current poll in #info-and-news! Timestamp: {datetime} EST.
