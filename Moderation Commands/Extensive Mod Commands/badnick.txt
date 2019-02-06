@@ -1,0 +1,4 @@
+{delete}
+{silent}
+{require:serverMod}
+{!setnick $1 Nice Nickname}
