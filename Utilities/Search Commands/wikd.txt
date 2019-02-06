@@ -1,0 +1,2 @@
+{delete}
+{!announce {channel} {user}, [Here's](https://en.wiktionary.org/wiki/$1) your Wiktionary result for: **$1**.}
