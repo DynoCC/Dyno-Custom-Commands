@@ -1,0 +1,7 @@
+{delete}
+{silent}
+{require:serverMod}
+{!purge $1 $2}
+{!clean $2}
+{!ignoreuser $1 $3+}
+<:dynoSucces:314691591484866560> ***Cleared $1.user.username#$1.user.discriminator's bot commands and responses and added them to ignored users.***
