@@ -1,0 +1,10 @@
+{require: serverAdmin}
+{delete}
+{!announce <your channel> application from $1! 
+message: ```$2+```
+
+User: ```$1```
+{dm: {user}}
+Now your assigned to this application! 
+User: $1
+Text: ```$2+```
