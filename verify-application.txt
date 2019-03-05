@@ -1,0 +1,25 @@
+README: 
+the code must writen on a Website that users can find them when they apply. Userers can verify so their application and a admin can check it
+so you can check that a application is from the right user and etc
+
+codes must begin with **c** for supporter and **n** for moderator
+(everything is working fine) (You can add a role command that assignes the user to a role called "veryfied application" or so but I havent done this)
+
+
+
+
+
+CODE: 
+
+{dm:{{user}}
+
+Hello! Your verifikation has been sucesfully submitted.
+
+{!announ$1e {#<your channel!>} New verification from {user}! The application should be available in the form.
+-SUPPORTER-  
+
+user: {user.username}} 
+{!an$1ounce {#<your channel!>} New verification from {user}! The application should be available in the form.
+-MODERATOR- 
+
+user: {user}}
