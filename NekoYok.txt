@@ -1,0 +1,11 @@
+        |Command|           |Description|          |Usage|
+        ipsurvserv        The Bot Will Say       ipsurvserv
+                       ```Ip Survival Server
+                              NekoYok:
+                        NekoYok1.aternos.me
+                           Port:33540```
+        ipmainserv        The Bot Will Say       ipmainserv
+                       ```Ip Main Server
+                              NekoYok:
+                        NekoYok2.aternos.me
+                           Port:23235```
