@@ -13,8 +13,8 @@ Advaith is one of the founders of DCC. He also made AdvaithBot and some other co
 <br/>
 
 ## Main Helpers
-[@QuinnTDIP](https://www.github.com/QuinnTDIP)<br/>
-Quinn is Big Brother, and Big Brother is the Party. Also uses Discord way too much. Is always watching. [2+2=5](https://gist.github.com/QuinnTDIP/de29205f63867588ac14ca6b48a1d59c). Also has been with DCC for way too long, and really loves... umm..... cats? If having 3 counts?
+[@MrMastersword](https://www.github.com/MrMastersword)<br/>
+MrMastersword is a web developer with a passion for ingenuity. MrMastersword's creations always reflect his utmost goal of creating the perfect website. You can find MrMastersword @mrmastersword#0042 or online at mastersword.big-brother.ga
 
 [@RenderedPix](https://github.com/RenderedPix)<br/>
 A 19 year old girl that moderates the DCC server and helps with support! That's Melissa! Gaming is her thing, if you're not a gamer, then what are you doing with your life? Find her on Discord! Petabyte#0628.
