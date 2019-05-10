@@ -1,0 +1,7 @@
+{require:serverMod}
+
+{choose:ban;kick;mute}
+
+{!{choice} $1}
+
+**{user}** just selected a random punishment for **$1** and got a **{choice}**.
