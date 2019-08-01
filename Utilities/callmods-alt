@@ -1,0 +1,5 @@
+?callmods
+
+{delete}
+Hello {user}. Thank you for using our ``callmods`` command.  Please be patient while our Moderators respond to your call.
+{!announce {#support-incoming} {user} called in the mods.}
