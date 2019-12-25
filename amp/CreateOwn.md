@@ -9,7 +9,7 @@ You can create a command using Dyno's many variables. Below, you can see many re
 
 <a href="/variables" class="dcc-button">Variables List</a><span class="divider"></span><a href="#adding-to-dcc" class="dcc-button">Add Command to DCC</a>
 
-<amp-iframe class="rounded" height="600" sandbox="allow-scripts allow-same-origin" src="https://cl3.widgetbot.io/channels/333058206198661132/333130753296564227"><span placeholder>Loading...</span><noscript><iframe class="rounded" height="600" width="100%" src="https://widgetbot.io/channels/333058206198661132/333130753296564227">Looks like your browser does not support iframes.</iframe></noscript></amp-iframe>
+<amp-iframe class="rounded" height="600" sandbox="allow-scripts allow-same-origin" src="https://disweb.dashflo.net/channels/333058206198661132/333130753296564227"><span placeholder>Loading...</span><noscript><iframe class="rounded" height="600" width="100%" src="https://disweb.dashflo.net/channels/333058206198661132/333130753296564227">Looks like your browser does not support iframes.</iframe></noscript></amp-iframe>
 
 You can add a command to your own server through the [Dyno dashboard](https://dyno.gg).
 
