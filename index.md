@@ -24,7 +24,7 @@ You can easily add our commands to your Discord server!
 * [Official Dyno Server](https://discord.gg/dyno)
 
 ## Partners
-* [AdvaithBot](https://advaithbot.com)
+* [AdvaithBot](https://advaithbot.xyz)
 
 ## Extras
 * [Matrix](bored)
