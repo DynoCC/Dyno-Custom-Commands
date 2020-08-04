@@ -1,0 +1,3 @@
+{silent}
+{!role $1 +Infected}
+$1 was infected by {user}!
