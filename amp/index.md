@@ -11,7 +11,7 @@ These commands are made solely for the public, so you can experience Dyno the sa
 
 You can easily add our commands to your Discord server!
 
-<p><a href="chat"><amp-img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" width="320" height="140" style="float: right; border-radius: 5px"><noscript><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" width="320" height="140" style="float: right; border-radius: 5px"></noscript></amp-img></a></p>
+<p><a href="https://discord.gg/D3K3Fqz"><amp-img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" width="320" height="140" style="float: right; border-radius: 5px"><noscript><img src="https://discordapp.com/api/guilds/333058206198661132/embed.png?style=banner3" width="320" height="140" style="float: right; border-radius: 5px"></noscript></amp-img></a></p>
 
 
 <a href="Command List" class="dcc-button">Custom Commands List</a><span class="divider"></span><a href="CreateOwn" class="dcc-button">How to Create a Command</a>
