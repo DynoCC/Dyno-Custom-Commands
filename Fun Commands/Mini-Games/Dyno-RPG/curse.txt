@@ -1,14 +1,14 @@
 {delete}
 {silent}
 {!role $1 +Cursed}
-You have been cursed by {user}!
+**$1** have been cursed by {user}!
 
-You attempt to move, but quickly realize you can't. 
+**$1** attempt to move, but quickly realize's they can't. 
 
-You attempt to speak, but can't find your voice. 
+**$1** attempt to speak, but can't find their voice. 
 
-You start to panic, hoping, wishing, *praying* somebody will save you. 
+**$1** starts to panic, hoping, wishing, *praying* somebody will save them. 
 
 But nobody comes.  
 
-You are dead,  cursed to spend eternity in this spot as a silent ghost, watching as all around you live happy, peaceful lives, while you... are forever trapped.
+**$1** is dead,  cursed to spend eternity in this spot as a silent ghost, watching as all around you live happy, peaceful lives, while **$1**... is forever trapped.
