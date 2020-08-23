@@ -1,6 +1,6 @@
 # Dyno Custom Commands
 
-> Awesome Custom Commands for Dyno.
+> Awesome Custom Commands for [Dyno](https://dyno.gg/).
 
 These commands were written by some pretty awesome people, which include our Main and Regular Helpers, and our founder! Check out our staff list [here](https://dynocc.xyz/staff).
 
