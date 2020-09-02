@@ -1,0 +1,4 @@
+{choose:https://media.tenor.com/images/7199fdd26fc2c07cd49a34fda3fc37a8/tenor.gif;https://media.tenor.com/images/9c6894687c92be974c3720a340b2864e/tenor.gif;https://media2.giphy.com/media/kWr9AMkPlADU4/source.gif;https://64.media.tumblr.com/33988c3b21d0704df3796e243e12435e/8c8b74926b8eb508-0b/s640x960/1da08a67755c52e8cdee1ad3a4c5f96cb54fb8a3.gif}
+{choose1:a non-existant person}
+{user} cuddles $1.user.mention{choice1$1.user.id}!
+{choice}
