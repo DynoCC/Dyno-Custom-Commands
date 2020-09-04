@@ -117,12 +117,12 @@ Please note that if you have a standard role for users, then the response needs 
 ```
 
 ### Autodelete messages in #signup
-Even though the bot command messages get automatically deleted, sometimes people might try to chat in the signup channel. You can configure Dyno to automatically delete messages sent in the channel.
+Even though the bot command messages get automatically deleted, sometimes people might try to chat in the signup channel. You can configure AutoDelete to automatically delete messages sent in the channel.
 
-1. on the Modules page, make sure the "Coords Channel Mod" module is selected.
-2. Go to the Coords Channel Mod page. Under "Add Coords Channel", select the #signup channel and click Add.
+1. Invite the autodelete bot [HERE](https://discord.com/oauth2/authorize?client_id=533095070145052716&scope=bot)
+2. Autodelete auto-removes messages in any channel named `#signup` or where `{autodelete}` is in the channel topic
 
-
+**DYNO COORDS CHANNEL MOD - THE INITAL SYSTEM - NO LONGER FUNCTIONS. If your autodelete is not working please confirm that you are not using Dyno's Coords Channel Mod**
 ---
 
 ## Additional items you might want to do
