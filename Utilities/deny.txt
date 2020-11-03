@@ -1,4 +1,0 @@
-{dm:$1}
-**The staff member, {user}, denied your request;** `$2+` on the {server}!
-```diff
--Better luck next time :/```

@@ -1,0 +1,2 @@
+{delete} {silent} {!role {user} +Subscribers} {user} ```css
+Thanks for subscribing to updates!```

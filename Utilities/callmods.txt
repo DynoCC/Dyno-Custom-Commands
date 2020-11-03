@@ -1,3 +1,0 @@
-{delete}
-<@&334034777319669762> {user} has called in the mods!
-{!announce {#action-log} {user} called in the mods.}
