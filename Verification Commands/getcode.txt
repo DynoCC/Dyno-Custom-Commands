@@ -1,6 +1,0 @@
-{delete}
-{dm}
-{require:UNVERIFIED}
-{require:#signup}
-{choose:{prefix}0;{prefix}0;{prefix}0;{prefix}0;{prefix}0;{prefix}0;{prefix}0}
-Hello {{user}}, thank you for joining **{server}**! Make sure you read the requirements before using your code!  **Your code: `{choice}`** Make sure you use the code `{choice}` in #signup!

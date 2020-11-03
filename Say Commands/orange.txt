@@ -1,3 +1,0 @@
-{delete}
-```autohotkey
-$1+:```

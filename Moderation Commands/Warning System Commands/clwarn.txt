@@ -1,5 +1,0 @@
-{silent}
-{delete}
-{require:serverMod}
-{role $1 -1st Warning, -2nd Warning, -3rd Warning}
-Moderator {user} just cleared all of <@$1>'s warnings! Reason: $2+

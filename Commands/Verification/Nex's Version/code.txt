@@ -1,0 +1,7 @@
+{silent}
+{delete}
+{require:#welcome}
+{require:Unverified}
+{not:Blocked Users}
+{!role {user} +Members, -Unverified}
+{user} has completed the verification process.

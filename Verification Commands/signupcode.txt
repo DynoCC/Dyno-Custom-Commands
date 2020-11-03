@@ -1,5 +1,0 @@
-{delete}
-{silent}
-{require:UNVERIFIED}
-{require:#signup}
-{!role {user} -UNVERIFIED}

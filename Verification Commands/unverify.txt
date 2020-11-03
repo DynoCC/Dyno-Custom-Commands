@@ -1,3 +1,0 @@
-{delete}
-{silent}
-{!role $1 -Testers, +UNVERIFIED}

@@ -1,2 +1,0 @@
-{choose: https://dynocc.xyz/files/alone.png; https://dynocc.xyz/files/pending.png; https://dynocc.xyz/files/wumpus.PNG}
-{choice}

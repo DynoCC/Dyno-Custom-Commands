@@ -1,5 +1,0 @@
-{delete}
-{require:serverAdmin}
-{!role $1 -$2}
-```fix
-Demoted user $1 successfully!```

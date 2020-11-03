@@ -1,5 +1,0 @@
-{delete}
-{silent}
-{require:serverAdmin}
-{!role all -freeze}
-**<:thumbsup_blob:345039968693125120> Chat unfrozen**

@@ -1,0 +1,7 @@
+{silent}
+{delete}
+{require:serverMod}
+{!role $1 +2nd Warning}
+{!remindme Remove <@$1>'s 2nd warning. in 20 days}
+<@$1> just got his 2nd warning from Moderator {user} for: **$2+**. 
+{dm:{user}} <:dynoSuccess:314691591484866560> <@$1> ***just got his 2nd warning.***

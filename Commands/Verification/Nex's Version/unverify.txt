@@ -1,0 +1,6 @@
+{silent}
+{delete}
+{require:serverMod}
+{!role removeall $1}
+{!role $1 +Unverified}
+<:dynoSuccess:314691591484866560> <@$1> ***was unverified.***

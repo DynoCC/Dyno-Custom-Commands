@@ -1,6 +1,0 @@
-{delete}
-{dm:$1}
-{require:serverMod}
-{!role5ever $1 Muted, **Permanently Muted** for $2+}
-{!announce {channel} <:check:346404265188786188> ***$1 has been permanently muted.***}
-You have been **Permanently Muted** for $2+.

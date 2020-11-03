@@ -1,5 +1,0 @@
-{delete}
-Hello {user}.
-Thank you for your interest in our verification system.
-Documentation can be found at:
-https://github.com/DynoCC/Dyno-Custom-Commands/wiki/Verification-System

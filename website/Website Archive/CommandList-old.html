@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta content="width=device-width, initial-scale=1" name="viewport" />
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<title>Dyno Custom Commands</title>
+	<link href="https://dynocc.tk/files/dcc-trans.png" rel="icon" />
+	<style type="text/css">body {
+				margin:0;
+				padding:0;
+				font-family: Sans-Serif;
+				line-height: 1.5em;
+			}
+			
+			#header {
+				background: #00A2FF;
+				height: 100px;
+			}
+			
+			#header h1 {
+				margin: 0;
+				padding-top: 15px;
+			}
+			
+			main {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 100%;
+			}
+			
+
+			#nav {
+				padding-bottom: 10010px;
+				margin-bottom: -10000px;
+				float: left;
+				width: 230px;
+				margin-left: -100%;
+				background: #E2DADA;
+				background-image: url("https://s-media-cache-ak0.pinimg.com/736x/23/88/b3/2388b3142a206fbb35194defe5bef269--gray-iphone-wallpaper-phone-wallpapers.jpg");
+			}
+			
+			#footer {
+				clear: left;
+				width: 100%;
+				background: #00A2FF;
+				text-align: center;
+				padding: 4px 0;
+			}
+	
+			#wrapper {
+				overflow: hidden;
+			}
+						
+			#content {
+				margin-left: 230px; /* Same as 'nav' width */
+			}
+			
+			.innertube {
+				margin: 15px; /* Padding for content */
+				margin-top: 0;
+			}
+		
+			p {
+				color: #555;
+			}
+	
+			nav ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+			}
+			
+			nav ul a {
+				color: blue;
+				text-decoration: none;
+			}
+	</style>
+	<style type="text/css">@media screen and (max-width: 481px){
+		
+		#main {
+		float: left;
+		width: 100%;
+		}
+		#header {
+		width: 100%;
+		}
+		#nav{
+		width: 100px;
+		}
+		#content{
+		float: right;
+		width: 75%;}
+		/*mobile support 481 px*/
+		}
+		@media screen and (max-width: 329px){
+		#main {
+		float: left;
+		width: 100%;
+		}
+		#header {
+		width: 100%;
+		}
+		#nav{
+		float: left;
+		width: 100px;
+		}
+		#content{
+		float: right;
+		width: 70%;
+		}
+		#buttons{
+		float: left;
+		width: 10px;
+		}
+		#UpdateTrc{
+		width: 90%;
+		}
+		/*mobile support 329 px*/
+		}
+	</style>
+</head>
+<body>
+<header id="header">
+<div class="innertube">
+<h1><img alt="" src="https://dynocc.tk/files/dcc-trans.png" style="color: rgb(255, 255, 224); width: 50px; height: 50px;" />&nbsp; &nbsp;&nbsp;<span style="color:#FFFFE0;"><span style="font-size:30px;">​Dyno Custom Commands&nbsp;</span></span></h1>
+</div>
+</header>
+
+<div id="wrapper"><main>
+<div id="content">
+<div class="innertube">
+<h1><span style="font-size:18px;"><span style="font-size:22px;">Command List:</span></span></h1>
+<!--CODES-->
+
+<hr />
+<div class="container-lg px-3 my-5 markdown-body">
+<h2 id="moderationserver-related">Moderation/Server related</h2>
+
+<p><code class="highlighter-rouge">?commandhelp</code> This command will display the custom command help<br />
+<code class="highlighter-rouge">?serverupdates</code> lists server updates<br />
+<code class="highlighter-rouge">?freeze</code> freezes chat to staff only&nbsp;&nbsp;<a href="https://dynocc.tk/freeze">tutorial</a><br />
+<code class="highlighter-rouge">?unfreeze</code> unfreezes chat &nbsp;<a href="https://dynocc.tk/freeze">tutorial</a><br />
+<code class="highlighter-rouge">?commandban @user</code> bans a user from using commands<br />
+<code class="highlighter-rouge">?commandunban @user</code> unbans a user from using commands<br />
+<code class="highlighter-rouge">?callmods</code> Calls the moderators<br />
+<code class="highlighter-rouge">?parse</code> rewrites a complex bug code into a simple message! Made for the DCC BugBot.</p>
+
+<h2 id="fun-d">Fun :D</h2>
+
+<p><code class="highlighter-rouge">?blocked</code> You can&rsquo;t unblock the Wumpus.<br />
+<code class="highlighter-rouge">?pending</code> There are no pending friend requests. Here&rsquo;s a Wumpus for now.<br />
+<code class="highlighter-rouge">?depressme</code> :(<br />
+<code class="highlighter-rouge">?waitwhat</code> <em>wait, what??</em> <code class="highlighter-rouge">?color</code> Changes a role color. In development, may not work.<br />
+<code class="highlighter-rouge">?letterbox3</code> Displays a 3 letter word in a box.
+<code class="highlighter-rouge">?8ball</code> Asks the 8ball a question (100% true).</p>
+
+<h2 id="-say">🗨 Say</h2>
+
+<p><code class="highlighter-rouge">?embed</code> Post an embedded message.<br />
+<code class="highlighter-rouge">?say</code> Make Dyno say what you say. <code class="highlighter-rouge">?bluegreen</code> Make Dyno say what you say, in blue-green text. <code class="highlighter-rouge">?orange</code> Make Dyno say what you say, in orange text. <code class="highlighter-rouge">?red</code> Make Dyno say what you say, in red text. <code class="highlighter-rouge">?yelloworange</code> Make Dyno say what you say, in yellow-orange text. <code class="highlighter-rouge">?green</code> Make Dyno say what you say, in light green text.</p>
+
+<h2 id="verification">Verification</h2>
+
+<p><code class="highlighter-rouge">?getcode</code> Part of the verifiction process, DMs you your signup code.<br />
+<code class="highlighter-rouge">?unverify</code> For testing, unverifies a user.<br />
+<code class="highlighter-rouge">?verify</code> For testing, verifies a user.</p>
+</div>
+
+<hr />
+<div style="width: 600px;">
+<div style="float: left; width: 125px">
+<form action="https://dynocc.tk/" class="inline"><button class="submit-button">Go back</button></form>
+</div>
+
+<div style="float: left; width: 125px">
+<form action="https://dynocc.tk/Command%20List" class="inline"><button class="submit-button">Old command list</button></form>
+</div>
+</div>
+</div>
+</div>
+</main>
+
+<nav id="nav">
+<div class="innertube">
+<h3>GitHub Repos</h3>
+
+<ul>
+	<li><a href="https://github.com/Dyno-Custom-Commands/Dyno-Custom-Commands"><span style="color:#000000;">-</span><font color="#ffffff">Dyno Custom Commands</font></a></li>
+	<li><a href="https://github.com/Dyno-Custom-Commands/gamedevchat-dyno"><span style="color:#000000;">-</span><span style="color:#FFFFFF;">Gaming Developer Chat Commands</span> </a></li>
+</ul>
+
+<h3>Discord Servers</h3>
+
+<ul>
+	<li><a href="https://github.com/Dyno-Custom-Commands/gamedevchat-dyno"><span style="color:#000000;">-</span></a><a href="https://discord.gg/e7R8J68"><span style="color:#FFFFFF;">Dyno Custom Commands</span></a></li>
+	<li><span style="color:#000000;">-</span><a href="https://www.dynobot.net/discord"><span style="color:#FFFFFF;">Dyno Server</span></a></li>
+	<li>-<a href="https://discord.gg/zaVZX2u"><span style="color:#FFFFFF;">Gaming Developers Chat</span></a></li>
+	<li><span style="color:#000000;">-</span><a href="https://discord.gg/mWhdyXR"><span style="color:#FFFFFF;">Gaming Server</span></a></li>
+</ul>
+
+<h3>Partners</h3>
+
+<ul>
+	<li><a href="https://dynocc.tk/Request"><span style="font-size:14px;"><span style="color:#000000;">-</span></span><span style="font-size:16px;"><span style="color:#FFFFFF;">Request Moderator</span></span></a></li>
+	<li><a href="https://discord.gg/mWhdyXR"><span style="color:#000000;">-</span><span style="color:#FFFFFF;">Gaming Server</span></a></li>
+</ul>
+
+<h3>Extras</h3>
+
+<ul>
+	<li><a href="#"><span style="color:#000000;">-</span></a><a href="https://dynocc.tk/bored.html"><span style="color:#FFFFFF;">Matrix Effect</span></a></li>
+</ul>
+</div>
+</nav>
+</div>
+
+<footer id="footer">
+<div class="innertube">
+<p>Website credit: Olybear9 &nbsp; &nbsp; &nbsp; &nbsp;Web version: 4.2<br />
+<span style="font-size:14px;">Copyright notice: We are not in, any way, shape, or form affiliated with the dyno bot company, We do not take credit for anything Dyno bot can do, we simply make commands<br />
+to make it easier for people to use the Dyno custom commands area on their, dyno bot website (<a href="https://dynobot.net">https://dynobot.net/</a>)</span></p>
+</div>
+</footer>
+</body>
+</html>
