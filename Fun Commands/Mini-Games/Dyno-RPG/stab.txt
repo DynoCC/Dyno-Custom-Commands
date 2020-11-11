@@ -1,0 +1,6 @@
+{delete}
+{silent}
+{!role $1 +Bleeding}
+**$1** has been stabbed by **{user}**.  
+
+What the hell did you do tp piss of **{user}**? Seriously is **{user}** just crazy or are you some sort of sadist!

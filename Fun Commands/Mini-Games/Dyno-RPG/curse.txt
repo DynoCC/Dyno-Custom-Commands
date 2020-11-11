@@ -1,0 +1,14 @@
+{delete}
+{silent}
+{!role $1 +Cursed}
+**$1** have been cursed by {user}!
+
+**$1** attempt to move, but quickly realize's they can't. 
+
+**$1** attempt to speak, but can't find their voice. 
+
+**$1** starts to panic, hoping, wishing, *praying* somebody will save them. 
+
+But nobody comes.  
+
+**$1** is dead,  cursed to spend eternity in this spot as a silent ghost, watching as all around you live happy, peaceful lives, while **$1**... is forever trapped.

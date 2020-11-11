@@ -1,0 +1,13 @@
+{delete}
+{silent}
+{require:serverMod}
+{!role all -Infected}
+{!role all -Blighted}
+{!role all -Festered}
+{!role all -Bleeding}
+{!role all -Cursed}
+The gods have spoken!
+
+A Divine blessing has been sent down.
+
+All are cured!

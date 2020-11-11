@@ -1,0 +1,8 @@
+{delete}
+{silent}
+{!role {user} -Infected}
+{!role {user} -Blighted}
+{!role {user} -Festered}
+{!role {user} -Bleeding}
+{!role {user} -Cursed}
+{user} cured themselves!
