@@ -1,0 +1,19 @@
+{delete}
+{silent}
+{require:{&Adventurer}}
+{respond: **Attack Commands**
+These commands can be used to attack other players, but be warned some come with *side effects*
+
+`blight`: Cast Blight on another Adventurer,
+`fester`: Cast Fester on another adventurer,
+`plague`: Cast a plague infecting all Adventurers,
+`stab`: Stab another Adventurer }
+{respond: **Medica Commands**
+These commands can be used to heal status ailments
+
+`treat`: Treat another adventurer's ailments,
+`cure`: Cure yourself of al ailments}
+{respond: **Divine Commands**
+These commands can only be used by the Divine Council
+
+`divinecure`: Cures all Adventurers of all ailments}
