@@ -20,6 +20,7 @@ These commands can be used to heal status ailments
 
 `treat`: Cure another Adventurer of all ailments
 `cure`: Cure yourself of all ailments
+`raise`: Raise another Adventurer from the dead
 
 ## Divine Commands
 These commands can only be used by the Divine Council *[aka serverMods]*
