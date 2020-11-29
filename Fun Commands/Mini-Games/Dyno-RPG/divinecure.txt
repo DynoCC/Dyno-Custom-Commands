@@ -6,6 +6,7 @@
 {!role all -Festered}
 {!role all -Bleeding}
 {!role all -Cursed}
+{!role all -Sacrificed}
 The gods have spoken!
 
 A Divine blessing has been sent down.

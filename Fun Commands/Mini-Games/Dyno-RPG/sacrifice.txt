@@ -1,4 +1,6 @@
 {delete}
+{silent}
 {require:{&Adventurer}}
+{!role $1 +Sacrificed}
 {choose: Cthulu; The Flying Spaghetti Monster; the Illuminati; Ben Brode; a local school district; a giant squid; Herobrine; the devil; RNGesus; Joe Bob; get the iPhone X; Santa Claus; God-Emperor Trump; cure cancer; create a new meme; Nyarlathotep; Yogg-Saron; N'Zoth; Y'Shaarj; C'Thun; McDonalds; Dictator Advaith; Slenderman}
 {!announce {channel} {user.username} has sacrificed **$1+** to {choice}.}

@@ -6,4 +6,5 @@
 {!role $1 -Festered}
 {!role $1 -Bleeding}
 {!role $1 -Cursed}
+{!role $1 -Sacrificed}
 You were cured by {user}! Thank heavens someone was watching out for you!
