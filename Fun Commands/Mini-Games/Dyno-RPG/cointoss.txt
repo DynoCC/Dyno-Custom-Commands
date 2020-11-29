@@ -85,8 +85,8 @@ None
 **Star Sign**: Capricorn
 **Profession**: Adventurer
 **Religion**: Paegan
-**Sexuality**: Pansexual
-**Education**: The Church of Sacrificisl Offerings for Chtulu
+**Sexuality**: Sacrisexual
+**Education**: The Church of Sacrificial Offerings for Chtulu
 **Political Views**: Cthulu is Love.. Cthulu is Life.. CTHULU IS LOVE.. CTHULU IS LIFE......;
 }
 {Result: {choice}}
