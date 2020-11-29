@@ -7,4 +7,5 @@
 {!role $1 -Bleeding}
 {!role $1 -Cursed}
 {!role $1 -Sacrificed}
-You were cured by {user}! Thank heavens someone was watching out for you!
+Looks like someone is watching out for you in this forsaken world... 
+You have been cured of all ailments. 
