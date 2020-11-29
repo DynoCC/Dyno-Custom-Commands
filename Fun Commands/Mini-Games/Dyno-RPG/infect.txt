@@ -2,4 +2,4 @@
 {silent}
 {require:{&Adventurer}}
 {!role $1 +Infected}
-$1 was infected by {user}!
+$1 has been infected.... Well that just happened....

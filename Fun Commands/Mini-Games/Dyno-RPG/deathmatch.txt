@@ -1,6 +1,5 @@
 {delete}
-{silent}
 {require:{&Adventurer}}
-{dm:$1} {user} challenged you to a deathmatch in {channel}!
+{require:{#the-deathpit}}
 {choose:typeracer.com;coin toss;roulette;insults}
-{!announce {channel} {user} has challeged $1 to a deathmatch! The trial will be {choice}!}
+{!announce {#the-deathpit} **{user.username}** has challeged **$1** to a deathmatch! The trial will be {choice}!}
