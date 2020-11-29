@@ -2,10 +2,10 @@
 {silent}
 {!role +Adventurer}
 {!announce {#the-world-gates} Welcome to the world of **Avelon**, {user.username}! This is a cruel world that the gods have long since forsaken. Darkness and torment lies around every corner, and I cannot guarantee that you will maintain your sanity. But rest assured, the **Divine Council** will watch over you. Now, head forth with caution young Adventurer, and claim your place in this forsaken world.}
-{!announce {#the-crossroads} {user.username} has arrived {#the-wrold-gates}.}
-{!announce {#the-bloodfields} {user.username} has arrived {#the-wrold-gates}.}
-{!announce {#the-deathpit} {user.username} has arrived {#the-wrold-gates}.}
-{!announce {#castle-courtyard} {user.username} has arrived {#the-wrold-gates}.}
-{!announce {#castle-grounds} {user.username} has arrived {#the-wrold-gates}.}
-{!announce {#divine-council} {user.username} has arrived {#the-wrold-gates}.}
-{!announce {#the-crossroads} {user.username} has arrived {#the-wrold-gates}.}
+{!announce {#the-crossroads} {user.username} has arrived {#the-world-gates}.}
+{!announce {#the-bloodfields} {user.username} has arrived {#the-world-gates}.}
+{!announce {#the-deathpit} {user.username} has arrived {#the-world-gates}.}
+{!announce {#castle-courtyard} {user.username} has arrived {#the-world-gates}.}
+{!announce {#castle-grounds} {user.username} has arrived {#the-world-gates}.}
+{!announce {#divine-council} {user.username} has arrived {#the-world-gates}.}
+{!announce {#the-crossroads} {user.username} has arrived {#the-world-gates}.}
