@@ -1,7 +1,9 @@
 {delete}
 {silent}
 {require:{&Adventurer}}
-{!role $1 -Infected}
-{!role $1 -Bleeding}
+{!role $1 -Blighted}
+{!role $1 -Festered}
+{!role $1 -Cursed}
+{!role $1 -Sacrificed}
 {dm:$1} Looks like someone is looking out for you in this forsaken world... 
-You have been cured of all ailments. 
+You have been raised from the dead.
