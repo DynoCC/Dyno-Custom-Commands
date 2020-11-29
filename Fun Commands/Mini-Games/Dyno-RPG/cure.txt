@@ -1,5 +1,6 @@
 {delete}
 {silent}
+{require:{&Adventurer}}
 {!role {user} -Infected}
 {!role {user} -Blighted}
 {!role {user} -Festered}

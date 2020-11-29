@@ -1,4 +1,5 @@
 {delete}
 {silent}
+{require:{&Adventurer}}
 {!role all +Infected}
 {user} has spread a plague! We're all doomed! DOOMED I SAY!

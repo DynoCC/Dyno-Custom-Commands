@@ -1,5 +1,6 @@
 {delete}
 {silent}
+{require:{&Adventurer}}
 {!role $1 +Festered}
 **{user}** has cast Fester on **$1**
 

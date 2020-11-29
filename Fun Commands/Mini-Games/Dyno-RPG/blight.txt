@@ -1,5 +1,6 @@
 {delete}
 {silent}
+{require:{&Adventurer}}
 {!role $1 +Blighted}
 **{user}** has Blighted **$1**
 The sound of buzzing can be heard in the distance. **$1** look up to see what it is. 
