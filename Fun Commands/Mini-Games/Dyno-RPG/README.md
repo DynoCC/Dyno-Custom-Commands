@@ -5,7 +5,7 @@ Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and i
 ## Registration Commands
 This command is used to join the world of Avelon
 
-`register`: Grants the **Adenturer** role and enters you itno the forsaken world of Avelon
+`register`: Grants the **Adenturer** role and enters you into the forsaken world of Avelon
 
 ## Attack Commands
 These commands can be used to attack other players, but be warned some come with *side effects*
@@ -29,7 +29,7 @@ These commands can only be used by the Divine Council *[aka serverMods]*
 
 
 ### Requirements
-For this to work you will need the following roles in your guild
+For this to work you will need the following roles in your guild:
 
 - `Festered`
 - `Blighted`

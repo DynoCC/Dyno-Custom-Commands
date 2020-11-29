@@ -4,9 +4,9 @@
 {!role $1 +Cursed}
 **$1** has been cursed...
 
-**$1** attempt to move, but quickly realizes the futility.... 
+**$1** attempts to move, but quickly realizes the futility.... 
 
-**$1** attempt to speak, but nothing comes out. 
+**$1** attempts to speak, but nothing comes out. 
 
 **$1** starts to panic, hoping, wishing, *praying* for some form of miracle.
 
