@@ -1,6 +1,5 @@
 {delete}
 {silent}
-
 {!role $1 +Cursed}
 **$1** has been cursed...
 

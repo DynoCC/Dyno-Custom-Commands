@@ -1,6 +1,5 @@
 {delete}
 {silent}
-
 {require:{#the-deathpit}}
 {choose:
 **__Death__** 

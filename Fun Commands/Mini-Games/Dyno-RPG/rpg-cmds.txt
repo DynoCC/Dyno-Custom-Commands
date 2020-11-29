@@ -1,6 +1,5 @@
 {delete}
 {silent}
-
 **__Attack Commands__**
 These commands can be used to attack other players, but be warned some come with *side effects*
 
