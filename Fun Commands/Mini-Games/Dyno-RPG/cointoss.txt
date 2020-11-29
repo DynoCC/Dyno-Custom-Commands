@@ -3,7 +3,8 @@
 {require:{#the-deathpit}}
 {choose:
 **__Death__** 
-**Cause of Death**: Killed by poisoned Ice Cream.
+**Possible Cause of Death**
+Killed by poisoned Ice Cream
 
 **__Other likely causes__**
 Dementia
@@ -26,7 +27,8 @@ Hanna Montanna - Deranged Slave
 **Education**: The $#@% is Education
 **Political Views**: Cthulu for President! $#@% YEEESS!!!;
 **__Death__** 
-**Cause of Death**: Fell off a cliff
+**Possible Cause of Death**
+Fell off a cliff
 
 **__Other likely causes__**
 Drowned trying to do a challenging swim
@@ -49,7 +51,8 @@ Rick James - Because RICK JAMES $#%^@
 **Education**: Failed Adventurers Academy
 **Political Views**: What are these again?;
 **__Death__** 
-**Cause of Death**: 	Attacked by a rabid ferret
+**Possible Cause of Death**
+Attacked by a rabid ferret
 
 **__Other likely causes__**
 Killed by an exploding saucepan
@@ -69,7 +72,8 @@ Sme old guy - Nobody knows who this guys is, or why this guy showed
 **Education**: The Federal Penitentiary
 **Political Views**: The Only Good President is a Wealthy Idiot;
 **__Death__** 
-**Cause of Death**: Fell from the attic looking for missing jigsaw piece
+**Possible Cause of Death**
+Fell from the attic looking for missing jigsaw piece
 
 **__Other likely causes__**
 Killed by poisoned ice lollies
