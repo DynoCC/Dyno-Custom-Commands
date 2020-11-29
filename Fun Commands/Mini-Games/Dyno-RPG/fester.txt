@@ -1,8 +1,8 @@
 {delete}
 {silent}
-{require:{&Adventurer}}
+{require:{&Infected}}
 {!role $1 +Festered}
-**{user}** has cast Fester on **$1**
+**$1** has been inflicted with Fester
 
 **$1** begins to fester. 
 

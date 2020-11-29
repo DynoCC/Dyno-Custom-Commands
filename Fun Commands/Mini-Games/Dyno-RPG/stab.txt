@@ -2,6 +2,7 @@
 {silent}
 {require:{&Adventurer}}
 {!role $1 +Bleeding}
-**$1** has been stabbed by **{user}**.  
+**$1** has been stabbed by **{user.username}**.  
 
-What the hell did you do tp piss of **{user}**? Seriously is **{user}** just crazy or are you some sort of sadist!
+What the hell did you do to piss of **{user.username}**?
+Seriously, Is **{user.username}** just crazy or are you some sort of sadist!?

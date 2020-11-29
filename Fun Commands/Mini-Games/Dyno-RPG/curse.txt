@@ -2,14 +2,14 @@
 {silent}
 {require:{&Adventurer}}
 {!role $1 +Cursed}
-**$1** have been cursed by {user}!
+**$1** has been cursed...
 
-**$1** attempt to move, but quickly realize's they can't. 
+**$1** attempt to move, but quickly realizes the futility.... 
 
-**$1** attempt to speak, but can't find their voice. 
+**$1** attempt to speak, but nothing comes out. 
 
-**$1** starts to panic, hoping, wishing, *praying* somebody will save them. 
+**$1** starts to panic, hoping, wishing, *praying* for some form of miracle.
 
-But nobody comes.  
+But nothing can stop this horror...
 
-**$1** is dead,  cursed to spend eternity in this spot as a silent ghost, watching as all around you live happy, peaceful lives, while **$1**... is forever trapped.
+**$1** is now dead,  cursed to spend eternity in this spot as a silent ghost, watching as the rest of the world live as happy, peaceful lives, while **$1**... is forever trapped.
