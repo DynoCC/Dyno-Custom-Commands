@@ -5,4 +5,4 @@
 **$1** has been stabbed by **{user.username}**.  
 
 What the hell did you do to piss of **{user.username}**?
-Seriously, Is **{user.username}** just crazy or are you some sort of sadist!?
+Seriously, is **{user.username}** just crazy or are you some sort of sadist!?
