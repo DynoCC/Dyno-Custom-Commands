@@ -1,6 +1,6 @@
 {delete}
 {silent}
-{require:{&Adventurer}}
+
 {!role $1 +Blighted}
 **{user.username}** has cast Blight on **$1**!
 

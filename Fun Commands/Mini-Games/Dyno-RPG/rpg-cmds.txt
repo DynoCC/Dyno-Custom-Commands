@@ -1,6 +1,6 @@
 {delete}
 {silent}
-{require:{&Adventurer}}
+
 **__Attack Commands__**
 These commands can be used to attack other players, but be warned some come with *side effects*
 

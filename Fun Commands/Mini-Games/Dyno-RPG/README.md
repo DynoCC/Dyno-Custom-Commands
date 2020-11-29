@@ -52,5 +52,9 @@ As well as the following channels:
 
 It is suggested that the `divine-council` channel be useable ONLY by serverMods as it is the channel required for using the Divine Council commands.
 
+***The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.***
+
+
+
 
 ***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated***

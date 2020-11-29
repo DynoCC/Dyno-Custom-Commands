@@ -1,6 +1,6 @@
 {delete}
 {silent}
-{require:{&Adventurer}}
+
 {!role {user} -Infected}
 {!role {user} -Bleeding}
 {user} cured themselves!
