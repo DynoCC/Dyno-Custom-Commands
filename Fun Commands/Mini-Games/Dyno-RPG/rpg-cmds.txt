@@ -14,6 +14,15 @@ stab: Stab another Adventurer
 **__Medica Commands__**
 These commands can be used to heal status ailments
 
+**__Deathmatch Commands__**
+These commands are for use with the-deathpits
+
+```ml
+deathmatch: Challenge another Adveturer to a deathmatch
+insult: Send a random insult to challenger during an insults deathmatch
+cointoss: Toss a coin during a cointoss deathmatch 
+```
+
 ```ml
 treat: Cure another Adventurer of all ailments
 cure: Cure yourself of all ailments
