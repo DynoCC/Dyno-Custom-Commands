@@ -1,14 +1,27 @@
 {delete}
 {silent}
+{require:{&Adventurer}}
 {require:serverMod}
-{!role all -Infected}
-{!role all -Blighted}
-{!role all -Festered}
-{!role all -Bleeding}
-{!role all -Cursed}
-{!role all -Sacrificed}
-The gods have spoken!
-
-A Divine blessing has been sent down.
-
-All are cured!
+{require:{#divine-council}}
+{!role {&Adventurer} -Infected}
+{!role {&Adventurer} -Blighted}
+{!role {&Adventurer} -Festered}
+{!role {&Adventurer} -Bleeding}
+{!role {&Adventurer} -Cursed}
+{!role {&Adventurer} -Sacrificed}
+{!announce {#the-world-gate} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#the-crossroads} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#the-bloodfields} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#the-deathpit} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#castle-grounds} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#castle-courtyard} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#sacrificial-offerings} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
+{!announce {#divine-council} The Divine Council has spoken...
+A Divine blessing has been sent down on all Adventurers}
