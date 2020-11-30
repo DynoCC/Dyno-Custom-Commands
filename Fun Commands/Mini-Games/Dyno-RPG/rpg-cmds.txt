@@ -1,0 +1,36 @@
+{delete}
+{silent}
+**__Attack Commands__**
+These commands can be used to attack other players, but be warned some come with *side effects*
+
+```ml
+blight: Cast Blight on another Adventurer
+fester: Cast Fester on another adventurer
+plague: Cast a plague infecting all Adventurers
+stab: Stab another Adventurer 
+```
+
+**__Medica Commands__**
+These commands can be used to heal status ailments
+
+**__Deathmatch Commands__**
+These commands are for use with the-deathpits
+
+```ml
+deathmatch: Challenge another Adveturer to a deathmatch
+insult: Send a random insult to challenger during an insults deathmatch
+cointoss: Toss a coin during a cointoss deathmatch 
+```
+
+```ml
+treat: Cure another Adventurer of all ailments
+cure: Cure yourself of all ailments
+raise: Raise another Adventurer from the dead
+```
+
+**__Divine Commands__**
+These commands can only be used by the Divine Council
+
+```ml
+divinecure: Cures all Adventurers of all ailments
+```

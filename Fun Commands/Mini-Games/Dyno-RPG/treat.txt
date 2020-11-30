@@ -1,0 +1,6 @@
+{delete}
+{silent}
+{!role $1 -Infected}
+{!role $1 -Bleeding}
+{dm:$1} Looks like someone is looking out for you in this forsaken world... 
+You have been cured of all ailments. 

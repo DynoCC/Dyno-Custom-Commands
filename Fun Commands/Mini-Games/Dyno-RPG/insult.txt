@@ -1,0 +1,28 @@
+{delete}
+{silent}
+{require:{#the-deathpit}}
+{choose:
+is a piteously myopic half-wit and a horribly atrocious halitosis-infested offensively uninspired malodorous half-wit;
+is a sickly pedestrian wretch and a putrid foul-smelling malfunctioning little twerp;
+is a wickedly cretinous barbarian and a malingering maliciously malodorous hysterical mass of warbling inanity;
+is a frightfully ignominious libertine and a monstrous cold-hearted cheap Internet loiterer;
+is a cruelly miserable prostitute and a monstrous irredeemably boring repulsive polisson;
+is a piteously perverted coccydynia and a glaring odiously suffocating wretched horror to all who encounter you;
+is a preposterously malignant glutton and a demented toe-sucking proof that test tube experiments can go horribly wrong;
+is a dreadfully witless scoundrel and a decadent toe-sucking orgy of indecency;
+is a grievously ill-mannered glutton and a heinous dull-witted lamentable mistake by your parent's reckless exchange of genetic material;
+is a wickedly myopic swine and a malingering toe-sucking repulsive polisson;
+is an egregiously contemptible neanderthal and a depraved foul-smelling practitioner of non-consentual bestiality;
+is a frightfully unsightly libertine and a wearisome chromosome deficient putrid waste of flesh;
+is an incalculably hideous hemorrhoid and a hopeless all-befouling putrid waste of flesh;
+is a lamentably ignominious menace and a ludicrous small-minded cesspool of sub-human filth;
+is a piteously corpulent loafer and a petty coma-inducing tasteless amalgam of dross;
+is a confoundedly foul dunce and a grotesque flea-infested glob of grease;
+is a wickedly incorrigible reptile and a vapid heart-sickening odious leach-covered blob of quivering slime;
+is an outrageously incorrigible scoundrel and a belligerent heart-sickening abomination to all the senses;
+is an outrageously insufferable nincompoop and a catatonic simple-minded personification of vulgarity;
+is a grievously blighted sycophant and a hopeless all-befouling excrement stain on a Sumo Wrestler's underpants;
+is an abominably appalling sycophant and a dastardly dull-witted malodorous marinade of sweat and fear;
+is an unconscionably grotesque polisson and a revolting odiously suffocating obfuscation of all that is good;
+is a devilishly minuscule varmint and a frightful chronically flatulent spawn of a mad scientist and a disastrous test tube experiment}
+{!announce {#the-deathpit} **$1** {choice}.}

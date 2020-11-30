@@ -1,0 +1,4 @@
+{delete}
+{require:{#the-deathpit}}
+{choose:typeracer.com;coin toss;roulette;insults}
+{!announce {#the-deathpit} **{user.username}** has challeged **$1** to a deathmatch! The trial will be {choice}!}
