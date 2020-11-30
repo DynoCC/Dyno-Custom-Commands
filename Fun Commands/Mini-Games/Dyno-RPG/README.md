@@ -78,6 +78,6 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 - When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.
 
-- The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.
+- The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding these commands to make the commands require it.
 
 - This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated.
