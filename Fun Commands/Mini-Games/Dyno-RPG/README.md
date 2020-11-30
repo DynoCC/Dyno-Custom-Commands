@@ -59,7 +59,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 ***Deathmatch Commands should be allowed only in `the-deathpits`***
 
-***Divine Council Commands should be limited to serverMod only and only allowed to be used in `divine-council`, while the response can preferaly be set to world-gates` if desired***
+***Divine Council Commands should be limited to serverMod only and only allowed to be used in `divine-council`, while the response can preferably be set to world-gates` if desired***
 
 ***Plaugue and Fester should only be useable if the person calling them is `Infected`***
 
