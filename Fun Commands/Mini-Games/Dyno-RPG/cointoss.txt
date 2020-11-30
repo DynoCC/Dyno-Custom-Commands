@@ -90,4 +90,5 @@ None
 **Education**: The Church of Sacrificial Offerings for Chtulu
 **Political Views**: Cthulu is Love.. Cthulu is Life.. CTHULU IS LOVE.. CTHULU IS LIFE......;
 }
+
 Result: {choice}
