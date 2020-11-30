@@ -41,7 +41,7 @@ For this to work you will need the following roles in your guild:
 
 As well as the following channels:
 
-- `the-world-gates`
+- `world-gates`
 - `the-crossroads`
 - `the-bloodfields`
 - `the-deathpit`
@@ -50,11 +50,23 @@ As well as the following channels:
 - `sacrificial-offerings`
 - `divine-council`
 
-It is suggested that the `divine-council` channel be useable ONLY by serverMods as it is the channel required for using the Divine Council commands.
+
+### How to
+A simple guide for setting up roles and channels for the commands to work as intended
 
 ***The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.***
 
+***Deathmatch Commands should be allowed only in `the-deathpits`***
+
+***Divine Council Commands should be limited to serverMod only and only allowed to be used in `divine-council`, while the response can preferaly be set to world-gates` if desired***
+
+***Plaugue and Fester should only be useable if the person calling them is `Infected`***
+
+***Divine Council is not actually a role, it's a nickname for serverMods. as such I decided not to make a seperate role for it.***
+
+***The `rpg-cmds` command should be accessible to `Adveturer` roles only, while the `register` command should be acessible to everyone in th server so people can join Avelon***
 
 
+### Notes
 
 ***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated***

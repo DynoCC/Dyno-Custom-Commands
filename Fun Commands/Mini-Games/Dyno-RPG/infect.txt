@@ -1,4 +1,2 @@
-{delete}
-{silent}
 {!role $1 +Infected}
 $1 has been infected.... Well that just happened....
