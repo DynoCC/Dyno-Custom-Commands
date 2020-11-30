@@ -69,6 +69,8 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 ***All commands should preferrably also be set to both silent and delete so as to prevent anyone from knowing who is doing what***
 
+***Note: When creating the roles for the commands, make sure to determin which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.***
+
 
 ### Notes
 
