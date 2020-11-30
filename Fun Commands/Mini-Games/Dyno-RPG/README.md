@@ -76,7 +76,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 - It is suggested that the `divine-council` channel be useable **ONLY** by serverMods as it is the channel required for using the Divine Council commands.
 
-- When creating the roles for the commands, make sure to determin which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.
+- When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.
 
 - The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.
 
