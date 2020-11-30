@@ -1,2 +1,2 @@
 {choose:coin toss;roulette;insults}
-**{user.username}** has challeged **$1** to a deathmatch! The trial will be {choice}!
+**{user.username}** has challenged **$1** to a deathmatch! The trial will be {choice}!
