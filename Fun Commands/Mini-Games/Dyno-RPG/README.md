@@ -55,19 +55,19 @@ As well as the following channels:
 ### How to
 A simple guide for setting up roles and channels for the commands to work as intended
 
-***The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.***
+ - The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding the commands to make the commands require it.
 
-***Deathmatch Commands should be allowed only in `the-deathpits`***
+ - Deathmatch Commands should be allowed only in `the-deathpits`
 
-***Divine Council Commands should be limited to serverMod only and only allowed to be used in `divine-council`, while the response can preferably be set to world-gates` if desired***
+- Divine Council Commands should be limited to serverMod only and only allowed to be used in `divine-council`, while the response can preferably be set to world-gates` if desired
 
-***Plaugue and Fester should only be useable if the person calling them is `Infected`***
+- `Plugue` and `Fester` should only be useable if the person calling them is `Infected`
 
-***Divine Council is not actually a role, it's a nickname for serverMods. As such I decided not to make a separate role for it.***
+- Divine Council is not actually a role, it's a nickname for serverMods. As such I decided not to make a separate role for it.
 
-***The `rpg-cmds` command should be accessible to `Adventurer` roles only, while the `register` command should be accessible to everyone in the server so people can join Avelon***
+ - The `rpg-cmds` command should be accessible to `Adventurer` roles only, while the `register` command should be accessible to everyone in the server so people can join **Avelon**
 
-***All commands should preferably also be set to both silent and delete so as to prevent anyone from knowing who is doing what***
+ - All commands should preferably also be set to both silent and delete so as to prevent anyone from knowing who is doing what
 
 
 
