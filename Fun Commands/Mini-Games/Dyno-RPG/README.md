@@ -1,6 +1,6 @@
 ---
 title: Dyno RPG
-permalink: /Fun%20Commands/Mini-Games/Dyno-RPG
+permalink: /FunCommands/MiniGames/DynoRPG
 ---
 
 # Dyno RPG
