@@ -69,14 +69,15 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 ***All commands should preferrably also be set to both silent and delete so as to prevent anyone from knowing who is doing what***
 
-***Note: When creating the roles for the commands, make sure to determin which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.***
+
 
 
 ### Notes
 
-It is suggested that the `divine-council` channel be useable ONLY by serverMods as it is the channel required for using the Divine Council commands.
+- It is suggested that the `divine-council` channel be useable **ONLY** by serverMods as it is the channel required for using the Divine Council commands.
 
-***The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.***
+- When creating the roles for the commands, make sure to determin which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.
 
+- The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.
 
-***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated***
+- This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated.
