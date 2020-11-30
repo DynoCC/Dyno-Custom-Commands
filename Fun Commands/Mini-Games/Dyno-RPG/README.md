@@ -63,7 +63,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 ***Plaugue and Fester should only be useable if the person calling them is `Infected`***
 
-***Divine Council is not actually a role, it's a nickname for serverMods. as such I decided not to make a seperate role for it.***
+***Divine Council is not actually a role, it's a nickname for serverMods. As such I decided not to make a separate role for it.***
 
 ***The `rpg-cmds` command should be accessible to `Adveturer` roles only, while the `register` command should be acessible to everyone in th server so people can join Avelon***
 
