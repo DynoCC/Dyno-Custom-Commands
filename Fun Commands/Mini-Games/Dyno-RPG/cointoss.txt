@@ -1,6 +1,3 @@
-{delete}
-{silent}
-{require:{#the-deathpit}}
 {choose:
 **__Death__** 
 **Possible Cause of Death**
@@ -93,4 +90,5 @@ None
 **Education**: The Church of Sacrificial Offerings for Chtulu
 **Political Views**: Cthulu is Love.. Cthulu is Life.. CTHULU IS LOVE.. CTHULU IS LIFE......;
 }
-{Result: {choice}}
+
+Result: {choice}

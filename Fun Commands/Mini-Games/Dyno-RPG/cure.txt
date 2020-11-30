@@ -1,5 +1,3 @@
-{delete}
-{silent}
 {!role {user} -Infected}
 {!role {user} -Bleeding}
 {user} cured themselves!

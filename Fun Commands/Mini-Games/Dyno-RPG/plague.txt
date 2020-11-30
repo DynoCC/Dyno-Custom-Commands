@@ -1,5 +1,2 @@
-{delete}
-{silent}
-{require:{&Infected}}
 {!role all +Infected}
 An infected Adventurer is spreading a plague! We're all doomed! DOOMED I SAY!
