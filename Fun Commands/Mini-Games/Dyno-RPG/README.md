@@ -66,6 +66,8 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 ***The `rpg-cmds` command should be accessible to `Adveturer` roles only, while the `register` command should be acessible to everyone in th server so people can join Avelon***
 
+***All commands should preferrably also be set to both silent and delete so as to prevent anyone from knowing who is doing what***
+
 
 ### Notes
 
