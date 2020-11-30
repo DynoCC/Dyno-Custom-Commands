@@ -23,12 +23,14 @@ A simple guide for setting up roles and channels for the commands to work as int
 ## Avelon Commands
 A Full list of available commands for use with **Avelon RPG**
 
-**__Registration Commands__**
+**Registration Commands**
+
 This command is used to join the world of Avelon
 
  - `register`: Grants the **Adenturer** role and enters you into the forsaken world of Avelon
 
-**__Attack Commands__**
+**Attack Commands**
+
 These commands can be used to attack other players, but be warned some come with *side effects*
 
  - `blight`: Cast Blight on another Adventurer
@@ -36,14 +38,16 @@ These commands can be used to attack other players, but be warned some come with
  - `plague`: Cast a plague infecting all Adventurers
  - `stab`: Stab another Adventurer 
 
-**__Medica Commands__**
+**Medica Commands**
+
 These commands can be used to heal status ailments.
 
  - `treat`: Cure another Adventurer of all ailments
  - `cure`: Cure yourself of all ailments
  - `raise`: Raise another Adventurer from the dead
 
-**__Divine Commands__**
+**Divine Commands**
+
 These commands can only be used by the Divine Council *[aka serverMods]*
 
  - `divinecure`: Cures all Adventurers of all ailments
