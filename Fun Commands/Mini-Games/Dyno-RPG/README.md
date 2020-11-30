@@ -41,6 +41,7 @@ For this to work you will need the following roles in your guild:
 
 As well as the following channels:
 
+
 - `world-gates`
 - `the-crossroads`
 - `the-bloodfields`
@@ -68,5 +69,10 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 
 ### Notes
+
+It is suggested that the `divine-council` channel be useable ONLY by serverMods as it is the channel required for using the Divine Council commands.
+
+***The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding thse commands to make the commands require it.***
+
 
 ***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated***
