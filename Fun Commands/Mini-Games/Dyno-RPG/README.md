@@ -65,7 +65,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 ***Divine Council is not actually a role, it's a nickname for serverMods. As such I decided not to make a separate role for it.***
 
-***The `rpg-cmds` command should be accessible to `Adveturer` roles only, while the `register` command should be acessible to everyone in th server so people can join Avelon***
+***The `rpg-cmds` command should be accessible to `Adventurer` roles only, while the `register` command should be accessible to everyone in the server so people can join Avelon***
 
 ***All commands should preferrably also be set to both silent and delete so as to prevent anyone from knowing who is doing what***
 
