@@ -1,4 +1,4 @@
-{!announce #suggestions **New Suggestion by `{user.name}`** *(User ID: `{user.id}`)* **in `{channel.name}`** *(Channel ID: `{channel.id}`)*
+{!announce {#suggestions} **New Suggestion by `{user.name}`** *(User ID: `{user.id}`)* **in `{channel.name}`** *(Channel ID: `{channel.id}`)*
 ```$1+
 ```
 }
