@@ -1,10 +1,10 @@
 ---
 title: Dyno RPG
-permalink: /FunCommands/MiniGames/DynoRPG
+permalink: /FunCommands/MiniGames/DynoRPG/
 ---
 
 # Dyno RPG
-Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and inspirted by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
+Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and inspired by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
 
 
 ## How to
@@ -41,8 +41,12 @@ These commands can be used to attack other players, but be warned some come with
 
  - `blight`: Cast Blight on another Adventurer
  - `fester`: Cast Fester on another Adventurer
+ - `infect`: Cast infect on another Adventurer
  - `plague`: Cast a plague infecting all Adventurers
- - `stab`: Stab another Adventurer 
+ - `stab`: Stab another Adventurer
+ - `deathmatch`: Challenges a randomly chosen deathmatch
+   - `cointoss`: Used in the coin toss deathmatch, generate random cause of death
+   - `insult`: Used in the insult deathmatch, generates a random insult
 
 **Medica Commands**
 
@@ -93,4 +97,4 @@ As well as the following channels:
 - The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding these commands to make the commands require it.
 
 
-***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated.***
+***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be welcome to do so.***
