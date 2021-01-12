@@ -41,6 +41,7 @@ These commands can be used to attack other players, but be warned some come with
 
  - `blight`: Cast Blight on another Adventurer
  - `fester`: Cast Fester on another Adventurer
+ - `infect`: Cast infect on another Adventurer
  - `plague`: Cast a plague infecting all Adventurers
  - `stab`: Stab another Adventurer
  - `deathmatch`: Challenges a randomly chosen deathmatch
