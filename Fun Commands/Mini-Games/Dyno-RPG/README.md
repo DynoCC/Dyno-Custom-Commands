@@ -86,7 +86,21 @@ As well as the following channels:
 - `sacrificial-offerings`
 - `divine-council`
 
+### Usage
+This guide assumes that your prefix is `?`. We will user `[input1]` and `[input2]` for the user arguments.
 
+A user enters the game by using `?register`, which will give them the Adveturer role and send an introduction message into `world-gates`. This requires that the channel `world-gates` exists in the server. 
+
+Once the Adventurer role has been obtained, a user can begin playing by typing `?infect [input1]` to infect another user. The infected user will obtain the `infected` role and in doing so the ability to choose to either spread a plague by typing `?plague` or fester another user by typing `?fester [input1]`.
+
+Another attack that can be done are Blight, Curse, and Sacrificer by typing `?blight [input1]`, `?curse [input1]`, or `?sacrifice [input1]`.
+Users can aid eachother by typing `?treat [input1]` to cure eachother of status ailments, `?raise [input1]` to raise another Adventurer from the dead, or heal themselves by typing `?cure` to cure their own status ailments.
+
+If you want to simply start a deathmatch with another player that can be done by typing `?deathmatch [input1]`. This will select a deathatch at random.
+ - For the insult deathmatch, simply type `?insult [input1]` and it will respond with a random hillariously overexagerrated insult.
+ - For the cointoss deathmatch simply type `?cointoss` and it will respond with a random somewhat hillarious death certificate.
+
+ServerMods and up are reffered to as the Divine Council and can occasionally send down a divine blessing by typing `?divinecure`. This will cure raise and heal all Adventurers.
 
 ### Notes
 
@@ -95,6 +109,5 @@ As well as the following channels:
 - When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.
 
 - The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding these commands to make the commands require it.
-
 
 ***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be welcome to do so.***
