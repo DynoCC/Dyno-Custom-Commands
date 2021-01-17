@@ -42,8 +42,10 @@ These commands can be used to attack other players, but be warned some come with
  - `blight`: Cast Blight on another Adventurer
  - `fester`: Cast Fester on another Adventurer
  - `infect`: Cast infect on another Adventurer
+ - `curse`: Cast a curse on another Adventurer
  - `plague`: Cast a plague infecting all Adventurers
  - `stab`: Stab another Adventurer
+ - `sacrifice`: Sacrifice another Adventurer to a random deity
  - `deathmatch`: Challenges a randomly chosen deathmatch
    - `cointoss`: Used in the coin toss deathmatch, generate random cause of death
    - `insult`: Used in the insult deathmatch, generates a random insult
