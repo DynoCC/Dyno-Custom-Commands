@@ -95,10 +95,10 @@ A user enters the game by using `?register`, which will give them the Adveturer 
 
 Once the Adventurer role has been obtained, a user can begin playing by typing `?infect [input1]` to infect another user. The infected user will obtain the `infected` role and in doing so the ability to choose to either spread a plague by typing `?plague` or fester another user by typing `?fester [input1]`.
 
-Another attack that can be done are Blight, Curse, and Sacrificer by typing `?blight [input1]`, `?curse [input1]`, or `?sacrifice [input1]`.
-Users can aid eachother by typing `?treat [input1]` to cure eachother of status ailments, `?raise [input1]` to raise another Adventurer from the dead, or heal themselves by typing `?cure` to cure their own status ailments.
+More attacks that can be done are Blight, Curse, and Sacrifice by typing `?blight [input1]`, `?curse [input1]`, or `?sacrifice [input1]`.
+Adventurers can aid eachother by typing `?treat [input1]` to cure each other of status ailments, `?raise [input1]` to raise another Adventurer from the dead, or they can heal themselves by typing `?cure` to cure their own status ailments.
 
-If you want to simply start a deathmatch with another player that can be done by typing `?deathmatch [input1]`. This will select a deathatch at random.
+Adventurers can also start a deathmatch with another Adventurer by typing `?deathmatch [input1]`. This will select a deathatch at random.
  - For the insult deathmatch, simply type `?insult [input1]` and it will respond with a random hillariously overexagerrated insult.
  - For the cointoss deathmatch simply type `?cointoss` and it will respond with a random somewhat hillarious death certificate.
 
