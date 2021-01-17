@@ -87,7 +87,7 @@ As well as the following channels:
 - `divine-council`
 
 ### Usage
-This guide assumes that your prefix is `?`. We will user `[input1]` and `[input2]` for the user arguments.
+This guide assumes that your prefix is `?`. We will use `[input1]` and `[input2]` for the user arguments.
 
 A user enters the game by using `?register`, which will give them the Adveturer role and send an introduction message into `world-gates`. This requires that the channel `world-gates` exists in the server. 
 
