@@ -1,41 +1,44 @@
-**__Avelon RPG Commands__**
-A Full List of Commands for use with **Avelon RPG**
+**__Dyno RPG__**
+Otherwise called **Avelon RPG**, **Dyno RPG** is a RPG Game made using Dyno CC and inspired by the `infection` minigame and a few other custom commands.
 
+**__Avelon Commands__**
+A Full list of available commands for use with **Avelon RPG**
 
-**__Attack Commands__**
-These commands can be used to attack other players, but be warned some come with *side effects*
+**__Registration Commands__**
+This command is used to join the world of Avelon.
 
 ```ml
-blight: Cast Blight on another Adventurer
-fester: Cast Fester on another adventurer
-plague: Cast a plague infecting all Adventurers
-stab: Stab another Adventurer 
+    register: Grants the Adenturer role and enters you into the forsaken world of Avelon
+```
+
+**__Attack Commands__**
+These commands can be used to attack other players, but be warned some come with side effects.
+
+```ml
+    blight: Cast Blight on another Adventurer
+    fester: Cast Fester on another Adventurer
+    infect: Cast infect on another Adventurer
+    curse: Cast a curse on another Adventurer
+    plague: Cast a plague infecting all Adventurers
+    stab: Stab another Adventurer
+    sacrifice: Sacrifice another Adventurer to a random deity
+    deathmatch: Challenges a randomly chosen deathmatch
+        cointoss: Used in the coin toss deathmatch, generate random cause of death
+        insult: Used in the insult deathmatch, generates a random insult
 ```
 
 **__Medica Commands__**
-These commands can be used to heal status ailments
-
-
-```ml
-treat: Cure another Adventurer of all ailments
-cure: Cure yourself of all ailments
-raise: Raise another Adventurer from the dead
-```
-
-
-**__Deathmatch Commands__**
-These commands are for use with the-deathpits
+These commands can be used to heal status ailments.
 
 ```ml
-deathmatch: Challenge another Adveturer to a deathmatch
-insult: Send a random insult to challenger during an insults deathmatch
-cointoss: Toss a coin during a cointoss deathmatch 
+    treat: Cure another Adventurer of all ailments
+    cure: Cure yourself of all ailments
+    raise: Raise another Adventurer from the dead
 ```
-
 
 **__Divine Commands__**
-These commands can only be used by the Divine Council
+These commands can only be used by the Divine Council [aka serverMods].
 
 ```ml
-divinecure: Cures all Adventurers of all ailments
+    divinecure: Cures all Adventurers of all ailments
 ```
