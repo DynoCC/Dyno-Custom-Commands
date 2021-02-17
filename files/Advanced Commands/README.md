@@ -1,5 +1,5 @@
 **__Advanced Commands__**
-A collection of commands that can be configured and/or toggled.
+A collection of commands that can be configured and toggled.
 
 **Config:** `setup`, `toggle`, `pc-ignore`
 **Fun:** `8ball`, `roulette`, `rate`, `hug`, `gift`, `ship`
