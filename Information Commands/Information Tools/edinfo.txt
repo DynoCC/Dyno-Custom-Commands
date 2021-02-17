@@ -1,0 +1,8 @@
+{require:serverMod}
+{!tag create pr-$1.user.id-info Placeholder}
+{!tag create pr-$1.user.id __**$1.user.username's Profile** __
+**Joined:** $1.user.joinedAt}
+{!tag edit pr-$1.user.id-info **Info:** ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​$2+}
+<:dynoSuccess:314691591484866560> | **Profile Information updated for $1.user.username.**
+{!600826051014426625}
+{!123164162141156144}

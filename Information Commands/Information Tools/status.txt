@@ -1,0 +1,5 @@
+{choose:n}
+{!an{choice$1.user.id}nounce {channel} **$1.user.username** ($1.user.id) has the status: **$1.user.status**.}
+{!an{choice$1.user.id}ounce {channel} ``$1`` is not a valid user!}
+{!600826051014426625}
+{!123164162141156144}

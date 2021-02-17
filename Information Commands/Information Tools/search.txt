@@ -1,0 +1,21 @@
+{choose:{urlencode:$1+
+}
+{!announce {channel} You searched for ``$1+``.
+
+**Search Engines**
+[Google](http://www.google.com/search?q={choice})
+[DuckDuckGo](https://duckduckgo.com/?q={choice})
+[Bing](https://www.bing.com/search?q={choice})
+
+**Knowledge**
+[Wolfram Alpha](https://www.wolframalpha.com/input/?i={choice})
+[Github](https://github.com/search?ref=opensearch&q={choice})
+[Wikipedia](https://en.wikipedia.org/w/index.php?title=Special:Search&search={choice})
+
+**Media**
+[Soundcloud](https://soundcloud.com/search?q={choice})
+[Spotify](https://open.spotify.com/search/{choice})
+[Youtube](https://www.youtube.com/results?utm_source=opensearch&search_query={choice})
+}
+{!600826051014426625}
+{!123164162141156144}

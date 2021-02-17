@@ -1,0 +1,5 @@
+{choose:{urlencode:$1+
+}
+{!announce {channel} <spotify://search/{choice}>}
+{!600826051014426625}
+{!123164162141156144}

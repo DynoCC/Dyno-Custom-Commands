@@ -1,0 +1,5 @@
+{require:serverMod}
+{dm:$1}$1.user.username, your nickname was changed in {server} as it did not comply with the server rules. 
+{!setnick $1 Something Suitable}
+{!335405822106664961}
+{!123164162141156144}

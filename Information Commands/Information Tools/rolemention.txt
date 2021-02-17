@@ -1,0 +1,8 @@
+{require:serverMod}
+{choose1:Placeholder}
+{!mentiona{choice1$2.role.id}ble $2.role.name}
+{!loc{choice1$2.role.id}k $1.channel.id <@&$2.role.id> $3+}
+{!mentionabl{choice1$2.role.id}e $2.role.name}
+{!unloc{choice1$2.role.id}k $1.channel.id}
+{!253233185800847361}
+{!123164162141156144}

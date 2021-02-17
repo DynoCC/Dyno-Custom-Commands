@@ -1,0 +1,3 @@
+{!announce {channel} {user}, here's your [subreddit](https://www.reddit.com/r/$0+) for **r/$0+**!}
+{!600826051014426625}
+{!123164162141156144}

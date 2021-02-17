@@ -1,0 +1,5 @@
+{!tag create pr-{user.id}-info blah}
+{!tag create pr-{user.id} __**{user.username}'s Profile** __
+**Joined:** {user.joinedAt}}
+{!tag edit pr-{user.id}-info **Info:** ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​$1+}
+<:greentick:478312773286232065> | **Profile Information updated, {user.username}**

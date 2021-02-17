@@ -1,0 +1,4 @@
+{!announce {channel} The color of <@&$1.role.id> is #$1.role.color.}
+{!rolecolor $1 $2}
+{!313118256007217155}
+{!467837375268257803}

@@ -1,0 +1,7 @@
+{choose:n}
+{choose1:a boot :boot:;a crown :crown:;a ring :ring:;an apple :apple:;a pear :pear:;a lemon :lemon:;a banana :banana:;a strawberry :strawberry:;a hamburger :hamburger:;fries :fries:;pizza :pizza:;a taco :taco:;a burrito :burrito:;an icecream :icecream:;a cake :cake:;a candy :candy:;a lolipop :lollipop:;a chocolate bar :chocolate_bar:;a doughnut :doughnut:;a cookie :cookie:;an egg :egg:;a medal :medal:;a guitar :guitar:;a dice :game_die:;a watch :watch:;a gem :gem:;a baloon :balloon:;a pen :pen_ballpoint:;a trashbin :wastebasket:}
+{!an{choice$1.user.id}ounce {channel} How can you gift someone who doesn't exist, {user}?}
+{!ann{choice$1.user.id}ounce {channel} {user} gifted $1.user.mention {choice1}!}
+{!335405822106664961}
+{!600826051014426625}
+{!123164162141156144}

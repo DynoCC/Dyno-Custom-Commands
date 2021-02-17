@@ -1,0 +1,13 @@
+{choose:n}
+{!anno{choice$1.user.id}unce {channel} :bust_in_silhouette: | Information about **$1.user.username#$1.user.discriminator:**
+
+:white_medium_small_square: | User ID: **$1.user.id**
+:white_medium_small_square: | Account Creation: **$1.user.createdAt EST**
+:white_medium_small_square: | Server Join: **$1.user.joinedAt EST**
+:white_medium_small_square: | User Status: **$1.user.status**
+:white_medium_small_square: | User Avatar Link: [Click Here]($1.user.avatar)
+}
+{!an{choice$1.user.id}ounce {channel} ``$1`` is not a valid user!}
+{!600826051014426625}
+{!335405822106664961}
+{!123164162141156144}
