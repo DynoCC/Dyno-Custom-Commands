@@ -7,3 +7,5 @@ A collection of commands that can be configured and toggled.
 **Info:** `status`, `panel`, `last`, `channel-info`, `lookup`, `spotify`, `reddit`
 **Util:** `dm`, `pingmods`, `rcolor`, `rolemention`, `screenshare`, `search`
 **Moderation:** `badnick`, `cooldown`, `erole`, `lc`, `mute-ban`, `mute-kick`, `mute-sban`, `mute-tban`, `roleswap`
+
+***All commands in this category are configured to work together and this command category is planned to be built up over time.***
