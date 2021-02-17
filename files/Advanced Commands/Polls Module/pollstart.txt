@@ -1,0 +1,15 @@
+{require:Polls Manager}
+{!mentionable Polls}
+{!announce role Polls {#polls} {user} has started a poll!
+Question: $3+
+Option 1: $1
+Option 2: $2
+Vote for Option 1 or Option 2 with `{prefix}op1` and `{prefix}op2`!
+**You can only vote once, so choose wisely!**}
+{!mentionable Polls}
+{!cc enable op1}
+{!cc enable op2}
+I have started a poll in {#polls}.
+**Question:** $3+
+**Option 1:** $1
+**Option 2:** $2

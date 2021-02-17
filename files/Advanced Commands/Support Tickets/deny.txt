@@ -1,0 +1,8 @@
+{delete}
+{silent}
+{respond:#support-requests}
+{require:Support}
+{require:#ticket-queue}
+🎫 $1.user.mention, we've denied your ticket. Check the FAQ pins 📌 to see if your problem could have been answered there or if you broke a rule. Thanks!
+{!purge startswith $1.user.id 1}
+{!role $1 -Pending}

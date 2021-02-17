@@ -1,0 +1,18 @@
+{require:Suggestions Manager}
+{dm:$1}
+{!announce {#suggestions} Suggestion `$2` has been denied.
+Reason: $3+}
+{!announce {#suggestion-log} **Suggestion `$2` Denied**
+
+Denied by: {user}
+- Name: {user.name}
+
+Reason: $3+
+
+Suggestion by: $1.user.mention
+- Name: $1.user.username#$1.user.discriminator
+
+Channel: {channel}
+- Name: {channel.name}}
+Your suggestion has been denied in {server}.
+Reason: $3+

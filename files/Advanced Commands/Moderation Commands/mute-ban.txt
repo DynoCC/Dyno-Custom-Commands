@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require:serverMod}
 {!mute $1+}
 {!ban $1+}

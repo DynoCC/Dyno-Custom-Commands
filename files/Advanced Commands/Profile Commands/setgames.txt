@@ -1,3 +1,0 @@
-{!tag create pr-{user.id}-games blah}
-{!tag edit pr-{user.id}-games **Games:** ​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​$1+}
-<:greentick:478312773286232065> | **Profile Information updated, {user.username}**

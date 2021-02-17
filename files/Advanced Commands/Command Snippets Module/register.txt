@@ -1,0 +1,10 @@
+{silent}
+{require:serverAdmin}
+{!addrole $1+ #008F11}
+{!ping}
+{!ping}
+{!ping}
+{!mentionable $1+}
+I added ``$1+`` as a command snippet!
+{!600826051014426625}
+{!123164162141156144}

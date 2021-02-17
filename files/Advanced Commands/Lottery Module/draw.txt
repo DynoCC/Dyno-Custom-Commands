@@ -1,0 +1,8 @@
+{delete}
+{require:serverAdmin}
+{require:#lottery-tickets}
+{choose:0;1;2;3;4;5;6;7;8;9}
+{choose1:0;1;2;3;4;5;6;7;8;9}
+{choose2:0;1;2;3;4;5;6;7;8;9}
+{!purge not **{choice}-{choice1}-{choice2}}
+All non-winning combinations removed! Did anyone win? If not, a new combination has been generated!

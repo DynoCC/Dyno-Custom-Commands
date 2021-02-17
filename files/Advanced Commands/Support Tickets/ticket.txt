@@ -1,0 +1,9 @@
+{silent}
+{delete}
+{respond:#ticket-queue}
+{not:Pending}
+{!role {user} +Pending}
+{user.id} ** - {user.username} has submitted a ticket!** :ticket: 
+**Timestamp:** {datetime12} 
+**Request:** *$1+*
+_ _

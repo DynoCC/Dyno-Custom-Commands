@@ -1,0 +1,4 @@
+{require:Polls Manager}
+{!announce {channel} {user}, here are the current poll results, in the order of **Option One** and **Option Two**.}
+{!members I Voted for Option 1!}
+{!members I Voted for Option 2!}

@@ -1,0 +1,10 @@
+{require:Polls Manager}
+{!mentionable Polls}
+{!announce role Polls {#polls} The current poll has ended!                                                                                                                                                                                                                                                            
+Thanks for voting everyone!                                                                                                                                                                                                                                                            
+**Results:** $1+}
+{!mentionable Polls}
+{!role all -I Voted for Option 1!}
+{!role all -I Voted for Option 2!}
+{!cc disable op1}
+{!cc disable op2}

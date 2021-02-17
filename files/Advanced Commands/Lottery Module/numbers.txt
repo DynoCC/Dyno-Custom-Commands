@@ -1,0 +1,5 @@
+{delete}
+{noeveryone}
+{respond:#lottery-tickets}
+{choose:Good luck!;Bon Chance!;Best of luck!;Is this your chance?;Feeling lucky?;Good odds?;Lucky numbers?;Lucky streak?;Will fortune smile upon you?;Is it the winning one?}
+**$1-$2-$3** - {user.username} ({user.id}) has submitted a lottery ticket! {choice}

@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require:serverMod}
 {!mute $1 2m Cooldown}
 {!purge $1.user.mention 5}

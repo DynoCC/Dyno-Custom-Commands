@@ -1,3 +1,4 @@
+{silent}
 {require:serverMod}
 {choose1:Placeholder}
 {!mentiona{choice1$2.role.id}ble $2.role.name}

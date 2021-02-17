@@ -1,0 +1,8 @@
+{delete}
+{require:Newcomer}
+{require:#welcome}
+{dm}
+{choose:https://i.imgur.com/NxPjuFQ.png;https://i.imgur.com/SfI9rSA.png;https://i.imgur.com/gRjfz3S.png;https://i.imgur.com/iKFgN4j.png;https://i.imgur.com/jyMPJzX.png;https://i.imgur.com/SB6Sdyl.png;https://i.imgur.com/7IgusV9.png;https://i.imgur.com/hwljk1c.png;https://i.imgur.com/LMDq9mu.png;https://i.imgur.com/RGLsr0H.png}
+Heya {user.username}, here is your image: {choice}.
+Now go to {#welcome} in {server} and type the word you see on your screen with `{prefix}` in front.
+For example, if you see `Red` on your screen then type `{prefix}red` in {#welcome}.

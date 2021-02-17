@@ -1,0 +1,6 @@
+{noeveryone}
+{silent}
+{!tag create pr-{user.id}-games ...}
+{!tag create pr-{user.id}-games **Games:**​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​}
+<:greentick:478312773286232065> | **Games Information successfully added to your profile, {user.username}**
+{!tag edit pr-{user.id}-games **Games:**}

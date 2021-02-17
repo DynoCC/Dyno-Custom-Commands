@@ -1,0 +1,5 @@
+{delete}
+{silent}
+{respond:#support-requests}
+{!lock #support-requests}
+:lock: **Ticket Submissions are closed for now. Please check back later with your issue.**

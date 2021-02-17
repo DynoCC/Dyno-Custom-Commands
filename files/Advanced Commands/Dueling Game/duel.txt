@@ -1,0 +1,8 @@
+{silent}
+{!rolename duel-, duel-}
+{!COMMENT — the above sets the oldest instance of a duel role to the name duel-}
+{!delrole duel-}
+{!COMMENT — delete the role duel-}
+{!addrole duel-{user.id}-$1.user.id}
+{!COMMENT — create a duel ID role}
+{user} has proposed a duel against $1.user.mention.

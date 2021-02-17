@@ -1,4 +1,6 @@
-{require: serverAdmin}
+{silent}
+{require:serverAdmin}
+
 {!lo{&$1.channel.id-locked}ck $1.channel.id $2+}
 
 {!add{&$1.channel.id-locked}role $1.channel.id-locked}

@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require:serverMod}
 {!mute $1.user.id $3+}
 {!ban $1.user.id $2 $3+}

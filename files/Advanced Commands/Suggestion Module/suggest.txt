@@ -1,0 +1,22 @@
+{delete}
+{dm}
+{choose:0383706811;9443093971;5474260293;5726270951;2953028368;8293498639;8920662161;9485641625;6246831345;9714558485}
+{!announce {#suggestions} $1+
+
+Suggestion ID: `{user.discriminator}-{time}-{choice}`}
+{!announce {#suggestion-log} A new suggestion has been sent to {#suggestions}.
+
+Content: $1+
+
+User: {user}
+- Name: {user.name}
+- Joined: {user.joinedAt}
+- Registered: {user.createdAt}
+- Status: {user.status}
+
+Channel: {channel}
+- Name: {channel.name}
+
+Suggestion ID: `{user.discriminator}-{time}-{choice}`}
+Your suggestion has been sent to {#suggestions} to be voted on.
+Here's your suggestion ID:`{user.discriminator}-{time}-{choice}`.

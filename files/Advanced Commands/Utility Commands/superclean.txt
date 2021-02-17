@@ -1,0 +1,6 @@
+{delete}
+{silent}
+{require:serverMod}
+{!clean}
+{!purge startswith {prefix}}
+All Dynobot messages and commands in this channel have been cleaned!

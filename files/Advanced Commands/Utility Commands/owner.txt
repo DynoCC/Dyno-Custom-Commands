@@ -1,0 +1,3 @@
+{delete}
+{dm:{server.ownerID}}{user} sent you a message! Message: **$1+**
+{!announce {channel} {user}, your message has been sent to the server owner! :mailbox_with_mail:}
