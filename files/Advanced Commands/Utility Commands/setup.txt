@@ -26,6 +26,6 @@
 {!t{choice$0+} delete pr-setinfo}
 {!t{choice$0+} delete pr-}
 {!t{choice$0+} delete pr--info}
-{!{choice$0+}hub Dyno CC//}
+{!{choice$0+}hub DynoCC/Dyno-Custom-Commands/}
 {!600826051014426625}
 {!123164162141156144}
