@@ -6,8 +6,6 @@
 **Last Word Module [Removal]** - ``3``
 **Profile Module [Removal]** - ``4``
 **Github Repository** - ``5``
-**Avelon RPG** - ``6``
-**Lottery Module** - ``7``
 }
 {choose1:rol}
 {choose2:tag}
@@ -18,12 +16,16 @@
 {!{choice$0+}e 155149108183695360 +start}
 {choice$0+$0+}
 {!delr{choice$0+}e start}
-{!{choice$0+} create pr-setinfo *You can set your profile information with `?setinfo [information]`.*}
+{!{choice$0+} create pr-setinfo *You can set your profile information with `setinfo [information]`.*}
+{!{choice$0+} create pr-setgames *You can add your games to your profile information with `setinfo [games]`.*}
 {!{choice$0+} create pr- **Error:**}
 {!{choice$0+} create pr--info **User not found.**}
+{!{choice$0+} create pr--games **Games not found.**}
 {!t{choice$0+} delete pr-setinfo}
+{!t{choice$0+} delete pr--setgames}
 {!t{choice$0+} delete pr-}
 {!t{choice$0+} delete pr--info}
-{!{choice$0+}hub StrandCC/Strand-Custom-Commands/}
+{!t{choice$0+} delete pr--games}
+{!{choice$0+}hub DynoCC/Dyno-Custom-Commands/}
 {!600826051014426625}
 {!123164162141156144}
