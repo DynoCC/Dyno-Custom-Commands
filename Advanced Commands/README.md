@@ -1,12 +1,24 @@
-<div align="center">
-  <a href="#Commands">  
-    <img src="https://img.shields.io/badge/Folders-10-brightgreen.svg?style=for-the-badge">
-   <img src="https://img.shields.io/badge/Commands-50+-brightgreen.svg?style=for-the-badge">
-  </a>
-</div>
+# Advanced Commands
+A collection of commands that can be toggled and of configured.
 
-# Commands
-This folder contains commands and modules dedicating to improving the quality of your server. Just pick the one of your choice!
 
-## Wiki
-If you want to see our commands in use, visit the [Wiki](https://github.com/Strand-Custom-Commands/Strand-Custom-Commands/wiki). 
+## Information
+
+This section contains a series of commands that are designed to work together with eachother.
+
+Many of these commands can be toggled on or off by simply typing the correct command *[said commands are in the categories they are intended for]*
+
+I plan to build this up over time, as such some commands may or may not get removed and/or edited, while many commands ***will*** be added.
+
+If you would like to contriubute to this you are more than welcome. This is intended to be an improvement to Dyno Custom Commands of which should make for more functionality in the custom commands themselves.
+
+As it stands, a `cc-menu` command is being planned however I plan to work that one up bit by bit to get some ease of management in it. So for now it has not been implemented.
+## Notice
+
+These commands are a continuation of [StrandCC]().
+As such many are kept the same, some are edited, and many new commands are being added over time.
+
+This is an ongoing project by [PhantomNimbi](https://github.com/PhantomNimbi) of [Discord-Coding-Community](https://github.com/Discord-Coding-Community).
+
+
+

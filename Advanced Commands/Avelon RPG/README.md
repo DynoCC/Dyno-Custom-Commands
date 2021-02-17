@@ -3,8 +3,8 @@ title: Dyno RPG
 permalink: /FunCommands/MiniGames/DynoRPG
 ---
 
-# Dyno RPG
-Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and inspirted by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
+# Avelon RPG
+**Avelon RPG** is a RPG Game made using Dyno CC and inspirted by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
 
 
 ## How to
@@ -66,6 +66,7 @@ For this to work you will need the following roles in your guild:
 - `Blighted`
 - `Bleeding`
 - `Infected`
+- `Haunted`
 - `Cursed`
 - `Sacrificed`
 - `Adventurer`
@@ -75,6 +76,9 @@ As well as the following channels:
 
 - `world-gates`
 - `the-crossroads`
+- `the-black-sea`
+- `the-boneyards`
+- `the-crypt`
 - `the-bloodfields`
 - `the-deathpit`
 - `castle-grounds`
@@ -92,5 +96,4 @@ As well as the following channels:
 
 - The `Adventurer` role is the base role for playing Dyno RPG. As such it is suggested to use the role selection menu when adding these commands to make the commands require it.
 
-
-***This is a ongoing project and will have more commands added over time. Anyone who wishes to contribute their own commands would of course be much appreciated.***
+- Channels and Roles can be created and/or removed manually or automatically by using the `avelong-rpg <enable|disable> <create|delete>` command
