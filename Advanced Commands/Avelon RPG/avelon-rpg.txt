@@ -1,0 +1,35 @@
+{delete}
+{silent}
+{require:serverAdmin}
+{!cc $1 blight}
+{!cc $1 cointoss}
+{!cc $1 cure}
+{!cc $1 curse}
+{!cc $1 deathmatch}
+{!cc $1 divinecure}
+{!cc $1 fester}
+{!cc $1 infect}
+{!cc $1 insult}
+{!cc $1 plague}
+{!cc $1 raise}
+{!role $2 Adventurer}
+{!role $2 Infected}
+{!role $2 Cursed}
+{!role $2 Blighted}
+{!role $2 Haunted}
+{!role $2 Undead}
+{!role $2 Bleeding}
+{!role $2 Sacrificed}
+{!role $2 Festered}
+{!channel $2 world-gates}
+{!channel $2 the-crossroads}
+{!channel $2 the-black-sea}
+{!channel $2 the-bonyard}
+{!channel $2 the-crypt}
+{!channel $2 the-bloodfields}
+{!channel $2 the-deathpit}
+{!channel $2 castle-grounds}
+{!channel $2 castle-courtyard}
+{!channel $2 sacrificial-offerings}
+{!channel $2 divine-council}
+<:GreenTick:276107463688847360> | Avelon RPG commands have been **$1d**. 

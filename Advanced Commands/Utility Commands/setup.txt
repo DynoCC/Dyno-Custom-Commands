@@ -6,6 +6,8 @@
 **Last Word Module [Removal]** - ``3``
 **Profile Module [Removal]** - ``4``
 **Github Repository** - ``5``
+**Avelon RPG** - ``6``
+**Lottery Module** - ``7``
 }
 {choose1:rol}
 {choose2:tag}
