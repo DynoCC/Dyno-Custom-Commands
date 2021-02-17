@@ -8,4 +8,9 @@ A collection of commands that can be configured and toggled.
 **Util:** `dm`, `pingmods`, `rcolor`, `rolemention`, `screenshare`, `search`
 **Moderation:** `badnick`, `cooldown`, `erole`, `lc`, `mute-ban`, `mute-kick`, `mute-sban`, `mute-tban`, `roleswap`
 
-***All commands in this category are configured to work together and this command category is planned to be built up over time.***
+**__Notice__**
+This is a continuation of [StrandCC](https://github.com/StrandCC/Strand-Custom-Commands) and is being built to add onto the commands already provided.
+
+Some commands will be edited, some new commands will be added, and some commands will likely stay the same.
+
+All commands in this category are configured to work together and this command category is planned to be built up over time.
