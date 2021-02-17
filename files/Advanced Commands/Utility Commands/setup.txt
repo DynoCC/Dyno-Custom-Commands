@@ -12,8 +12,6 @@
 {choose3:ol}
 {choose4:ag}
 {choose5:git}
-{choose6:rpg}
-{choose7:lot}
 {!add{choice$0+}e start}
 {!{choice$0+}e 155149108183695360 +start}
 {choice$0+$0+}
