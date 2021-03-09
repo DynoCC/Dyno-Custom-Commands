@@ -1,8 +1,0 @@
-{delete}
-{silent}
-{require:serverMod}
-{!cc $1 profile}
-{!cc $1 setinfo}
-<:dynoSuccess:314691591484866560> **| Set profile module to $1.**
-{!600826051014426625}
-{!123164162141156144}

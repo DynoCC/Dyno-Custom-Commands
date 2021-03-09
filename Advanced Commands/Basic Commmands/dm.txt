@@ -1,3 +1,0 @@
-{delete}
-{require:serverMod}
-{dm:$1}$2+

@@ -1,2 +1,0 @@
-{delete}
-$1.user.mention: **($1.user.status)** | $2+

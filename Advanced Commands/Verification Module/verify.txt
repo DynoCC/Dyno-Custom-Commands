@@ -1,4 +1,0 @@
-{silent}
-{require:serverMod}
-{!role $1.user.id -Newcomer}
-Successfully verified $1.user.username#$1.user.discriminator.

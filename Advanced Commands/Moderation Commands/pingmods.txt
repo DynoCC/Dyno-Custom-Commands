@@ -1,9 +1,0 @@
-{delete}
-{require:Trusted}
-{dm}
-{!mentionable Moderator}
-{!announce role Moderator {#mod-pings} {user.mention} ({user.username}) | $1+ | Command used in {channel}}
-{!mentionable Moderator}
-The moderators have been pinged!
-{!335405822106664961}
-{!123164162141156144}

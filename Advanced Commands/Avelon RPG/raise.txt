@@ -1,6 +1,0 @@
-{!role $1 -Blighted}
-{!role $1 -Festered}
-{!role $1 -Cursed}
-{!role $1 -Sacrificed}
-{dm:$1} Looks like someone is looking out for you in this forsaken world... 
-You have been raised from the dead.

@@ -1,8 +1,0 @@
-{delete}
-{silent}
-{require:serverMod}
-{!mute $1 2m Cooldown}
-{!purge $1.user.mention 5}
-$1.user.mention, please cool down for 2 minutes.
-{!600826051014426625}
-{!123164162141156144}

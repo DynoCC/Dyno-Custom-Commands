@@ -1,7 +1,0 @@
-{delete}
-{silent}
-{require:serverAdmin}
-{require:#lottery-tickets}
-{!role $1.user.id +Lottery Winner}
-{!purge 1000}
-🏆 $1.user.mention has won the Lottery! Talk to the moderators and claim your prize!

@@ -1,5 +1,0 @@
-{choose:announce {channel} Voice Channel not found! Please try again.}
-{choose2:announce {channel} **[Here](https://discordapp.com/channels/{server.id}/$1.channel.id)** is your screenshare link for the channel $1.channel.name! Make sure to join the voice channel before selecting this link.}
-{!{choice$1.channel.type}}
-{!600826051014426625}
-{!123164162141156144}

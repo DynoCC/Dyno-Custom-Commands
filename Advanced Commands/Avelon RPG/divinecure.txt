@@ -1,8 +1,0 @@
-{!role {&Adventurer} -Infected}
-{!role {&Adventurer} -Blighted}
-{!role {&Adventurer} -Festered}
-{!role {&Adventurer} -Bleeding}
-{!role {&Adventurer} -Cursed}
-{!role {&Adventurer} -Sacrificed}
-The Divine Council has spoken...
-A Divine blessing has been sent down on all Adventurers

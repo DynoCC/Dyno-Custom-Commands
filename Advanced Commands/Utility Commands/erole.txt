@@ -1,6 +1,0 @@
-{require:serverAdmin}
-{choose:e}
-{!delrol{choice$1.role.id}e $1+}
-{!addrol{choice$1.role.id} $1+}
-{!600826051014426625}
-{!123164162141156144}

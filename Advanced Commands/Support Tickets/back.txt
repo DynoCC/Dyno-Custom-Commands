@@ -1,5 +1,0 @@
-{delete}
-{silent}
-{respond:#support-requests}
-{!unlock #support-requests}
-:unlock: **Ticket Submissions have been reopened! You can submit your tickets now, using `{prefix}ticket [issue].`**

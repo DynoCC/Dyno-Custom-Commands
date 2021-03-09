@@ -1,6 +1,0 @@
-{delete}
-{silent}
-{require:Support}
-{require:#support-room}
-{!role all -Ticket}
-{!purge 1000}

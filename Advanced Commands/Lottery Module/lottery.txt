@@ -1,7 +1,0 @@
-{delete}
-{silent}
-{require:serverAdmin}
-{!cc $1 award}
-{!cc $1 draw}
-{!cc $1 numbers}
-<:GreenTick:276107463688847360> | Lottery commands have been **$1d**. 

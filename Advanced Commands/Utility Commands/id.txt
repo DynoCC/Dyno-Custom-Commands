@@ -1,5 +1,0 @@
-{choose:o}
-{choose1:u}
-{!anno{choice$1.user.id}unce {channel} This user ID is ``$1.user.id``}
-{!anno{choice$1.role.id}unce {channel} This role ID is ``$1.role.id``}
-{!ann{choice$1.role.id}{choice1$1.user.id}nce {channel} There is no user or role ID for ``$1``.}

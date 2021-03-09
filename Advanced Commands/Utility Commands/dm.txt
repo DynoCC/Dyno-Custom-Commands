@@ -1,8 +1,0 @@
-{choose:​}
-{dm:$1.user.id}$2+
-{require:serverMod}
-{!anno{choice$1.user.id}unce {channel} {user}, I've sent a DM to $1.user.mention saying the following.
->>> $2+}
-{!600826051014426625}
-{!335405822106664961}
-{!123164162141156144}

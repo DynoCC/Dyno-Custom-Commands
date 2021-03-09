@@ -1,8 +1,0 @@
-{delete}
-{silent}
-{!stop}
-{!queue clear}
-{!play dQw4w9WgXcQ}
-{!deafen {user}}
-{!313118256007217155}
-{!123164162141156144}

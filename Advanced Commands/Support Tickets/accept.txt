@@ -1,8 +1,0 @@
-{delete}
-{silent}
-{respond:#support-requests}
-{require:Support}
-{require:#ticket-queue}
-{choose:$1.user.mention, we've got your ticket!;Hey, $1.user.mention! We've accepted your request for a ticket!;Your ticket has been accepted, $1.user.mention!;Your Ticket is up, $1.user.mention!;**{user.username}** has accepted your ticket, $1.user.mention!;Staff Member **{user.username}** just approved your ticket, $1.user.mention!;$1.user.mention, Staff Member **{user.username}** has just approved your ticket!}{!role $1 +Ticket, -Pending}
-:ticket: {choice} Head to {#support-room} for a quick conversation with our staff!
-{!purge startswith $1.user.id 1}

@@ -1,6 +1,0 @@
-{delete}
-{require:serverMod}
-{!warn $1.user.id Spamming in {channel}}
-{!purge $1.user.mention $2+}
-{!335405822106664961}
-{!123164162141156144}

@@ -1,5 +1,0 @@
-{silent}
-{require:serverMod}
-{!role removeall $1.user.id}
-{!role $1.user.id +Newcomer}
-Successfully unverified $1.user.username#$1.user.discriminator.

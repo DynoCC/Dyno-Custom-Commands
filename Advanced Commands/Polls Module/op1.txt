@@ -1,7 +1,0 @@
-{delete}
-{silent}
-{not:I Voted for Option 1!}
-{not:I Voted for Option 2!}
-{!role {user} +I Voted for Option 1!}
-{!role {user} -I Voted for Option 2!}
-{dm}You voted for **Option 1** for the current poll in {#polls}!

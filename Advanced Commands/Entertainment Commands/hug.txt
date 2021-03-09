@@ -1,7 +1,0 @@
-{choose:https://tenor.com/view/anime-hug-manga-cuddle-japan-gif-10522729;https://tenor.com/view/hug-cuddle-comfort-love-friends-gif-5166500;https://tenor.com/view/elfenlied-kouta-nyu-lucy-hugging-gif-6238016;https://tenor.com/view/hug-cry-sad-anime-tackle-gif-5634582;https://tenor.com/view/seraph-love-hug-hugging-anime-gif-4900166;https://tenor.com/view/anime-run-hug-gif-9096291;https://tenor.com/view/anime-cute-sweet-hug-gif-12668677;https://tenor.com/view/cry-sad-hug-anime-gif-5634619;https://tenor.com/view/anime-friends-hug-hugging-moeta-kaoruko-gif-12307787;https://tenor.com/view/anime-hug-its-ok-gif-13041472;https://tenor.com/view/hug-anime-gif-7552075;https://tenor.com/view/love-hug-anime-affection-gif-5634630;https://tenor.com/view/abrazo-hug-anime-gif-10307432;https://tenor.com/view/hug-hugging-anime-gif-3532081;https://tenor.com/view/hug-gif-10426436}
-{choose1:a non-existant person}
-{user} hugged $1.user.mention{choice1$1.user.id}!
-{choice}
-{!335405822106664961}
-{!600826051014426625}
-{!123164162141156144}

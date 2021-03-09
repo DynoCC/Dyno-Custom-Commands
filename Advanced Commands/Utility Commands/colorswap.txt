@@ -1,6 +1,0 @@
-{silent}
-{!rolecolor $1 $2.role.color}
-{!rolecolor $2 $1.role.color}
-I just swapped the rolecolors of $1.role.name (#$2.role.color -> #$1.role.color) and $2.role.name (#$1.role.color -> #$2.role.color)
-{!600826051014426625}
-{!123164162141156144}
