@@ -5,10 +5,10 @@
 Please re run the command with a number to begin.
 
 >>> **DynoCC Setup**
-:white__small_square: **Avelon RPG Module - Channel [Setup]** - ``1```
-:white__small_square: **Avelon RPG Module - Roles [Setup]** - ``2```
-:white__small_square: **Avelon RPG Module - Channel [Removal]** - ``3``
-:white__small_square: **Avelon RPG Module - Roles [Removal]** - ``4``
+:white__small_square: **Avelon RPG - Channel [Setup]** - ``1```
+:white__small_square: **Avelon RPG - Roles [Setup]** - ``2```
+:white__small_square: **Avelon RPG - Channel [Removal]** - ``3``
+:white__small_square: **Avelon RPG - Roles [Removal]** - ``4``
 :white__small_square: **Github** - ``7```
 }
 {choose1:han}
