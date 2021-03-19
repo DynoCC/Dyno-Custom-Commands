@@ -3,5 +3,3 @@
 {!ta$1+g pr-setinfo}
 {!tag pr-$1.user.id}
 {!tag pr-$1.user.id-info}
-{!600826051014426625}
-{!123164162141156144}
