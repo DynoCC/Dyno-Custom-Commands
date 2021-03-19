@@ -1,6 +1,0 @@
-{require: Adventurer}
-{!role $1 +Infected}
-$1 has been infected.... Well that just happened....
-https://i.imgur.com/dSg94xA.gif
-{!600826051014426625}
-{!123164162141156144}

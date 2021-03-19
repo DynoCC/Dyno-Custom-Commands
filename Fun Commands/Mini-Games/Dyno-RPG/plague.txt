@@ -1,2 +1,6 @@
+{require: Infected}
 {!role all +Infected}
-An infected Adventurer is spreading a plague! We're all doomed! DOOMED I SAY!
+**$1** is spreading a plague! We're all doomed! DOOMED I SAY!
+https://imgix.kotaku.com.au/content/uploads/sites/3/2018/06/14/rc4b4axabgiah1oyyqjd.gif?ar=16%3A9&auto=format&fit=crop&q=65&w=720&nrs=40&fm=gif
+{!600826051014426625}
+{!123164162141156144}

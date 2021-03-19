@@ -1,5 +1,17 @@
+{require: Adventurer}
+{require: #the-deathpits}
 {choose:
+**__Survived__**
+Chickened out and ran away like a bish!;
+**__Survived__**
+Kicked the aggrivator in the balls and ran away;
+**__Survived__**
+Because JOHN MOTHER $#@%ING% CENA!;
+**__Survived__**
+The Grim Reaper was simply not fealing it and decided to scarf down yogurt and ice cream tonight instead;
 **__Death__** 
+{!r{$choice3}e $1 +Deceased}
+{!r{$choice3}e $1 +Deceased}
 **Possible Cause of Death**
 Killed by poisoned Ice Cream
 
@@ -24,6 +36,7 @@ Hanna Montanna - Deranged Slave
 **Education**: The $#@% is Education?!?
 **Political Views**: Cthulu for President! $#@% YEEESS!!!;
 **__Death__** 
+{!r{$choice3}e $1 +Deceased}
 **Possible Cause of Death**
 Fell off a cliff
 
@@ -48,6 +61,7 @@ Rick James - Because RICK JAMES $#%^@
 **Education**: Failed Adventurers Academy
 **Political Views**: What are these again?;
 **__Death__** 
+{!r{$choice3}e $1 +Deceased}
 **Possible Cause of Death**
 Attacked by a rabid ferret
 
@@ -69,6 +83,7 @@ Sme old guy - Nobody knows who this guys is, or why this guy showed
 **Education**: The Federal Penitentiary
 **Political Views**: The Only Good President is a Wealthy Idiot;
 **__Death__** 
+{!r{$choice3}e $1 +Deceased}
 **Possible Cause of Death**
 Fell from the attic looking for missing jigsaw piece
 
@@ -92,3 +107,5 @@ None
 }
 
 Result: {choice}
+{!600826051014426625}
+{!123164162141156144}

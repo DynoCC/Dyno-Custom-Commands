@@ -1,4 +1,11 @@
+{require: Adventurer}
 {!role $1 -Infected}
 {!role $1 -Bleeding}
 {dm:$1} Looks like someone is looking out for you in this forsaken world... 
-You have been cured of all ailments. 
+You have been cured of all ailments.
+https://media1.tenor.com/images/b92c9b3d1808a5abc588435aae052eb8/tenor.gif?itemid=11061677
+{!announce:#the-world-gates}
+**{user.username}** has treated **$1**.
+https://media1.tenor.com/images/b92c9b3d1808a5abc588435aae052eb8/tenor.gif?itemid=11061677
+{!600826051014426625}
+{!123164162141156144}

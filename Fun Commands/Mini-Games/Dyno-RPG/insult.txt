@@ -1,3 +1,5 @@
+{require: Adventurer}
+{require: #the-deathpits}
 {choose:
 is a piteously myopic half-wit and a horribly atrocious halitosis-infested offensively uninspired malodorous half-wit;
 is a sickly pedestrian wretch and a putrid foul-smelling malfunctioning little twerp;
@@ -23,3 +25,5 @@ is an abominably appalling sycophant and a dastardly dull-witted malodorous mari
 is an unconscionably grotesque polisson and a revolting odiously suffocating obfuscation of all that is good;
 is a devilishly minuscule varmint and a frightful chronically flatulent spawn of a mad scientist and a disastrous test tube experiment}
 **$1** {choice}.
+{!600826051014426625}
+{!123164162141156144}

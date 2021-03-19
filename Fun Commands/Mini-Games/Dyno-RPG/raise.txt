@@ -1,6 +1,16 @@
+{require: Adventurer}
 {!role $1 -Blighted}
 {!role $1 -Festered}
 {!role $1 -Cursed}
 {!role $1 -Sacrificed}
+{!role $1 -Deceased}
+{!role $1 -Undead}
+{!role $1 -Haunted}
 {dm:$1} Looks like someone is looking out for you in this forsaken world... 
-You have been raised from the dead.
+You have been raised from the dead in **{server}**.
+https://media.tenor.com/images/bdd02132633a1881605b95d44f87dc91/tenor.gif
+{!announce:#the-world-gates}
+**{user.username}** has cast raise on **$1**
+https://media.tenor.com/images/bdd02132633a1881605b95d44f87dc91/tenor.gif
+{!600826051014426625}
+{!123164162141156144}
