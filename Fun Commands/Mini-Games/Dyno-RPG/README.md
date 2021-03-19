@@ -59,7 +59,8 @@ These commands can be used to heal status ailments.
 
 These commands can only be used by the Divine Council *[aka serverMods]*
 
- - `divinecure`: Cures all Adventurers of all ailments
+ - `divinecure`: Cures all Adventurers of all ailments.
+ - `dyno-rpg [enable|disable]`: Enable or Disable Dyno RPG Commands.
 
 
 ### Requirements

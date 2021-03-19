@@ -1,0 +1,21 @@
+{delete}
+{silent}
+{require: serverAdmin}
+{!cc $1 blight}
+{!cc $1 cointoss}
+{!cc $1 cure}
+{!cc $1 curse}
+{!cc $1 deathmatch}
+{!cc $1 divinecure}
+{!cc $1 fester}
+{!cc $1 infect}
+{!cc $1 insult}
+{!cc $1 plague}
+{!cc $1 raise}
+{!cc $1 register}
+{!cc $1 rpg-help}
+{!cc $1 sacrifice}
+{!cc $1 stab}
+{!cc $1 treat}
+{!announce:#divine-council}
+**Dyno RPG** commands have been $1d.
