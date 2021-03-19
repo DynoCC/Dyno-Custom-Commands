@@ -2,7 +2,7 @@
 {silent}
 {require:#reports}
 {!announce:#report-log}
-{&Moderator} A report has been received!
+A report has been received!
 
 **__Report Details__**
 
