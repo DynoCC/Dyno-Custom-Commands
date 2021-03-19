@@ -20,7 +20,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 - The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are to be considered dead and are only able to continue chatting in here until they have been raised. This channel should be hidden by default to all except the `Deceased` and the `divine-council`.
 ## Avelon Commands
 
-A Full list of available commands for use with **Avelon RPG**
+A Full list of available commands for use with **Dyno RPG**
 
 **Registration Commands**
 
