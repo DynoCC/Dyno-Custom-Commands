@@ -1,5 +1,5 @@
-{!ta$1+g pr-{user.id}}
-{!ta$1+g pr-{user.id}-info}
-{!ta$1+g pr-setinfo}
+{!tag pr-{user.id}}
+{!tag pr-{user.id}-info}
+{!tag pr-setinfo}
 {!tag pr-$1.user.id}
 {!tag pr-$1.user.id-info}
