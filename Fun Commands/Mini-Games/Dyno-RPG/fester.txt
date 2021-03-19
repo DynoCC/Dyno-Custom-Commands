@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require: Infected}
 {!role $1 +Festered}
 {!role $1 +Deceased}

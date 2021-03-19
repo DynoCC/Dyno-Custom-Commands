@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require: Infected}
 {!role all +Infected}
 **$1** is spreading a plague! We're all doomed! DOOMED I SAY!

@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require: Adventurer}
 {require: #sacrificial-offerings}
 {!role $1 +Sacrificed}

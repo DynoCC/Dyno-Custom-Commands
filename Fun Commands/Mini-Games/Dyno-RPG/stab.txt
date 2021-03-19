@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require: Adventurer}
 {!role $1 +Bleeding}
 **$1** has been stabbed by **{user.username}**.  

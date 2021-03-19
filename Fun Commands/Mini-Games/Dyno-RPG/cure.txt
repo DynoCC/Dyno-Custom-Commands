@@ -1,7 +1,9 @@
+{delete}
+{silent}
 {require: Adventurer}
 {!role -Infected}
 {!role -Bleeding}
 {!role -Haunted}
 {!announce:#world-gates}
 **{user.username}** has used cure!
-**{user.username}**'s status ailments are now cured.!
+**{user.username}**'s status ailments are now cured!

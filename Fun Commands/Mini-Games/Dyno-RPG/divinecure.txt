@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require: serverMod}
 {require: #divine-council}
 {!role {&Adventurer} -Infected}

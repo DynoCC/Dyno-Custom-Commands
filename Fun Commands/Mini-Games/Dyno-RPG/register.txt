@@ -1,5 +1,7 @@
+{delete}
+{silent}
 {!role {user} +Adventurer}
-{!announce:#the-world-gates}
+{!announce:#world-gates}
 Welcome to the world of Avelon, {user.username}! 
 
 This is a cruel world that the gods have long since forsaken. Darkness and torment lies around every corner, and I cannot guarantee that you will maintain your sanity. But rest assured, the Divine Council will watch over you. 

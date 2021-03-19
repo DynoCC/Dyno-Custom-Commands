@@ -1,3 +1,5 @@
+{delete}
+{silent}
 {require: Adventurer}
 {require: #the-deathpits}
 {choose:coin toss;insults}
