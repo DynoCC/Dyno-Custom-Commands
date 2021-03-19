@@ -35,6 +35,14 @@ These commands can be used to attack other players, but be warned some come with
  - `fester`: Cast Fester on another Adventurer. Can only be used by Infected Adventurers.
  - `plague`: Cast a plague infecting all Adventurers. Can only be used by infected Adventurers.
 
+**Deathmatch Commands**
+
+These commands are uses only in `the-deathpits`
+
+ - `deathmatch`: challenge an Adventurer to a random deathmatch.
+ - `cointoss`: One of the available tpyes of deathmatches. When this is chosen using this command will respond with a random **__Survival__** or **__Death__**. **Usage**: `cointoss`
+ - `insult`: One of the available tpyes of deathmatches. When this is chosen, using this will generate a random outrageous insult. **Usage**: `insult [@user]`
+
 
 **Medica Commands**
 
@@ -77,7 +85,7 @@ As well as the following channels:
 - `sacrificial-offerings`
 - `divine-council`
 
-
+All roles and channels can be automatically created with the `rpg-setup` command.
 
 ### Notes
 
