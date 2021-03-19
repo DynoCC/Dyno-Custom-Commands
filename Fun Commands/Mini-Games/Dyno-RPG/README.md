@@ -10,7 +10,7 @@ Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and i
 ## How to
 A simple guide for setting up roles and channels for the commands to work as intended
 
- - Run the `setup` command in your guild. Make sure you have the required permissions. This command will automatically create all required channels, and roles.
+ - Run the `rpg-setup` command in your guild. Make sure you have the required permissions. This command will automatically create all required channels, and roles.
  - Make any channel specific changes yourself. You can customize the permissions of each role according to your own preferences from within discord.
 
 
