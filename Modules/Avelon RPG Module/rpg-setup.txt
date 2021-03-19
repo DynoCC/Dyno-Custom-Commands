@@ -1,0 +1,57 @@
+{delete}
+{silent}
+{require:serverAdmin}
+{choose0:Welcome to the DynoCC Interactive Setup!
+Please re run the command with a number to begin.
+
+>>> **DynoCC Setup**
+:white__small_square: **Avelon RPG Module - Channel [Setup]** - ``1```
+:white__small_square: **Avelon RPG Module - Roles [Setup]** - ``2```
+:white__small_square: **Avelon RPG Module - Channel [Removal]** - ``3``
+:white__small_square: **Avelon RPG Module - Roles [Removal]** - ``4``
+:white__small_square: **Github** - ``7```
+}
+{choose1:han}
+{choose2:ol}
+{choose3:ann}
+{choose4:le}
+{!c{$choice1}nel  create world-gates}
+{!c{$choice1}nel create the-crossroads}
+{!c{$choice1}nel create the-crypt}
+{!c{$choice1}nel create the-bloodfields}
+{!c{$choice1}nel create the-deathpit}
+{!c{$choice1}nel create castle-grounds}
+{!c{$choice1}nel create castle-courtyard}
+{!c{$choice1}nel create sacrificial-offerings}
+{!c{$choice1}nel create divine-council}
+{!r{$choice2}e create Adventurer}
+{!r{$choice2}e create Infected}
+{!r{$choice2}e create Cursed}
+{!r{$choice2}e create Blighted}
+{!r{$choice2}e create Haunted}
+{!r{$choice2}e create Undead}
+{!r{$choice2}e create Bleeding}
+{!r{$choice2}e create Sacrificed}
+{!r{$choice2}e create Festered}
+{!r{$choice2}e create Deceased}
+{!ch{$choice3}el delete world-gates}
+{!ch{$choice3}el delete the-crossroads}
+{!ch{$choice3}el delete the-crypt}
+{!ch{$choice3}el delete the-bloodfields}
+{!ch{$choice3}el delete the-deathpit}
+{!ch{$choice3}el delete castle-grounds}
+{!ch{$choice3}el delete castle-courtyard}
+{!ch{$choice3}el delete sacrificial-offerings}
+{!ch{$choice3}el delete divine-council}
+{!ro{$choice4} delete Adventurer}
+{!ro{$choice4} delete Infected}
+{!ro{$choice4} delete Cursed}
+{!ro{$choice4} delete Blighted}
+{!ro{$choice4} delete Haunted}
+{!ro{$choice4} delete Undead}
+{!ro{$choice4} delete Bleeding}
+{!ro{$choice4} delete Sacrificed}
+{!ro{$choice4} delete Festered}
+{!ro{$choice4} delete Deceased}
+{!400814031014414413}
+{!112144141141134144}

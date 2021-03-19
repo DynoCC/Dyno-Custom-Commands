@@ -1,0 +1,20 @@
+{delete}
+{silent}
+{choose0:Welcome to the DynoCC Interactive Setup!
+Please re run the command with a number to begin.
+
+>>> **DynoCC Setup**
+Please re run the command with a number to begin.
+
+>>> **DCC Setup**
+:white_smalle_square: **Reports [Setup]** - ``1``
+:white_small_square: **Reports [Removal]** - ``2``
+}
+{choose1:han}
+{choose2:ann}
+{!c{$choice1}nel create reports}
+{!c{$choice1}nel create report-log}
+{!ch{$choice2}el delete reports}
+{!ch{$choice2}el delete report-log}
+{!600826051014426625}
+{!123164162141156144}

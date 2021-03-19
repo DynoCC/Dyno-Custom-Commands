@@ -1,0 +1,16 @@
+{delete}
+{silent}
+{require:#reports}
+{!announce:#report-log}
+{&Moderator} A report has been received!
+
+**__Report Details__**
+
+:white__small_square: **TIME:** {date}, {time12}
+:white__small_square: **CHANNEL:** {channel}  
+:white__small_square: **REPORTER:** {user} 
+:white__small_square: **REPORTED:** $1 
+:white__small_square: **SCREENSHOT:** $2 
+:white__small_square: **REASON:** $3+
+{!600826051014426625}
+{!123164162141156144}

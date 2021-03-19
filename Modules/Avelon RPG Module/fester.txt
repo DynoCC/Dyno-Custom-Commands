@@ -1,0 +1,16 @@
+{require: Infected}
+{!role $1 +Festered}
+{!role $1 +Deceased}
+**$1** has been inflicted with Fester
+
+**$1** begins to fester. 
+
+
+**$1**'s skin starts to fall of, piece by rotting piece. The putrid smell of rotted festering flesh fills the air as **$1** screams in agony.
+
+**$1**'s screams can be heard for miles as **$1**'s flesh continues to fall off **$1**'s bones.
+
+Six gruesome hours later, **$1**'s screams finally stop. All that's left are putrid acidic bones that even the crows won't touch.
+https://pa1.narvii.com/6857/d71a2c28486154bc0f957f2f4276881b59680588_hq.gif
+{!600826051014426625}
+{!123164162141156144}

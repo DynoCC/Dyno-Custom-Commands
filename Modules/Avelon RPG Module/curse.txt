@@ -1,0 +1,16 @@
+{require: Adventurer}
+{!role $1 +Cursed}
+{!role $1 +Deceased}
+**$1** has been cursed...
+
+**$1** attempts to move, but quickly realizes the futility.... 
+
+**$1** attempts to speak, but nothing comes out. 
+
+**$1** starts to panic, hoping, wishing, *praying* for some form of miracle.
+
+But nothing can stop this horror...
+
+**$1** is now dead,  cursed to spend eternity in this spot as a silent ghost, watching as the rest of the world live as happy, peaceful lives, while **$1**... is forever trapped.
+{!600826051014426625}
+{!123164162141156144}
