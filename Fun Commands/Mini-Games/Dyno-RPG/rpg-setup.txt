@@ -9,47 +9,46 @@ Please re run the command with a number to begin.
 :white__small_square: **Avelon RPG - Roles [Setup]** - ``2```
 :white__small_square: **Avelon RPG - Channels [Removal]** - ``3``
 :white__small_square: **Avelon RPG - Roles [Removal]** - ``4``
-:white__small_square: **Github** - ``7```
 }
-{choose1:han}
-{choose2:ol}
-{choose3:ann}
-{choose4:le}
-{!c{$choice1}nel create world-gates}
-{!c{$choice1}nel create the-crossroads}
-{!c{$choice1}nel create the-crypt}
-{!c{$choice1}nel create the-bloodfields}
-{!c{$choice1}nel create the-deathpit}
-{!c{$choice1}nel create castle-grounds}
-{!c{$choice1}nel create castle-courtyard}
-{!c{$choice1}nel create sacrificial-offerings}
-{!c{$choice1}nel create divine-council}
-{!r{$choice2}e create Adventurer}
-{!r{$choice2}e create Infected}
-{!r{$choice2}e create Cursed}
-{!r{$choice2}e create Blighted}
-{!r{$choice2}e create Haunted}
-{!r{$choice2}e create Undead}
-{!r{$choice2}e create Bleeding}
-{!r{$choice2}e create Sacrificed}
-{!r{$choice2}e create Festered}
-{!r{$choice2}e create Deceased}
-{!ch{$choice3}el delete world-gates}
-{!ch{$choice3}el delete the-crossroads}
-{!ch{$choice3}el delete the-crypt}
-{!ch{$choice3}el delete the-bloodfields}
-{!ch{$choice3}el delete the-deathpit}
-{!ch{$choice3}el delete castle-grounds}
-{!ch{$choice3}el delete castle-courtyard}
-{!ch{$choice3}el delete sacrificial-offerings}
-{!ch{$choice3}el delete divine-council}
-{!ro{$choice4} delete Adventurer}
-{!ro{$choice4} delete Infected}
-{!ro{$choice4} delete Cursed}
-{!ro{$choice4} delete Blighted}
-{!ro{$choice4} delete Haunted}
-{!ro{$choice4} delete Undead}
-{!ro{$choice4} delete Bleeding}
-{!ro{$choice4} delete Sacrificed}
-{!ro{$choice4} delete Festered}
-{!ro{$choice4} delete Deceased}
+{choose1:channel create}
+{choose2:role create}
+{choose3:channel delete}
+{choose4:role delete}
+{!{$choice1} world-gates}
+{!{$choice1} the-crossroads}
+{!{$choice1} the-crypt}
+{!{$choice1} the-bloodfields}
+{!{$choice1} the-deathpit}
+{!{$choice1} castle-grounds}
+{!{$choice1} castle-courtyard}
+{!{$choice1} sacrificial-offerings}
+{!{$choice1} divine-council}
+{!{$choice2} Adventurer}
+{!{$choice2} Infected}
+{!{$choice2} Cursed}
+{!{$choice2} Blighted}
+{!{$choice2} Haunted}
+{!{$choice2} Undead}
+{!{$choice2} Bleeding}
+{!{$choice2} Sacrificed}
+{!{$choice2} Festered}
+{!{$choice2} Deceased}
+{!{$choice3} world-gates}
+{!{$choice3} the-crossroads}
+{!{$choice3} the-crypt}
+{!{$choice3} the-bloodfields}
+{!{$choice3} the-deathpit}
+{!{$choice3} castle-grounds}
+{!{$choice3} castle-courtyard}
+{!{$choice3} sacrificial-offerings}
+{!{$choice3} divine-council}
+{!{$choice4} Adventurer}
+{!{$choice4} Infected}
+{!{$choice4} Cursed}
+{!{$choice4} Blighted}
+{!{$choice4} Haunted}
+{!{$choice4} Undead}
+{!{$choice4} Bleeding}
+{!{$choice4} Sacrificed}
+{!{$choice4} Festered}
+{!{$choice4} Deceased}
