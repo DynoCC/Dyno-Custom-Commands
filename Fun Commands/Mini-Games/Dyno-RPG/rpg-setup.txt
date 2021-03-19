@@ -3,11 +3,11 @@
 {require:serverAdmin}
 {choose0:
 Welcome to the Avelon RPG Interactive Setup!
-Please re run the command with a number to begin.
+Please use the following command(s) to continue.
 
 >>> **Avelon RPG Setup**
-:white_small_square: **Avelon RPG - [Setup]** - `create`
-:white_small_square: **Avelon RPG - [Removal]** - `delete`
+:white_small_square: **Avelon RPG - [Setup]** - `rpg-setup create`
+:white_small_square: **Avelon RPG - [Removal]** - `rpg-setup delete`
 }
 {choose1:create}
 {choose2:delete}
