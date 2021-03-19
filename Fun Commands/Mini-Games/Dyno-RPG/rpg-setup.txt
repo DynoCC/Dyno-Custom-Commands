@@ -1,4 +1,4 @@
-{{$choice2}}
+{delete}
 {silent}
 {require:serverAdmin}
 {choose0:
