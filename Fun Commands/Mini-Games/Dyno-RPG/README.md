@@ -86,6 +86,7 @@ As well as the following channels:
 - `divine-council`
 
 All roles and channels can be automatically created with the `rpg-setup` command.
+Once you have them setup you can enable or disbale the commands with `rpg [enable|disbale]`
 
 ### Notes
 
