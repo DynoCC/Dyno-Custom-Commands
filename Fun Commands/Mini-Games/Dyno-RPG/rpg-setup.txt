@@ -5,9 +5,9 @@
 Please re run the command with a number to begin.
 
 >>> **Avelon RPG Setup**
-:white__small_square: **Avelon RPG - Channel [Setup]** - ``1```
+:white__small_square: **Avelon RPG - Channels [Setup]** - ``1```
 :white__small_square: **Avelon RPG - Roles [Setup]** - ``2```
-:white__small_square: **Avelon RPG - Channel [Removal]** - ``3``
+:white__small_square: **Avelon RPG - Channels [Removal]** - ``3``
 :white__small_square: **Avelon RPG - Roles [Removal]** - ``4``
 :white__small_square: **Github** - ``7```
 }
