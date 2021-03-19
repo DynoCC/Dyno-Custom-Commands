@@ -1,12 +1,9 @@
 {delete}
 {silent}
-{choose0:Welcome to the DynoCC Interactive Setup!
+{choose0:Welcome to the Reports Interactive Setup!
 Please re run the command with a number to begin.
 
->>> **DynoCC Setup**
-Please re run the command with a number to begin.
-
->>> **DCC Setup**
+>>> **Reports Setup**
 :white_small_square: **Reports [Setup]** - ``1``
 :white_small_square: **Reports [Removal]** - ``2``
 }

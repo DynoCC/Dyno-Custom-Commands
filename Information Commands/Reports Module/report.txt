@@ -12,5 +12,3 @@
 :white__small_square: **REPORTED:** $1 
 :white__small_square: **SCREENSHOT:** $2 
 :white__small_square: **REASON:** $3+
-{!600826051014426625}
-{!123164162141156144}
