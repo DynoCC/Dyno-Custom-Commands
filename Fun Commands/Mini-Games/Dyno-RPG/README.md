@@ -10,12 +10,14 @@ Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and i
 ## How to
 A simple guide for setting up roles and channels for the commands to work as intended
 
- - Type `rpg-setup create create enable` command in your guild to set up Avelon RPG. Make sure you have the required permissions. This command will automatically create all required channels, and roles and enable all commands *[requires all commands to be in your Dyno Custom Commands]*.
- - Make any channel specific changes yourself. You can customize the permissions of each role according to your own preferences from within discord.
- - To delete the roles and channels type `rpg-setup delete delete disable`. This will deleter all roles and channels, then it will disbale the commands.
 
+- The `divine-council` channel should be only be useable by serverMods as it is the channel required for using the Divine Council commands.
 
+- When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it. 
 
+- The `Adventurer` role is the base role for playing Dyno RPG.
+
+- The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are able to continue chatting in **ONLY** here until they have been raised. This channel should be hidden by default to all except the `Deceased` and the `divine-council`.
 ## Avelon Commands
 A Full list of available commands for use with **Avelon RPG**
 
@@ -86,16 +88,4 @@ As well as the following channels:
 - `sacrificial-offerings`
 - `divine-council`
 
-All roles and channels can be automatically created with the `rpg-setup` command.
-Once you have them setup you can enable or disbale the commands with `rpg [enable|disbale]`
-
-### Notes
-
-- It is suggested that the `divine-council` channel be both visible **AND** useable **ONLY** by serverMods as it is the channel required for using the Divine Council commands.
-
-- When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it.
-
-- The `Adventurer` role is the base role for playing Dyno RPG.
-
-- The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are able to continue chatting in here until they have been raised. This channel should be hidden by default to all except the `Deceased` and the `divine-council`.
 
