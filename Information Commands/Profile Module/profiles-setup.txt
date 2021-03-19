@@ -8,17 +8,17 @@ Please re run the command with a number to begin.
 :white__small_square: **Profile [Setup]** - ``1``
 :white__small_square: **Profile [Removal]** - ``2``
 }
-{choose1:tag create}
-{choose2:tag delete}
-{!{$choice1} pr-setinfo *You can set your profile information with `setinfo [information]`.*}
-{!{$choice1} pr- **Error:**}
-{!{$choice1} pr--info **User not found.**}
-{!{$choice1} pr-setinfo}
-{!{$choice1} pr-}
-{!{$choice1} pr--info}
-{!{$choice2} pr-setinfo *You can set your profile information with `setinfo [information]`.*}
-{!{$choice2} pr- **Error:**}
-{!{$choice2} pr--info **User not found.**}
-{!{$choice2} pr-setinfo}
-{!{$choice2} pr-}
-{!{$choice2} pr--info}
+{choose1:tag}
+{choose2:ag }
+{!{$choice1} create pr-setinfo *You can set your profile information with `setinfo [information]`.*}
+{!{$choice1} create pr- **Error:**}
+{!{$choice1} create pr--info **User not found.**}
+{!{$choice1} create pr-setinfo}
+{!{$choice1} create pr-}
+{!{$choice1} create pr--info}
+{!t{$choice2} delete delete pr-setinfo *You can set your profile information with `setinfo [information]`.*}
+{!t{$choice2} delete pr- **Error:**}
+{!t{$choice2} delete pr--info **User not found.**}
+{!t{$choice2} delete pr-setinfo}
+{!t{$choice2} delete pr-}
+{!t{$choice2} delete pr--info}
