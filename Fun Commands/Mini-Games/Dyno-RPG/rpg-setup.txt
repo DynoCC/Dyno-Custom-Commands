@@ -1,51 +1,39 @@
 {delete}
 {silent}
 {require:serverAdmin}
-{choose0:
-Welcome to the Avelon RPG Interactive Setup!
-Please use the following command(s) to continue.
-
->>> **Avelon RPG Setup**
-:white_small_square: **Avelon RPG - [Setup]** - `rpg-setup create`
-:white_small_square: **Avelon RPG - [Removal]** - `rpg-setup delete`
-}
-{choose1:create}
-{choose2:delete}
-{!channel {$choice1} world-gates}
-{!channel {$choice1} the-crossroads}
-{!channel {$choice1} the-crypt}
-{!channel {$choice1} the-bloodfields}
-{!channel {$choice1} the-deathpit}
-{!channel {$choice1} castle-grounds}
-{!channel {$choice1} castle-courtyard}
-{!channel {$choice1} sacrificial-offerings}
-{!channel {$choice1} divine-council}
-{!role {$choice1} Adventurer}
-{!role {$choice1} Infected}
-{!role {$choice1} Cursed}
-{!role {$choice1} Blighted}
-{!role {$choice1} Haunted}
-{!role {$choice1} Undead}
-{!role {$choice1} Bleeding}
-{!role {$choice1} Sacrificed}
-{!role {$choice1} Festered}
-{!role {$choice1} Deceased}
-{!channel {$choice2} world-gates}
-{!channel {$choice2} the-crossroads}
-{!channel {$choice2} the-crypt}
-{!channel {$choice2} the-bloodfields}
-{!channel {$choice2} the-deathpit}
-{!channel {$choice2} castle-grounds}
-{!channel {$choice2} castle-courtyard}
-{!channel {$choice2} sacrificial-offerings}
-{!channel {$choice2} divine-council}
-{!role {$choice2} Adventurer}
-{!role {$choice2} Infected}
-{!role {$choice2} Cursed}
-{!role {$choice2} Blighted}
-{!role {$choice2} Haunted}
-{!role {$choice2} Undead}
-{!role {$choice2} Bleeding}
-{!role {$choice2} Sacrificed}
-{!role {$choice2} Festered}
-{!role {$choice2} Deceased}
+{!channel $1 world-gates}
+{!channel $1 the-crossroads}
+{!channel $1 the-crypt}
+{!channel $1 the-bloodfields}
+{!channel $1 the-deathpit}
+{!channel $1 castle-grounds}
+{!channel $1 castle-courtyard}
+{!channel $1 sacrificial-offerings}
+{!channel $1 divine-council}
+{!role $2 Adventurer}
+{!role $2 Infected}
+{!role $2 Cursed}
+{!role $2 Blighted}
+{!role $2 Haunted}
+{!role $2 Undead}
+{!role $2 Bleeding}
+{!role $2 Sacrificed}
+{!role $2 Festered}
+{!role $2 Deceased}
+{!cc $3 blight}
+{!cc $3 infect}
+{!cc $3 plague}
+{!cc $3 curse}
+{!cc $3 fester}
+{!cc $3 deathmatch}
+{!cc $3 cointoss}
+{!cc $3 insult}
+{!cc $3 cure}
+{!cc $3 treat}
+{!cc $3 divinecure}
+{!cc $3 raise}
+{!cc $3 sacrifice}
+{!cc $3 stab}
+**Avelon RPG** Roles have been $1d.
+**Avelon RPG** Channels have been $1d.
+**Avelon RPG** commands have been {$3}d.
