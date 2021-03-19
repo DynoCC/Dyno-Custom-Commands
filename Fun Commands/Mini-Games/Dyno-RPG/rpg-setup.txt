@@ -1,10 +1,10 @@
 {delete}
 {silent}
 {require:serverAdmin}
-{choose0:Welcome to the DynoCC Interactive Setup!
+{choose0:Welcome to the Avelon RPG Interactive Setup!
 Please re run the command with a number to begin.
 
->>> **DynoCC Setup**
+>>> **Avelon RPG Setup**
 :white__small_square: **Avelon RPG - Channel [Setup]** - ``1```
 :white__small_square: **Avelon RPG - Roles [Setup]** - ``2```
 :white__small_square: **Avelon RPG - Channel [Removal]** - ``3``
