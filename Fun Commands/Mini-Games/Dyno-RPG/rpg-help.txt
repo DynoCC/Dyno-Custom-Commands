@@ -41,5 +41,3 @@ These commands can only be used by the Divine Council *[aka serverMods]*.
 ```ml
  - divinecure: Cures all Adventurers of all ailments
 ```
-{!600826051014426625}
-{!123164162141156144}

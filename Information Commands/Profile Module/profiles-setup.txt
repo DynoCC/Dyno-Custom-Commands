@@ -10,8 +10,8 @@ Please re run the command with a number to begin.
 }
 {choose1:ta}
 {choose2:ag}
-{!{choice$1}gg create pr-setinfo *You can set your profile information with `setinfo [information]`.*}
-{!{choice$1}gg create pr- **Error:**}
+{!{choice$1}g create pr-setinfo *You can set your profile information with `setinfo [information]`.*}
+{!{choice$1}g create pr- **Error:**}
 {!{choice$1}g create pr--info **User not found.**}
 {!{choice$1}g create pr-setinfo}
 {!{choice$1}g create pr-}
@@ -22,5 +22,3 @@ Please re run the command with a number to begin.
 {!t{choice$2} delete pr-setinfo}
 {!t{choice$2} delete pr-}
 {!t{choice$2} delete pr--info}
-{!600826051014426625}
-{!123164162141156144}

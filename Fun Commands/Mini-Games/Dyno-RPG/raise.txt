@@ -12,5 +12,3 @@ https://media.tenor.com/images/bdd02132633a1881605b95d44f87dc91/tenor.gif
 {!announce:#the-world-gates}
 **{user.username}** has cast raise on **$1**
 https://media.tenor.com/images/bdd02132633a1881605b95d44f87dc91/tenor.gif
-{!600826051014426625}
-{!123164162141156144}

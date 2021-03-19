@@ -12,6 +12,4 @@
 {!announce:#world-gates} 
 The Divine Council has spoken...
 A Divine blessing has been sent down on all Adventurers!
-{!600826051014426625}
-{!123164162141156144}
 

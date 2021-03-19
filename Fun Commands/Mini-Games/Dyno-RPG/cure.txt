@@ -5,5 +5,3 @@
 {!announce:#world-gates}
 **{user.username}** has used cure!
 **{user.username}**'s status ailments are now cured.!
-{!600826051014426625}
-{!123164162141156144}

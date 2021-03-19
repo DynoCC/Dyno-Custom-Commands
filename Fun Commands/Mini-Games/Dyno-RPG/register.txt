@@ -8,5 +8,3 @@ Now, head forth with caution young Adventurer, and claim your place in this fors
 
 Type `?rpg-help` to see a list of available commands.
 http://37.media.tumblr.com/f905ddeaa5d2ae2d7a61b9c0ff978c50/tumblr_n5wjnuMD5j1s1o3y3o1_500.gif
-{!600826051014426625}
-{!123164162141156144}

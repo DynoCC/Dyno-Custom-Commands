@@ -14,5 +14,3 @@ A massive swarm of flesh eating locusts is heading in fast, and there's nowhere 
 In retrospect, this was not **{user.username}**'s wisest choice...
 
 **$1** and **{user.username}** both scream in agony as the locusts swarm in, devouring their flesh and picking their bones clean.
-{!600826051014426625}
-{!123164162141156144}

@@ -53,5 +53,3 @@ Please re run the command with a number to begin.
 {!ro{$choice4} delete Sacrificed}
 {!ro{$choice4} delete Festered}
 {!ro{$choice4} delete Deceased}
-{!400814031014414413}
-{!112144141141134144}

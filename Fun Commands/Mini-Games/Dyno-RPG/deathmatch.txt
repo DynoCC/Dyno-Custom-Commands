@@ -2,5 +2,3 @@
 {require: #the-deathpits}
 {choose:coin toss;insults}
 **{user.username}** has challenged **$1** to a deathmatch! The trial will be {choice}!
-{!600826051014426625}
-{!123164162141156144}
