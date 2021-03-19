@@ -1,5 +1,10 @@
-# Avelon RPG
-**Avelon RPG** is a RPG Game made using Dyno CC and inspirted by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
+---
+title: Dyno RPG
+permalink: /FunCommands/MiniGames/DynoRPG/
+---
+
+# Dyno RPG
+Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and inspired by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
 
 
 ## How to
