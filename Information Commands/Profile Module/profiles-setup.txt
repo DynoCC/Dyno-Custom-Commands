@@ -1,12 +1,12 @@
 {delete}
 {silent}
 {require:serverAdmin}
-{choose0:Welcome to the DynoCC Interactive Setup!
+{choose0:Welcome to the Profiles Interactive Setup!
 Please re run the command with a number to begin.
 
->>> **DynoCC Setup**
-:white__small_square: **Profile Module [Setup]** - ``1``
-:white__small_square: **Profile Module [Removal]** - ``2``
+>>> **Profiles Setup**
+:white__small_square: **Profile [Setup]** - ``1``
+:white__small_square: **Profile [Removal]** - ``2``
 }
 {choose1:ta}
 {choose2:ag}
