@@ -99,4 +99,3 @@ Once you have them setup you can enable or disbale the commands with `rpg [enabl
 
 - The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are able to continue chatting in here until they have been raised. This channel should be hidden by default to all except the `Deceased` and the `divine-council`.
 
-- The `rpg-setup` command will create the required roles and channels for you, but will not alter or set their permissions. You will need to do this part yourself.
