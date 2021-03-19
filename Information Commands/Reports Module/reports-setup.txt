@@ -7,9 +7,9 @@ Please re run the command with a number to begin.
 :white_small_square: **Reports [Setup]** - ``1``
 :white_small_square: **Reports [Removal]** - ``2``
 }
-{choose1:han}
-{choose2:ann}
-{!c{$choice1}nel create reports}
-{!c{$choice1}nel create report-log}
-{!ch{$choice2}el delete reports}
-{!ch{$choice2}el delete report-log}
+{choose1:channel create}
+{choose2:channel delete}
+{!{$choice1} reports}
+{!{$choice1} report-log}
+{!{$choice2} reports}
+{!{$choice2} report-log}
