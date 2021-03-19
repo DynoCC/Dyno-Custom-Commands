@@ -1,6 +1,7 @@
-{delete}
+{{$choice2}}
 {silent}
 {require:serverAdmin}
+{choose0:
 Welcome to the Avelon RPG Interactive Setup!
 Please re run the command with a number to begin.
 
@@ -9,46 +10,44 @@ Please re run the command with a number to begin.
 :white_small_square: **Avelon RPG - Roles [Setup]** - ``2``
 :white_small_square: **Avelon RPG - Channels [Removal]** - ``3``
 :white_small_square: **Avelon RPG - Roles [Removal]** - ``4``
-
-{choose1:ann}
-{choose2:ol}
-{choose3:ann}
-{choose4:ol}
-{!ch{$choice1}el create world-gates}
-{!ch{$choice1}el create the-crossroads}
-{!ch{$choice1}el create the-crypt}
-{!ch{$choice1}el create the-bloodfields}
-{!ch{$choice1}el create the-deathpit}
-{!ch{$choice1}el create castle-grounds}
-{!ch{$choice1}el create castle-courtyard}
-{!ch{$choice1}el create sacrificial-offerings}
-{!ch{$choice1}el create divine-council}
-{!r{$choice2}e create Adventurer}
-{!r{$choice2}e create Infected}
-{!r{$choice2}e create Cursed}
-{!r{$choice2}e create Blighted}
-{!r{$choice2}e create Haunted}
-{!r{$choice2}e create Undead}
-{!r{$choice2}e create Bleeding}
-{!r{$choice2}e create Sacrificed}
-{!r{$choice2}e create Festered}
-{!r{$choice2}e create Deceased}
-{!ch{$choice3}el delete world-gates}
-{!ch{$choice3}el delete the-crossroads}
-{!ch{$choice3}el delete the-crypt}
-{!ch{$choice3}el delete the-bloodfields}
-{!ch{$choice3}el delete the-deathpit}
-{!ch{$choice3}el delete castle-grounds}
-{!ch{$choice3}el delete castle-courtyard}
-{!ch{$choice3}el delete sacrificial-offerings}
-{!ch{$choice3}el delete divine-council}
-{!r{$choice4}e delete Adventurer}
-{!r{$choice4}e delete Infected}
-{!r{$choice4}e delete Cursed}
-{!r{$choice4}e delete Blighted}
-{!r{$choice4}e delete Haunted}
-{!r{$choice4}e delete Undead}
-{!r{$choice4}e delete Bleeding}
-{!r{$choice4}e delete Sacrificed}
-{!r{$choice4}e delete Festered}
-{!r{$choice4}e delete Deceased}
+}
+{choose1:create}
+{choose2:delete}
+{!channel {$choice1} world-gates}
+{!channel {$choice1} the-crossroads}
+{!channel {$choice1} the-crypt}
+{!channel {$choice1} the-bloodfields}
+{!channel {$choice1} the-deathpit}
+{!channel {$choice1} castle-grounds}
+{!channel {$choice1} castle-courtyard}
+{!channel {$choice1} sacrificial-offerings}
+{!channel {$choice1} divine-council}
+{!role {$choice1} Adventurer}
+{!role {$choice1} Infected}
+{!role {$choice1} Cursed}
+{!role {$choice1} Blighted}
+{!role {$choice1} Haunted}
+{!role {$choice1} Undead}
+{!role {$choice1} Bleeding}
+{!role {$choice1} Sacrificed}
+{!role {$choice1} Festered}
+{!role {$choice1} Deceased}
+{!channel {$choice2} world-gates}
+{!channel {$choice2} the-crossroads}
+{!channel {$choice2} the-crypt}
+{!channel {$choice2} the-bloodfields}
+{!channel {$choice2} the-deathpit}
+{!channel {$choice2} castle-grounds}
+{!channel {$choice2} castle-courtyard}
+{!channel {$choice2} sacrificial-offerings}
+{!channel {$choice2} divine-council}
+{!role {$choice2} Adventurer}
+{!role {$choice2} Infected}
+{!role {$choice2} Cursed}
+{!role {$choice2} Blighted}
+{!role {$choice2} Haunted}
+{!role {$choice2} Undead}
+{!role {$choice2} Bleeding}
+{!role {$choice2} Sacrificed}
+{!role {$choice2} Festered}
+{!role {$choice2} Deceased}
