@@ -15,7 +15,7 @@ Please re run the command with a number to begin.
 {choose2:ol}
 {choose3:ann}
 {choose4:le}
-{!c{$choice1}nel  create world-gates}
+{!c{$choice1}nel create world-gates}
 {!c{$choice1}nel create the-crossroads}
 {!c{$choice1}nel create the-crypt}
 {!c{$choice1}nel create the-bloodfields}
