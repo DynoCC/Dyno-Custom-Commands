@@ -1,5 +1,0 @@
-{!tag pr-{user.id}}
-{!tag pr-{user.id}-info}
-{!tag pr-setinfo}
-{!tag pr-$1.user.id}
-{!tag pr-$1.user.id-info}
