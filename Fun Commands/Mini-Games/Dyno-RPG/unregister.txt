@@ -1,5 +1,6 @@
 {delete}
 {silent}
+{require: Adventurer}
 {!role {user} -Adventurer}
 {!role {user} -Blighted}
 {!role {user} -Sacrificed}
