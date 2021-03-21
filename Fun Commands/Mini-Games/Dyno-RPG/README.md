@@ -43,15 +43,6 @@ These commands can be used to attack other players, but be warned some come with
     - `cointoss`: One of the available deathmatches. Use this command when the coind toss deathmatch is chosen.
     - `insult`: One of the available dethmatches. Use this command when the insult dethmatch is chosen.
 
-**Deathmatch Commands**
-
-These commands are uses only in `the-deathpits`
-
- - `deathmatch`: challenge an Adventurer to a random deathmatch.
- - `cointoss`: One of the available tpyes of deathmatches. When this is chosen using this command will respond with a random **__Survival__** or **__Death__**. **Usage**: `cointoss`
- - `insult`: One of the available tpyes of deathmatches. When this is chosen, using this will generate a random outrageous insult. **Usage**: `insult [@user]`
-
-
 **Medica Commands**
 
 These commands can be used to heal status ailments.
