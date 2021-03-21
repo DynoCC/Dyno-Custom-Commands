@@ -4,7 +4,7 @@ permalink: /FunCommands/MiniGames/DynoRPG/
 ---
 
 # Dyno RPG
-Otherwise called **Avelon RPG**, Dyno RPG is a RPG Game made using Dyno CC and inspired by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
+**Dyno RPG** is a RPG Game made using Dyno Custom Commands and inspired by the infection minigame and a few other custom commands. It is planned to be a community project to be built into something everybody can enjoy. As such everyone is welcome to add their own commands to it as they desire.
 
 
 ## How to
@@ -26,7 +26,8 @@ A Full list of available commands for use with **Dyno RPG**
 
 This command is used to join the world of Avelon
 
- - `register`: Grants the **Adenturer** role and enters you into the forsaken world of Avelon
+ - `register`: Grants the **Adenturer** role and enters you into the forsaken world of **Avelon**.
+ - `unregister`: Remove the Adventurer role and leave the forsaken world of **Avelon**.
 
 **Attack Commands**
 
