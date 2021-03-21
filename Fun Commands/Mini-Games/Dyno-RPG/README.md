@@ -38,6 +38,9 @@ These commands can be used to attack other players, but be warned some come with
  - `infect:` Infect another Advenurer.
  - `fester`: Cast Fester on another Adventurer. Can only be used by Infected Adventurers.
  - `plague`: Cast a plague infecting all Adventurers. Can only be used by infected Adventurers.
+ - `deathmatch`: Challenge an Adventurer to a deathmatch.
+    - `cointoss`: One of the available deathmatches. Use this command when the coind toss deathmatch is chosen.
+    - `insult`: One of the available dethmatches. Use this command when the insult dethmatch is chosen.
 
 **Deathmatch Commands**
 
