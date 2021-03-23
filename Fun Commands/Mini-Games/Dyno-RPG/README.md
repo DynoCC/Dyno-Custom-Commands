@@ -19,7 +19,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 - The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are to be considered dead and are only able to continue chatting in here until they have been raised. This channel should be hidden by default to all except the `Deceased` and the `divine-council`.
 
-## DynoRPG Commands
+## Dyno RPG Commands
 
 A full list of available commands for use with **Dyno RPG**
 
@@ -54,7 +54,7 @@ These commands can be used to heal status ailments.
 
 **Divine Commands**
 
-These commands can only be used by the Divine Council *[aka serverMods]*
+These commands can only be used by the Divine Council *[aka server mods]*
 
  - `divinecure`: Cures all Adventurers of all ailments.
  - `dyno-rpg [enable|disable]`: Enable or Disable **all** Dyno RPG Commands.
