@@ -8,9 +8,6 @@
 {!role $1 -Deceased}
 {!role $1 -Undead}
 {!role $1 -Haunted}
-{dm:$1} Looks like someone is looking out for you in this forsaken world... 
-You have been raised from the dead in **{server}**.
-https://media.tenor.com/images/bdd02132633a1881605b95d44f87dc91/tenor.gif
 {!announce:#world-gates}
 **{user.username}** has cast raise on **$1**
 https://media.tenor.com/images/bdd02132633a1881605b95d44f87dc91/tenor.gif
