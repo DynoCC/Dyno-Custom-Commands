@@ -13,7 +13,7 @@ A simple guide for setting up roles and channels for the commands to work as int
 
 - The `divine-council` channel must be only be useable by server mods as it is the channel required for using the Divine Council commands.
 
-- When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that **Dyno RPG** is intended to apply specific effects to each role.
+- When creating the roles for the commands, make sure to set the channel permissions. The roles you will need to setup channel permissions for are **Adventurer**, **Haunted**, and **Deceased**. **Haunted** and **Deceased** must be unable to chat in any channel other than `the-crypt`. **Adventurer** must be able to post messages and embed images in all channels except `the-crypt` and `divine-council`.
 
 - The `Adventurer` role is the base role for playing Dyno RPG.
 
