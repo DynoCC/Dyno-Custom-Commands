@@ -38,7 +38,7 @@ These commands are for use with #the-deathpits.
 
 
 **__Divine Commands__**
-These commands can only be used by the Divine Council *[aka serverMods]*.
+These commands can only be used by the Divine Council *[aka server mods]*.
 
 ```ml
  - divinecure: Cures all Adventurers of all ailments
