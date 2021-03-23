@@ -28,7 +28,7 @@ A full list of available commands for use with **Dyno RPG**
 This command is used to join the world of Avelon
 
  - `register`: Grants the **Adenturer** role and enters you into the forsaken world of **Avelon**.
- - `unregister`: Remove the Adventurer role and leave the forsaken world of **Avelon**.
+ - `unregister`: Removes the **Adventurer** role and frees you of the forsaken world of **Avelon**.
 
 **Attack Commands**
 
@@ -85,4 +85,3 @@ As well as the following channels:
 - `castle-courtyard`
 - `sacrificial-offerings`
 - `divine-council`
-
