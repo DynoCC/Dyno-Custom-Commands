@@ -1,7 +1,7 @@
 {delete}
 {silent}
 {require: Adventurer}
-**__Avelon RPG Commands__**
+**__DynoRPG Commands__**
 A Full List of Commands for use with **Avelon RPG**
 
 
