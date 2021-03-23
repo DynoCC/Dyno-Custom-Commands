@@ -28,7 +28,7 @@ These commands can be used to heal status ailments.
 
 
 **__Deathmatch Commands__**
-These commands are for use with #the-deathpits.
+These commands are for use with {#the-deathpits}.
 
 ```ml
  - deathmatch: Challenge another Adveturer to a deathmatch
