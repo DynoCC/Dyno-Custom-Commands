@@ -11,13 +11,13 @@ permalink: /FunCommands/MiniGames/DynoRPG/
 A simple guide for setting up roles and channels for the commands to work as intended
 
 
-- The `divine-council` channel should be only be useable by serverMods as it is the channel required for using the Divine Council commands.
+- The `divine-council` channel must be only be useable by server mods as it is the channel required for using the Divine Council commands.
 
-- When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that this RPG is best when each role has a specific effect on the one carrying it. 
+- When creating the roles for the commands, make sure to determine which roles have which effects. The effects will be entirely up to the ones setting it up, so know that **Dyno RPG** is intended to apply specific effects to each role.
 
 - The `Adventurer` role is the base role for playing Dyno RPG.
 
-- The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are to be considered dead and are only able to continue chatting in here until they have been raised. This channel should be hidden by default to all except the `Deceased` and the `divine-council`.
+- The channel `the-crypt` was created for use with the `Deceased` role. All people who carry this role are to be considered dead and are only able to continue chatting in here until they have been raised. This channel must be hidden by default to all except the `Deceased` and the `divine-council`.
 
 ## Dyno RPG Commands
 
