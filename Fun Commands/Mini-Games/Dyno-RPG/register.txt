@@ -1,5 +1,4 @@
 {delete}
-{silent}
 {!role {user} +Adventurer}
 {!announce:#world-gates}
 Welcome to the world of Avelon, {user.username}! 
