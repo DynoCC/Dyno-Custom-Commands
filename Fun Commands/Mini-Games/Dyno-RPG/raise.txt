@@ -1,5 +1,4 @@
 {delete}
-{silent}
 {require: Adventurer}
 {!role $1 -Blighted}
 {!role $1 -Festered}
