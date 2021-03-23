@@ -1,5 +1,4 @@
 {delete}
-{silent}
 {require: serverAdmin}
 {!cc $1 blight}
 {!cc $1 cointoss}
