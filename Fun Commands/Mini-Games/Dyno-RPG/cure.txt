@@ -1,5 +1,4 @@
 {delete}
-{silent}
 {require: Adventurer}
 {!role -Infected}
 {!role -Bleeding}
