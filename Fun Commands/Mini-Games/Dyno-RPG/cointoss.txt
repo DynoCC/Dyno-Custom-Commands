@@ -86,7 +86,7 @@ Sme old guy - Nobody knows who this guys is, or why this guy showed
 **__Death__** 
 {!role {user} +Deceased}
 **Possible Cause of Death**
-Fell from the attic looking for missing jigsaw piece
+Fell from the attic looking for a missing jigsaw piece
 
 **__Other likely causes__**
 Killed by poisoned ice lollies
