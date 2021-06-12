@@ -1,3 +1,7 @@
+{delete}
+{silent}
+{require: Adventurer}
+{require: #the-deathpits}
 {choose:
 is a piteously myopic half-wit and a horribly atrocious halitosis-infested offensively uninspired malodorous half-wit;
 is a sickly pedestrian wretch and a putrid foul-smelling malfunctioning little twerp;

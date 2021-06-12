@@ -1,4 +1,10 @@
+{delete}
+{silent}
+{require: Adventurer}
 {!role $1 +Blighted}
+{!role $1 +Deceased}
+{!role {user} +Blighted}
+{!role {user} +Deceased}
 **{user.username}** has cast Blight on **$1**!
 
 The sound of buzzing can be heard in the distance. **$1** looks up to see what it is. 

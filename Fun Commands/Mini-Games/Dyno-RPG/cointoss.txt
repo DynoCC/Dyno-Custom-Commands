@@ -1,5 +1,18 @@
+{delete}
+{silent}
+{require: Adventurer}
+{require: #the-deathpits}
 {choose:
+**__Survived__**
+Chickened out and ran away like a bish!;
+**__Survived__**
+Kicked the aggrivator in the balls and ran away;
+**__Survived__**
+Because JOHN MOTHER $#@%ING% CENA!;
+**__Survived__**
+The Grim Reaper was simply not fealing it and decided to scarf down yogurt and ice cream tonight instead;
 **__Death__** 
+{!role {user} +Deceased}
 **Possible Cause of Death**
 Killed by poisoned Ice Cream
 
@@ -24,6 +37,7 @@ Hanna Montanna - Deranged Slave
 **Education**: The $#@% is Education?!?
 **Political Views**: Cthulu for President! $#@% YEEESS!!!;
 **__Death__** 
+{!role {user} +Deceased}
 **Possible Cause of Death**
 Fell off a cliff
 
@@ -48,6 +62,7 @@ Rick James - Because RICK JAMES $#%^@
 **Education**: Failed Adventurers Academy
 **Political Views**: What are these again?;
 **__Death__** 
+{!role {user} +Deceased}
 **Possible Cause of Death**
 Attacked by a rabid ferret
 
@@ -57,20 +72,21 @@ Killed by poisoned jammy biscuits
 Influenza
 
 **__Noteworthy Funeral Attendees__**
-Sme old guy - Nobody knows who this guys is, or why this guy showed
+Some old guy - Nobody knows who this guys is, or why this guy showed
 
 **__Basic Information__**
 **Name**: {user.username}
 **Date of Birth**: Sunday, 10th Jan 1982
 **Star Sign**: 	Capricorn
 **Profession**: Adventurer
-**Religion**: The Church f Laterday Crooks
+**Religion**: The Church of Laterday Crooks
 **Sexuality**: Five Finger Discount-Sexual
 **Education**: The Federal Penitentiary
 **Political Views**: The Only Good President is a Wealthy Idiot;
 **__Death__** 
+{!role {user} +Deceased}
 **Possible Cause of Death**
-Fell from the attic looking for missing jigsaw piece
+Fell from the attic looking for a missing jigsaw piece
 
 **__Other likely causes__**
 Killed by poisoned ice lollies
@@ -78,7 +94,7 @@ Killed by a storm, trying to get the perfect photograph
 Accidental Poisoning
 
 **__Noteworthy Funeral Attendees__**
-None
+None - Because nobody cared to show up
 
 **__Basic Information__**
 **Name**: {user.username}
@@ -86,7 +102,7 @@ None
 **Star Sign**: Capricorn
 **Profession**: Adventurer
 **Religion**: Paegan
-**Sexuality**:Cthulu-sexual
+**Sexuality**: Cthulu-sexual
 **Education**: The Church of Sacrificial Offerings for Chtulu
 **Political Views**: Cthulu is Love.. Cthulu is Life.. CTHULU IS LOVE.. CTHULU IS LIFE......;
 }

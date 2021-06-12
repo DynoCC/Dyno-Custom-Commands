@@ -1,2 +1,7 @@
-{choose:coin toss;roulette;insults}
+{delete}
+{silent}
+{require: Adventurer}
+{require: #the-deathpits}
+{choose:coin toss;insults}
+{!announce:#the-deathpits}
 **{user.username}** has challenged **$1** to a deathmatch! The trial will be {choice}!

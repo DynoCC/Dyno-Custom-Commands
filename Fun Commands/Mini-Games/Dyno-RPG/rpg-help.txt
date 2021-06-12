@@ -1,0 +1,45 @@
+{delete}
+{silent}
+{require: Adventurer}
+**__DynoRPG Commands__**
+A Full List of Commands for use with **Avelon RPG**
+
+
+**__Attack Commands__**
+These commands can be used to attack other players, but be warned some come with *side effects*.
+
+```ml
+ - stab: Stab another Adventurer 
+ - blight: Cast Blight on another Adventurer
+ - sacrifice: Sacrifice another Adventurer to a random deity. Can only be used in #sacrificial-offerings.
+ - infect: Infect another Advenurer.
+ - fester: Cast Fester on another Adventurer. Can only be used by Infected Adventurers.
+ - plague: Cast a plague infecting all Adventurers. Can only be used by infected Adventurers.
+```
+
+**__Medica Commands__**
+These commands can be used to heal status ailments.
+
+```ml
+ - treat: Cure another Adventurer of all ailments
+ - cure: Cure yourself of all status ailments
+ - raise: Raise another Adventurer from the dead
+```
+
+
+**__Deathmatch Commands__**
+These commands are for use with {#the-deathpits}.
+
+```ml
+ - deathmatch: Challenge another Adveturer to a deathmatch
+ - insult: Send a random insult to challenger during an insults deathmatch
+ - cointoss: Toss a coin during a cointoss deathmatch 
+```
+
+
+**__Divine Commands__**
+These commands can only be used by the Divine Council *[aka server mods]*.
+
+```ml
+ - divinecure: Cures all Adventurers of all ailments
+```

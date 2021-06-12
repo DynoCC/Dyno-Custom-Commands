@@ -1,4 +1,8 @@
+{delete}
+{silent}
+{require: Adventurer}
 {!role $1 +Cursed}
+{!role $1 +Deceased}
 **$1** has been cursed...
 
 **$1** attempts to move, but quickly realizes the futility.... 

@@ -1,0 +1,13 @@
+{delete}
+{require: Adventurer}
+{!role {user} -Adventurer}
+{!role {user} -Blighted}
+{!role {user} -Sacrificed}
+{!role {user} -Deceased}
+{!role {user} -Infected}
+{!role {user} -Haunted}
+{!role {user} -Cursed}
+{!role {user} -Bleeding}
+{!announce:#world-gates}
+{user.username} has left the world of **Avelon** behind. 
+At least this one was able to escape. Many have tried but few were so lucky as to succeed....
