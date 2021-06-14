@@ -1,0 +1,4 @@
+{delete}
+{require:serverMod}
+{!role $1 $2 $3}
+{!setnick $1 $4+}
